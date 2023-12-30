@@ -35,7 +35,7 @@ Well, everything is ready.[pcms]
 *2152|
 [fc]
 Today, I'm heading over to Makoto's place to start on the restoration[r]
-work. With only two full days left until the camp, I need to get[r]
+work. With just two full days left until the camp, I need to get[r]
 psyched up.[pcms]
 
 ;//★_主人公宅　居間　朝・昼　bg42a.bmp
@@ -43,14 +43,14 @@ psyched up.[pcms]
 
 *2153|
 [fc]
-As I started down the stairs, my mother's voice came flying from the[r]
+As I started down the stairs, my mother's voice flew at me from the[r]
 living room.[pcms]
 
 *2154|
 [fc]
 [vo_mob s="nagi_0003"]
 [ns]Nagisa[nse]
-"Daisuke--! Have you done your homework--?!"[pcms]
+"Daisuke--! Have you done your homework?!"[pcms]
 
 *2155|
 [fc]
@@ -63,8 +63,8 @@ So, I quickly ignored her and opened the front door.[pcms]
 
 *2157|
 [fc]
-Her voice, tinged with anger, chased after me from behind, but I[r]
-immediately closed the front door and shut it out from my ears.[pcms]
+A voice tinged with anger chased after me from behind, but I[r]
+immediately closed the door and shut it out from my ears.[pcms]
 
 ;//システムアイコン消去＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -90,7 +90,7 @@ immediately closed the front door and shut it out from my ears.[pcms]
 [fc]
 [vo_mak s="mako_0217"]
 [ns]Makoto[nse]
-"...It's really hot again today..."[pcms]
+"...It's so hot again today..."[pcms]
 
 *2160|
 [fc]
@@ -111,7 +111,7 @@ imposing stance.[pcms]
 *2163|
 [fc]
 It sounds nice to say she's watching over me, but it's more like[r]
-supervision. Maybe even surveillance...[pcms]
+supervision. Almost like surveillance.[pcms]
 
 *2164|
 [fc]
@@ -124,7 +124,7 @@ job that fits the phrase "slow and steady."[pcms]
 [fc]
 [vo_mak s="mako_0219"]
 [ns]Makoto[nse]
-"You should be a bit more careful with that spot there."[pcms]
+"You should be a bit more careful with that spot."[pcms]
 
 *2166|
 [fc]
@@ -144,15 +144,15 @@ job that fits the phrase "slow and steady."[pcms]
 
 *2169|
 [fc]
-Perhaps because of the heat, my responses were half-hearted. Maybe it[r]
-was the heat, but Makoto wasn't pressing me much on my replies either.[r]
-Normally, she would add a word or two more.[pcms]
+Perhaps due to the heat, my responses were half-hearted. Maybe because[r]
+of the heat, Makoto wasn't pressing me much either. Usually, she would[r]
+have added a word or two more.[pcms]
 
 *2170|
 [fc]
 Since August began, the daily high temperatures have been climbing[r]
 steadily. Even in this area, which is classified as a heavy snowfall[r]
-zone in winter, the daytime highs have become unbearable.[pcms]
+region in winter, the daytime highs have become unbearable.[pcms]
 
 [ChrSetEx layer=5 chbase="ab_bA04"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -175,14 +175,14 @@ zone in winter, the daytime highs have become unbearable.[pcms]
 [fc]
 [vo_koz s="kozu_0160"]
 [ns]Kozue[nse]
-"Hello~! Daisuke-niichan, working hard~? Makoto-chan, good job too~"[pcms]
+"Hello~! Daisuke-niichan, working hard~? Makoto-chan too, good job~"[pcms]
 
 *2174|
 [fc]
 Kozue entered with a convenience store bag in hand. It wasn't on a set[r]
 schedule, but she was like a regular delivery service. She usually[r]
 brought us cold drinks or ice cream and would sit in her usual chair[r]
-watching us until she left with us at the end.[pcms]
+watching us until the end when we would go home together.[pcms]
 
 [ChrSetEx layer=3 chbase="ab_bA02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
@@ -198,8 +198,8 @@ watching us until she left with us at the end.[pcms]
 [fc]
 [vo_koz s="kozu_0161"]
 [ns]Kozue[nse]
-"Geez, I bet when you say you've been waiting, you mean for my treats,[r]
-right?"[pcms]
+"Geez, I bet when you say you've been waiting, you're just talking[r]
+about my refreshments, right?"[pcms]
 
 [ChrSetEx layer=3 chbase="ab_bC02"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
@@ -207,7 +207,7 @@ right?"[pcms]
 [fc]
 [vo_mak s="mako_0223"]
 [ns]Makoto[nse]
-"Ahaha! Spot on! But really, I was genuinely waiting for you too,[r]
+"Ahaha! Spot on! But really, I was genuinely waiting for you to come,[r]
 Kozue-chan."[pcms]
 
 [ChrSetEx layer=4 chbase="nt_bA01"][ChrSetXY layer=4 x=324 y=40][trans_c cross time=150]
@@ -222,7 +222,7 @@ break, shall we?"[pcms]
 *2179|
 [fc]
 [ns]Daisuke[nse]
-"Hmm. Sorry, I'm almost done with this part. My bad, can you keep[r]
+"Hmm. Sorry, I'm almost done with this part. My bad, but can you keep[r]
 Makoto company for a bit?"[pcms]
 
 [ChrSetEx layer=3 chbase="ab_bC01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -240,7 +240,7 @@ urya!"[pcms]
 [fc]
 [vo_koz s="kozu_0163"]
 [ns]Kozue[nse]
-"No way, that's different~. I was asked to keep Makoto-chan company~.[r]
+"No way, that's not it~. I was asked to keep Makoto-chan company~.[r]
 Ahh, geez."[pcms]
 
 *2182|
@@ -249,8 +249,8 @@ Their usual playful banter bounced around behind me.[pcms]
 
 *2183|
 [fc]
-Listening to them, I continued to diligently sand the frame. I wanted[r]
-to make as much progress as possible.[pcms]
+Listening to them, I continued to diligently sand down the frame. I[r]
+wanted to make as much progress as possible.[pcms]
 
 [ChrSetEx layer=4 chbase="nt_bA01"][ChrSetXY layer=4 x=324 y=40][trans_c cross time=150]
 
@@ -258,7 +258,7 @@ to make as much progress as possible.[pcms]
 [fc]
 [vo_koz s="kozu_0164"]
 [ns]Kozue[nse]
-"Hey, Makoto-chan. I have something to discuss... can you lend me an[r]
+"Hey Makoto-chan. I have something to discuss... can you lend me an[r]
 ear?"[pcms]
 
 [ChrSetEx layer=3 chbase="ab_bC01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
@@ -278,8 +278,8 @@ about a quick ride on the bike?"[pcms]
 [fc]
 [vo_koz s="kozu_0165"]
 [ns]Kozue[nse]
-"Really? Yay, I'm so happy. But is it okay for Daisuke-niichan to be[r]
-left alone?"[pcms]
+"Really? Yay, that makes me happy. But is it okay to leave Daisuke-[r]
+niichan alone?"[pcms]
 
 [ChrSetEx layer=3 chbase="ab_bC01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
@@ -305,9 +305,9 @@ I stopped my work and turned back to look at Makoto and Kozue.[pcms]
 [fc]
 [vo_mak s="mako_0227"]
 [ns]Makoto[nse]
-"So, we're going to go shopping on the bike for a bit. There are some[r]
-things we need for the camp. You'll be okay by yourself, right[r]
-Daisuke?"[pcms]
+"Hey, we're going to go shopping on the bike for a bit with Kozue-[r]
+chan. There are some things we need for the camp. You'll be okay by[r]
+yourself, right Daisuke?"[pcms]
 
 *2191|
 [fc]
@@ -316,8 +316,8 @@ Daisuke?"[pcms]
 
 *2192|
 [fc]
-I swallowed the words "I can get more work done when they're not[r]
-around..."[pcms]
+I swallowed the words 'I can get more work done when you're not[r]
+around...'[pcms]
 
 [ChrSetEx layer=3 chbase="ab_bC01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
@@ -333,7 +333,7 @@ around..."[pcms]
 [fc]
 [vo_koz s="kozu_0166"]
 [ns]Kozue[nse]
-"Then, we're off, Daisuke-niichan. Make sure you drink what we bought[r]
+"Then, we're off, Daisuke-niichan. Make sure to drink what we bought[r]
 and take breaks from time to time, okay?"[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -345,7 +345,7 @@ and take breaks from time to time, okay?"[pcms]
 *2195|
 [fc]
 Leaving those words behind, Makoto handed Kozue a spare helmet, and[r]
-the two of them cheerfully rode off on the bike.[pcms]
+the two of them cheerfully took off on the bike.[pcms]
 
 *2196|
 [fc]
@@ -353,13 +353,13 @@ The pleasant sound of the engine quickly faded into the distance.[pcms]
 
 *2197|
 [fc]
-With this heat, I couldn't help but envy Makoto and Kozue as they sped[r]
-away on the bike, cutting through the wind.[pcms]
+With this heat, I couldn't help but feel envious of Makoto and Kozue[r]
+as they rode away, cutting through the wind on the bike.[pcms]
 
 *2198|
 [fc]
 Once it's finished, I'll be able to slice through the wind too. With[r]
-that thought, I intended to make as much progress as possible, but--[pcms]
+that thought in mind, I wanted to make as much progress as possible--[pcms]
 
 ;//嶺岸・■_自動車がゆっくり近づいてきて停車する音
 ;//se124.ogg
@@ -372,12 +372,11 @@ that thought, I intended to make as much progress as possible, but--[pcms]
 
 *2200|
 [fc]
-It's definitely time for a break. I reached for the refreshments Kozue[r]
-had brought.[pcms]
+It's definitely time for a break. I reached for Kozue's refreshments.[pcms]
 
 *2201|
 [fc]
-At the same time, I heard a car engine -- a familiar sound -- and it[r]
+At the same time, I heard a car engine--a familiar sound--and it[r]
 stopped in front of the garage.[pcms]
 
 ;//■_自動車のドア開ける
@@ -397,9 +396,9 @@ stopped in front of the garage.[pcms]
 
 *2202|
 [fc]
-I heard the sound of doors opening and closing, including the sliding[r]
-door, and as expected, two familiar figures and one unexpected person[r]
-appeared at the garage.[pcms]
+The sound of doors opening and closing reached my ears, including the[r]
+noise of a sliding door, and as expected, two familiar figures and one[r]
+unexpected person appeared at the garage.[pcms]
 
 [ChrSetEx layer=3 chbase="is_aA01"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="ki_aA01"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
@@ -460,9 +459,9 @@ appeared at the garage.[pcms]
 *2210|
 [fc]
 [ns]Shou[nse]
-"We're going to buy some stuff we need for the camp, and then maybe[r]
-grab some Baba-Hera ice cream on the way back. We thought we might as[r]
-well invite you guys too."[pcms]
+"We were thinking of picking up some things we need for the camp and[r]
+then maybe grabbing some Baba Hera ice cream on the way back. We[r]
+figured we might as well invite you guys too."[pcms]
 
 [ChrSetEx layer=4 chbase="ma_bB01"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -489,22 +488,23 @@ But I want to make progress on my work today.[pcms]
 *2215|
 [fc]
 With Makoto gone, I feel like I can get even more done. Plus, I'm[r]
-pretty sure Makoto's relatives are coming tomorrow.[pcms]
+pretty sure Makoto's relatives are coming over tomorrow.[pcms]
 
 *2216|
 [fc]
-That'll probably make things a bit hectic and could affect my work.[pcms]
+Once they're here, things are bound to get hectic, which might affect[r]
+my work.[pcms]
 
 *2217|
 [fc]
-Thinking about it, it's probably better to make progress on my work[r]
-today.[pcms]
+Considering that, it's probably better to focus on work today after[r]
+all.[pcms]
 
 *2218|
 [fc]
 [ns]Daisuke[nse]
-"Sorry. I appreciate the invite, but I want to focus on my work today.[r]
-I can't go, unfortunately."[pcms]
+"Sorry. I appreciate the invite, but I want to focus on work today. My[r]
+apologies, but I can't join you."[pcms]
 
 [ChrSetEx layer=3 chbase="is_aA09"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
@@ -520,14 +520,14 @@ I can't go, unfortunately."[pcms]
 [vo_sae s="sae_0078"]
 [ns]Saeko[nse]
 "Oh dear, that's too bad. But it can't be helped, right Shou-chan? You[r]
-understand his feelings?"[pcms]
+understand his feelings, don't you?"[pcms]
 
 [ChrSetEx layer=3 chbase="is_aA01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2221|
 [fc]
 [ns]Shou[nse]
-"Well yeah. Guess we'll just have to go without them."[pcms]
+"Well yeah. Guess we'll just have to give up and go by ourselves."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -542,18 +542,18 @@ understand his feelings?"[pcms]
 
 *2223|
 [fc]
-Masaka-san looked sad, and it gave me a pang of guilt.[pcms]
+Masaka-san looked sad, and it made my heart twinge a little.[pcms]
 
 *2224|
 [fc]
-But in two days we'll all be able to enjoy ourselves at the camp. To[r]
+But in two days we'll be able to have fun together at the camp. To[r]
 fully enjoy that time, I want to make as much progress as possible[r]
 now.[pcms]
 
 *2225|
 [fc]
 [ns]Daisuke[nse]
-"Masaka-san...I'm sorry. Invite me again next time, okay? You too,[r]
+"Masaka-san...I'm sorry. Invite me again next time, okay? You too[r]
 Shou-kun and Saeko-san."[pcms]
 
 ;//キャラ消し
@@ -565,8 +565,8 @@ Shou-kun and Saeko-san."[pcms]
 *2226|
 [fc]
 [ns]Shou[nse]
-"Oh, it's alright. We'll have plenty of fun together the day after[r]
-tomorrow anyway. We'll just enjoy some cold---ice cream for now."[pcms]
+"Oh, it's fine. We'll have plenty of fun together the day after[r]
+tomorrow anyway. We'll just go enjoy some cool---ice cream for now."[pcms]
 
 [ChrSetEx layer=4 chbase="ki_aA02"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -597,25 +597,24 @@ cream together when you have some free time, okay?"[pcms]
 
 *2230|
 [fc]
-Shou and Saeko waved their hands as they left while Masaka-san looked[r]
-dejectedly downcast. It might be an exaggeration to say she trudged[r]
-away, but seeing her like that, I was almost driven by the impulse to[r]
-chase after her and take back what I said, but I held back and watched[r]
-the three of them leave.[pcms]
+Shou-kun and Saeko-san waved their hands as they left while Masaka-san[r]
+looked a bit downcastmaybe it's an exaggeration to say she trudged[r]
+awaybut still she gave a small bow at the exit of the garage.[pcms]
 
 *2231|
 [fc]
-Alright, let's get fired up and make as much progress as possible. To[r]
-truly enjoy the camp the day after tomorrow![pcms]
+Seeing her like that, I almost impulsively wanted to chase after her[r]
+and take back what I said, but I held back and saw the three of them[r]
+off.[pcms]
 
 *2232|
 [fc]
-I gulped down Kozue's refreshments and psyched myself up again.[pcms]
+Alright, let's get fired up and make as much progress as possible. For[r]
+the sake of thoroughly enjoying the camp!![pcms]
 
 *2233|
 [fc]
-"See you tomorrow," Sendou-kun's words from yesterday. Maybe I was[r]
-holding a little hope for those words.[pcms]
+I gulped down Kozue's refreshments and psyched myself up again.[pcms]
 
 ;//♯_ブラックアウト
 ;//井上　ここでは処理しない
@@ -667,61 +666,59 @@ holding a little hope for those words.[pcms]
 
 *2234|
 [fc]
-But Sendou-kun chose his bike restoration over going out with me and[r]
-everyone else... He's so engrossed and passionate about his[r]
-restoration work.[pcms]
+"See you tomorrow," Sendou-kun's words from yesterday. Maybe I was[r]
+holding a little bit of hope for those words.[pcms]
 
 *2235|
 [fc]
-I'm a bit envious... Really envious... It's sad that we couldn't go[r]
-out together, but I'm very envious of Sendou-kun having something he's[r]
-so devoted to.[pcms]
+But Sendou-kun chose his bike restoration over going out with me and[r]
+everyone else... He's so engrossed in his restoration work.[pcms]
 
 *2236|
+[fc]
+I'm a bit envious... Really envious... It's sad that we couldn't go[r]
+out together, but I'm very envious of Sendou-kun having something he's[r]
+so passionate about.[pcms]
+
+*2237|
 [fc]
 I haven't found my "something" that I can be completely absorbed in[r]
 yet. Sure, I like reading, and I think I'm engrossed when I'm doing[r]
 it...[pcms]
 
-*2237|
-[fc]
-But if someone were to invite me while I'm reading, I would[r]
-undoubtedly put the book down. Reading is only of that much importance[r]
-to me...[pcms]
-
 *2238|
 [fc]
-Maybe it would be different if, as Sendou-kun said, I could share my[r]
-thoughts on books with everyone else.[pcms]
+But if someone were to invite me out while I'm reading, I would[r]
+definitely put the book down. Reading is just that to me...[pcms]
 
 *2239|
 [fc]
-But right now, I can't find a way to do that... and I don't have the[r]
-courage to interact with a variety of people I don't know.[pcms]
+Maybe it would be different if, as Sendou-kun said, I could share my[r]
+thoughts on books with everyone.[pcms]
 
 *2240|
 [fc]
-Compared to Sendou-kun and Makoto-san, maybe I'm having a lonely[r]
-youth...[pcms]
+But right now, I can't find a way to do that... and I don't have the[r]
+courage to interact with a variety of strangers.[pcms]
 
 *2241|
 [fc]
-I don't know about Kozue-san's hobbies yet, but she seems to be[r]
-laughing and enjoying every day.[pcms]
+Compared to Sendou-kun and Makoto-san, maybe I'm living a lonely[r]
+youth...[pcms]
 
 *2242|
 [fc]
-That alone is more than enough to make me envious.[pcms]
+I don't know Kozue-san's hobbies yet, but she seems to spend every day[r]
+laughing and having fun.[pcms]
 
 *2243|
 [fc]
-Everyone who can laugh and live with something they're passionate[r]
-about... I'm truly envious of them.[pcms]
+That alone is more than enough to make me envious.[pcms]
 
 *2244|
 [fc]
-Everyone who can laugh and live with something they're passionate[r]
-about... I'm truly envious of them.[pcms]
+Everyone who can live laughing and has something they're passionate[r]
+about... I'm really envious of them.[pcms]
 
 ;[zapend_random]
 [zapfade]
