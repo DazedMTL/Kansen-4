@@ -44,17 +44,17 @@ over to them.[pcms]
 
 *2435|
 [fc]
-Aya-san and Makoto-chan are gone. And then, Shou-niichan and Saeko-san[r]
-also left the school, holding hands.[pcms]
+Aya-san and Makoto-chan are gone. And then, Shou-niichan and Saeko-[r]
+san, the two of them, left the school holding hands.[pcms]
 
 *2436|
 [fc]
-Now it's just me and Daisuke-niichan, alone together. In this school,[r]
-it's become just the two of us.[pcms]
+Now it's just Daisuke-niichan and me, alone together. Inside this[r]
+school, it's just the two of us.[pcms]
 
 *2437|
 [fc]
-The two I pushed out must be desperately wanting to come back in.[pcms]
+The two I pushed outside must be desperately wanting to come back in.[pcms]
 
 *2438|
 [fc]
@@ -63,13 +63,13 @@ must be so frustrated that I'm monopolizing Daisuke-niichan.[pcms]
 
 *2439|
 [fc]
-But I can't hand over Daisuke-niichan. I can't give him to those who[r]
-have gone mad.[pcms]
+But I can't hand over Daisuke-niichan. Not to those who have gone mad[r]
+like that.[pcms]
 
 *2440|
 [fc]
 I will protect Daisuke-niichan. Until we reach the city... No, even[r]
-after we reach the city, until the two of us die.[pcms]
+after we reach the city, until the day we both die.[pcms]
 
 *2441|
 [fc]
@@ -86,7 +86,7 @@ I will protect Daisuke-niichan. I have to...[pcms]
 
 *2442|
 [fc]
-Daisuke-niichan is waiting here, for sure. He should be inside this[r]
+Daisuke-niichan is waiting here for sure. He should be inside this[r]
 classroom.[pcms]
 
 *2443|
@@ -101,7 +101,7 @@ snoring.[pcms]
 
 *2445|
 [fc]
-I quietly sat down beside him and gently stroked his head, like lovers[r]
+I quietly sat down beside him and gently stroked his head like lovers[r]
 do.[pcms]
 
 *2446|
@@ -132,7 +132,7 @@ Always stay by my side. I will never leave your side either.[pcms]
 *2449|
 [fc]
 Maybe it's from the school entrance. I heard the sound of something[r]
-big falling over.[pcms]
+big falling.[pcms]
 
 *2450|
 [fc]
@@ -160,7 +160,7 @@ murmuring voices are approaching.[pcms]
 
 *2454|
 [fc]
-In a panic, I looked around and the curtains hanging from the windows[r]
+In a panic, I looked around and the curtains hanging from the window[r]
 caught my eye first.[pcms]
 
 *2455|
@@ -177,17 +177,16 @@ Makoto-chan noticed this place.[pcms]
 [fc]
 [vo_koz s="kozu_0760"]
 [ns]Kozue[nse]
-"Alright... now I just need to act as a decoy and divert their[r]
-attention from here..."[pcms]
+"Good...now all I have to do is...distract them from here by being a[r]
+decoy..."[pcms]
 
 *2458|
 [fc]
-I will protect Daisuke-niichan. That's what I've decided.[pcms]
+I have decided to protect Daisuke-niichan.[pcms]
 
 *2459|
 [fc]
-I'm not afraid of anything anymore. Yes, there's nothing to be afraid[r]
-of.[pcms]
+There's nothing I'm afraid of anymore. Yes, nothing scares me anymore.[pcms]
 
 *2460|
 [fc]
@@ -204,12 +203,12 @@ I made up my mind and dashed into the hallway.[pcms]
 
 *2461|
 [fc]
-Almost at the same time as I stepped into the hallway, I ran into a[r]
-group of infected people.[pcms]
+Almost at the same time I stepped into the hallway, I ran into a group[r]
+of infected people.[pcms]
 
 *2462|
 [fc]
-Caught off guard and frozen with fear, I stood in a strange pose,[r]
+Caught off guard and paralyzed by fear, I stood in a strange pose,[r]
 unable to move as I faced the infected people.[pcms]
 
 *2463|
@@ -236,13 +235,13 @@ matter what![pcms]
 *2467|
 [fc]
 [ns]Infected Man B[nse]
-"Mmm~...that's no good... We need to find others..., it won't do."[pcms]
+"Mmm~...that's no good... We need to find another one...it won't do."[pcms]
 
 *2468|
 [fc]
 [ns]Infected Man C[nse]
 "Ah~ah...are there no more women around...? I wanna do it so bad...I[r]
-really wanna do it!"[pcms]
+wanna do it soooo bad!"[pcms]
 
 *2469|
 [fc]
@@ -258,7 +257,7 @@ My resolve ended anticlimactically.[pcms]
 
 *2471|
 [fc]
-The many infected people passed by me without a second glance, as if[r]
+The many infected people passed by me without a second glance. As if[r]
 they had no interest in me at all.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_04c"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
@@ -293,12 +292,12 @@ they had no interest in me at all.[pcms]
 
 *2474|
 [fc]
-One of the men pushed me hard in the chest. Because of that, I lost my[r]
-balance and hit my head hard against the wall.[pcms]
+One of the men pushed me in the chest with all his might. Because of[r]
+that, I lost my balance and hit my head hard against the wall.[pcms]
 
 *2475|
 [fc]
-Sparks flew before my eyes, and my head was spinning. Yet, strangely,[r]
+Sparks flew before my eyes, and my head spun so much. Yet, strangely,[r]
 there was no pain.[pcms]
 
 [ChrSetEx layer=3 chbase="etc_02a"][ChrSetXY layer=3 x=0 y=0]
@@ -313,7 +312,7 @@ not interested in you..."[pcms]
 *2477|
 [fc]
 [ns]Infected Man F[nse]
-"Ah...ahh-...women~...womeeen!!"[pcms]
+"Ah...ahh-... A woman~...a woman ahh!!"[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -326,8 +325,8 @@ not interested in you..."[pcms]
 
 *2479|
 [fc]
-The line of infected people, while hurling insults, moved past me and[r]
-disappeared into the depths of the corridor.[pcms]
+The line of infected people, while hurling insults, continued down the[r]
+hallway and disappeared.[pcms]
 
 *2480|
 [fc]
@@ -345,8 +344,8 @@ was sleeping.[pcms]
 
 *2481|
 [fc]
-Just like before, Daisuke-niichan was still sleeping, snoring away,[r]
-wrapped in the curtain.[pcms]
+Just like before, wrapped in the curtain, Daisuke-niichan was snoring[r]
+in his sleep.[pcms]
 
 *2482|
 [fc]
@@ -356,14 +355,14 @@ wrapped in the curtain.[pcms]
 
 *2483|
 [fc]
-The tension I had felt until now suddenly eased, and the energy that[r]
-had been supporting my body drained away along with it.[pcms]
+The tension up until now suddenly eased, and the energy that had been[r]
+supporting my body drained away with it.[pcms]
 
 *2484|
 [fc]
-Yet, it seemed that fear still lingered, as my hands and feet wouldn't[r]
-stop shaking, and I felt a bit dizzy, with the ground seeming to sway[r]
-with each step I took.[pcms]
+Yet the fear seemed to linger, as my hands and feet wouldn't stop[r]
+shaking, and I felt a bit dizzy, with the ground seeming to sway with[r]
+each step.[pcms]
 
 *2485|
 [fc]
@@ -378,8 +377,8 @@ sleeping, my body was drenched in sweat from the heat.[pcms]
 
 *2487|
 [fc]
-I opened a window where I had removed the curtain and then returned to[r]
-sit next to Daisuke-niichan.[pcms]
+I opened a window where I had removed the curtain and returned to sit[r]
+next to Daisuke-niichan.[pcms]
 
 ;//♪_BGM14　フェードイン
 [bgm storage="bgm14"]
@@ -405,8 +404,8 @@ ever...[pcms]
 [fc]
 [vo_koz s="kozu_0768"]
 [ns]Kozue[nse]
-"...Have I...become strange? I want to be hugged tightly by Daisuke-[r]
-niichan... To be naked and embrace each other..."[pcms]
+"...Have I...become strange? I want Daisuke-niichan to hold me[r]
+tight... To be naked and embrace each other..."[pcms]
 
 *2492|
 [fc]
@@ -414,8 +413,7 @@ A sudden surge of strange emotions.[pcms]
 
 *2493|
 [fc]
-I don't think it's wrong to have these feelings for someone you've[r]
-fallen for.[pcms]
+It's not wrong to have these feelings for someone you've fallen for.[pcms]
 
 *2494|
 [fc]
@@ -459,12 +457,12 @@ niichan..."[pcms]
 
 *2501|
 [fc]
-If I stay awake any longer, I feel like I'll go crazy. And I'm feeling[r]
-a bit dizzy too.[pcms]
+If I stay awake any longer, I feel like I'll go mad. Plus, I'm feeling[r]
+a bit dizzy.[pcms]
 
 *2502|
 [fc]
-I'll just sleep here, next to my beloved Daisuke-niichan. Next to[r]
+I'll just sleep here next to my beloved Daisuke-niichan. Next to[r]
 Daisuke-niichan...[pcms]
 
 *2503|
@@ -474,8 +472,7 @@ head.[pcms]
 
 *2504|
 [fc]
-Something is pressing inside my head. My head feels like it's burning[r]
-up.[pcms]
+Something is pressing inside my head. My head feels burning hot.[pcms]
 
 ;//♪_BGM14　フェードアウト
 ;//♪_BGM無音
@@ -494,15 +491,15 @@ up.[pcms]
 *2505|
 [fc]
 [ns]Daisuke[nse]
-"Kozue! Wake up Kozue! We have to escape from here now! ...Makoto!?[r]
-What happened to Makoto!?"[pcms]
+"Kozue! Wake up Kozue! We're going to escape from here now![r]
+...Makoto!? Where's Makoto!?"[pcms]
 
 [bg storage="bg26a"][trans_c cross time=500]
 
 *2506|
 [fc]
-My fading consciousness was suddenly pulled back by the lazy morning[r]
-light and the voice of someone I love dearly.[pcms]
+My sinking consciousness was quickly pulled back by the languid[r]
+morning light and the voice of someone I love dearly.[pcms]
 
 *2507|
 [fc]
@@ -516,7 +513,7 @@ and my beloved person was looking around anxiously.[pcms]
 [fc]
 [vo_koz s="kozu_0771"]
 [ns]Kozue[nse]
-"Mmm~...good morning~..."[pcms]
+"Mmm...good morning..."[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA03"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -541,12 +538,12 @@ them away.[pcms]
 
 *2513|
 [fc]
-But even if it's to protect Daisuke-niichan... If I tell him that,[r]
-he'll definitely get angry. I'm sure I'll be hated...[pcms]
+But even if it was to protect Daisuke-niichan... If I tell him that,[r]
+he'll surely get angry. I'll definitely be hated...[pcms]
 
 *2514|
 [fc]
-What should I do? What should I say...[pcms]
+What should I do? What should I say...?[pcms]
 
 *2515|
 [fc]
@@ -579,21 +576,20 @@ before us.[pcms]
 [fc]
 [ns]Daisuke[nse]
 "What!? So it's just us? We're the only ones here... Why were we left[r]
-behind!? Isn't that terrible!? If help came, they should have at least[r]
+behind!? Isn't that cruel!? If help came, they should have at least[r]
 woken us up!!"[pcms]
 
 *2520|
 [fc]
 [ns]Daisuke[nse]
-"Damn it... Damn it all!! We promised to go back together! Damn... so[r]
-everyone's just looking out for themselves after all!"[pcms]
+"Damn it... Damn it all!! We promised we'd all go back together![r]
+Damn... So everyone's just looking out for themselves after all!"[pcms]
 
 *2521|
 [fc]
 [ns]Daisuke[nse]
-"I made a promise with Masaka-san before we slept! Hah! They probably[r]
-abandoned us because they thought they had a better chance of[r]
-surviving... Damn it!"[pcms]
+"I made a promise with Masaka-san before we slept! Ha! They probably[r]
+abandoned us because they saw a better chance of survival... Damn it!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -613,13 +609,13 @@ like this...[pcms]
 *2524|
 [fc]
 Suddenly, an image like TV static spread before my eyes, and at the[r]
-same time, Daisuke-niichan's voice began to fade away as if my ears[r]
-were plugged.[pcms]
+same time, Daisuke-niichan's voice started to sound distant, as if my[r]
+ears were plugged.[pcms]
 
 *2525|
 [fc]
 [ns]Daisuke[nse]
-"...Shou... if I become infected... those two... I'll die too! Damn[r]
+"...Shou... If I become infected... those two... I'll die too! Damn[r]
 it! What kind of people are they!"[pcms]
 
 *2526|
@@ -630,12 +626,12 @@ clearly hear "infected" and "I'll die too."[pcms]
 *2527|
 [fc]
 I absolutely hate that. I want Daisuke-niichan to always be the usual[r]
-Daisuke-niichan. It would be trouble if he wasn't the usual him.[pcms]
+Daisuke-niichan. It would be troubling if he wasn't the usual him.[pcms]
 
 *2528|
 [fc]
-I have to cheer him up. I need to say something clever to make[r]
-Daisuke-niichan feel better.[pcms]
+I have to cheer him up. I need to say something clever to improve[r]
+Daisuke-niichan's mood.[pcms]
 
 *2529|
 [fc]
@@ -648,8 +644,8 @@ Daisuke-niichan feel better.[pcms]
 *2530|
 [fc]
 [ns]Daisuke[nse]
-"...Kozue! You... it's frustrating...! We're surrounded by monsters...[r]
-just the two of us... This is the worst...!"[pcms]
+"...Kozue! You... frustrating...! We're surrounded by monsters... just[r]
+the two of us... This is the worst...!"[pcms]
 
 *2531|
 [fc]
@@ -665,7 +661,7 @@ angry though... I have to calm him down somehow...[pcms]
 [fc]
 [vo_koz s="kozu_0774"]
 [ns]Kozue[nse]
-"...No... you see, Daisuke-niichan, listen to me. When I came back[r]
+"...No... Listen, Daisuke-niichan, listen to me. When I came back[r]
 here... there were so many infected..., so many heading towards this[r]
 classroom..."[pcms]
 
@@ -673,7 +669,7 @@ classroom..."[pcms]
 [fc]
 [vo_koz s="kozu_0775"]
 [ns]Kozue[nse]
-"...and since Daisuke-niichan was asleep. All I could think of was[r]
+"...and since Daisuke-niichan was sleeping, all I could think of was[r]
 hiding here... After a while, the infected moved away from the[r]
 classroom..."[pcms]
 
@@ -684,12 +680,12 @@ classroom..."[pcms]
 [vo_koz s="kozu_0776"]
 [ns]Kozue[nse]
 "During that time, it seems like everyone else was rescued by the[r]
-rescue team. So it's not everyone else's fault. The bad one is me..."[pcms]
+helpers. So it's not everyone else's fault. The bad one is me..."[pcms]
 
 *2536|
 [fc]
-I was desperate. Trying to somehow soothe Daisuke-niichan, I moved my[r]
-mouth, weaving in my wishful thinking.[pcms]
+I was desperate. Trying somehow to soothe Daisuke-niichan, I moved my[r]
+mouth, weaving in my own wishes of how things should be.[pcms]
 
 *2537|
 [fc]
@@ -697,9 +693,9 @@ A lukewarm and cold sensation spread across my cheek.[pcms]
 
 *2538|
 [fc]
-Thinking about Daisuke-niichan makes me tear up for some reason. The[r]
-more I try to protect him, the more tears overflow from my eyes and[r]
-won't stop.[pcms]
+Thinking of Daisuke-niichan makes me tear up for some reason. The more[r]
+I try to protect him, the more tears overflow from my eyes and won't[r]
+stop.[pcms]
 
 *2539|
 [fc]
@@ -721,7 +717,7 @@ what I'm saying?[pcms]
 
 *2542|
 [fc]
-What should I do... What should I say...[pcms]
+What should I do... What should I say...?[pcms]
 
 *2543|
 [fc]
@@ -732,23 +728,23 @@ it was my turn to be at a loss for words.[pcms]
 [fc]
 [vo_koz s="kozu_0777"]
 [ns]Kozue[nse]
-"...but, you know, we've been here the whole time and nobody came..."[pcms]
+"...But, you know, we've been here the whole time and no one came..."[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA03"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *2545|
 [fc]
 [ns]Daisuke[nse]
-"...then they might still be inside this school. Anyway, we can't do[r]
-anything as it is now, so let's check around here including being on[r]
-guard for the infected"[pcms]
+"...Then they might still be inside this school. Anyway, we can't do[r]
+anything by just staying here; we need to look around here including[r]
+being on guard for the infected"[pcms]
 
 *2546|
 [fc]
 [ns]Daisuke[nse]
-"If nobody's here, then just like you said, they abandoned us and ran[r]
-away. On the other hand, if they're still inside, then when we find[r]
-them, we'll all escape to town together. Let's do that"[pcms]
+"If no one is here, then just like you said, they abandoned us and[r]
+escaped. On the other hand, if they're still inside, then when we find[r]
+them, we'll escape together to town. Let's do that."[pcms]
 
 *2547|
 [fc]
@@ -759,8 +755,8 @@ niichan...[pcms]
 [fc]
 [vo_koz s="kozu_0778"]
 [ns]Kozue[nse]
-"...Daisuke-niichan, everyone ran away... Shall we just go back by[r]
-car? Huh?"[pcms]
+"...Daisuke-niichan, everyone has already escaped... Shall we just go[r]
+back by car? Huh?"[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -768,8 +764,7 @@ car? Huh?"[pcms]
 [fc]
 [ns]Daisuke[nse]
 "We can't do that. If by chance they haven't escaped and are still[r]
-inside this school, then I won't be able to calm down. Let's go,[r]
-Kozue"[pcms]
+inside this school, I won't be able to calm down. Let's go, Kozue."[pcms]
 
 *2550|
 [fc]
@@ -807,15 +802,15 @@ outside... come back.[pcms]
 
 *2555|
 [fc]
-Again, a sandstorm spreads before my eyes... What's happening to[r]
-me...? What's going on inside my head?[pcms]
+Again, a sandstorm spreads before my eyes... What's happening to me...[r]
+What's going on inside my head.[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA03"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *2556|
 [fc]
 [ns]Daisuke[nse]
-"...th, these feet... the hallway... it's mud... not just... water"[pcms]
+"...Th, these feet... hallway... mud... not just... what the"[pcms]
 
 *2557|
 [fc]
@@ -831,7 +826,7 @@ and won't move properly.[pcms]
 *2559|
 [fc]
 [ns]Daisuke[nse]
-"...alright, then... let's check... the other... areas too... Kozue,[r]
+"...Alright, then... let's check... the other... places too... Kozue,[r]
 don't you ever leave my side, okay?"[pcms]
 
 *2560|
@@ -840,7 +835,7 @@ Don't leave? I'm happy.[pcms]
 
 *2561|
 [fc]
-Daisuke-niichan told me, "Don't leave." He definitely said that.[pcms]
+Daisuke-niichan told me "Don't leave." He definitely said that.[pcms]
 
 *2562|
 [fc]
@@ -875,20 +870,20 @@ and followed Daisuke-niichan.[pcms]
 
 *2565|
 [fc]
-Even though I'm with the person I love, being dragged around the[r]
-school while feeling increasingly nauseous is becoming a pain.[pcms]
+As much as I love being with him, being dragged around the school[r]
+while feeling increasingly nauseous was becoming a torment.[pcms]
 
 *2566|
 [fc]
-I don't know if Daisuke-niichan sensed how I was feeling, but he[r]
-opened his mouth to no one in particular.[pcms]
+I don't know if he sensed how I was feeling, but Daisuke-niichan spoke[r]
+to no one in particular.[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA06"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *2567|
 [fc]
 [ns]Daisuke[nse]
-"Nobody's here... So we were really left behind after all... They're[r]
+"No one's here... So we were really left behind after all... They're[r]
 really heartless, all of them..."[pcms]
 
 *2568|
@@ -915,7 +910,7 @@ That's right. Let's get out of here.[pcms]
 
 *2572|
 [fc]
-And so that Daisuke-niichan can forget about everyone else, I'll[r]
+And then, to help Daisuke-niichan forget about everyone else, I'll[r]
 comfort him forever.[pcms]
 
 *2573|
@@ -923,21 +918,21 @@ comfort him forever.[pcms]
 [vo_koz s="kozu_0782"]
 [ns]Kozue[nse]
 "Besides, it seems like there are no infected outside. We might be[r]
-able to escape now. Come on, let's hurry and get out of here?"[pcms]
+able to escape now. Come on, let's get out of here quickly?"[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *2574|
 [fc]
 [ns]Daisuke[nse]
-"Ah... yeah, let's do that"[pcms]
+"Ah... yeah, let's do that."[pcms]
 
 *2575|
 [fc]
 [ns]Daisuke[nse]
 "Alright... let's go. There might still be infected hiding, so we're[r]
-going to run straight to the car. Don't ever let go of my hand,[r]
-Kozue?"[pcms]
+going to run straight to the car. Don't ever let go of my hand, Kozue,[r]
+okay?"[pcms]
 
 *2576|
 [fc]
@@ -953,7 +948,7 @@ looking out for me.[pcms]
 *2578|
 [fc]
 I will follow Daisuke-niichan. No matter what happens, I won't let go[r]
-of his hand or heart.[pcms]
+of his hand or his heart.[pcms]
 
 *2579|
 [fc]
@@ -964,7 +959,7 @@ Once again, I gripped Daisuke-niichan's hand tightly.[pcms]
 *2580|
 [fc]
 [ns]Daisuke[nse]
-"What! What's with you?! Do you have a fever? Your hand... it's[r]
+"Wha! What's with you?! Do you have a fever? Your hand... it's[r]
 incredibly hot!? Are you okay? Kozue"[pcms]
 
 *2581|
@@ -985,17 +980,17 @@ crossed my mind, my stomach felt like it was about to turn inside out.[pcms]
 [fc]
 [vo_koz s="kozu_0784"]
 [ns]Kozue[nse]
-"Yeah, I'm fine... I'm okay so let's hurry... ugh... uweeeeh...[r]
-gehhh... cough..."[pcms]
+"Yeah, I'm fine... I'm really okay, so let's hurry... ugh...[r]
+uweeeeh... gehhh... cough..."[pcms]
 
 *2585|
 [fc]
 [ns]Daisuke[nse]
-"Wh-what's wrong?! Kozue!"[pcms]
+"Wha, what's wrong?! Kozue!"[pcms]
 
 *2586|
 [fc]
-Wh-why? Why did I suddenly throw up...?[pcms]
+Why...? Why did I suddenly throw up...?[pcms]
 
 *2587|
 [fc]
@@ -1006,14 +1001,14 @@ don't want him to hate me for seeing something so dirty.[pcms]
 [fc]
 [vo_koz s="kozu_0785"]
 [ns]Kozue[nse]
-"Uh-... cough... sorry... I'm fine now... Really, I'm okay... Let's[r]
-hurry and escape, Daisuke-niichan..."[pcms]
+"Ugh... cough... sorry... I'm fine now... Really, I'm okay... Let's[r]
+escape quickly, Daisuke-niichan..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2589|
 [fc]
-I'm okay. I'm fine, so don't worry, Daisuke-niichan...[pcms]
+I'm fine. I'm really fine, so don't worry, Daisuke-niichan...[pcms]
 
 *2590|
 [fc]
@@ -1076,7 +1071,7 @@ floor...[pcms]
 
 *2600|
 [fc]
-I have to get up.[pcms]
+I need to get up.[pcms]
 
 ;//★_山奥の学園　昇降口　朝・昼　bg29a.bmp
 [bg storage="bg29a"][trans_c cross time=500]
@@ -1107,22 +1102,22 @@ A cute bride. Daisuke-niichan's bride.[pcms]
 [fc]
 [vo_koz s="kozu_0786"]
 [ns]Kozue[nse]
-"You know, the sea... take me to the sea... Daisuke-niichan, you[r]
-promised... the sea..."[pcms]
+"You know, the sea...take me to the sea... Daisuke-niichan, you[r]
+promised...the sea..."[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA03"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *2607|
 [fc]
 [ns]Daisuke[nse]
-"What are you talking about... In your condition, you can't go to the[r]
-sea..."[pcms]
+"What are you talking about... With your condition, you can't go to[r]
+the sea..."[pcms]
 
 *2608|
 [fc]
 [vo_koz s="kozu_0787"]
 [ns]Kozue[nse]
-"I'm going to be Daisuke-niichan's bride. So, yeah... the sea..."[pcms]
+"I'm going to be Daisuke-niichan's bride. So, yeah...the sea..."[pcms]
 
 *2609|
 [fc]
@@ -1160,8 +1155,8 @@ My stomach is growling...[pcms]
 [fc]
 [vo_koz s="kozu_0788"]
 [ns]Kozue[nse]
-"Ah~... it's the sea... I need to change... I want to eat ramen at the[r]
-beach house... Will you treat me, Daisuke-niichan? Ehehe..."[pcms]
+"Ah~...the sea... I need to change... I want to eat ramen at the beach[r]
+house... Will you treat me, Daisuke-niichan? Ehehe..."[pcms]
 
 *2617|
 [fc]
@@ -1172,8 +1167,7 @@ beach house... Will you treat me, Daisuke-niichan? Ehehe..."[pcms]
 [fc]
 [vo_koz s="kozu_0789"]
 [ns]Kozue[nse]
-"Hmm~...? Maybe I should change~... Because we're going to the[r]
-sea~..."[pcms]
+"Hmm...? Maybe I'll change... Because we're going to the sea~..."[pcms]
 
 *2619|
 [fc]
@@ -1186,20 +1180,20 @@ Huh...? It's shaking. My body is shaking.[pcms]
 
 *2620|
 [fc]
-As my body shakes, the sandstorm before my eyes disappears. The sea[r]
+As my body shakes, the sandstorm in front of me disappears. The sea[r]
 disappears too. Instead, Daisuke-niichan's worried face comes into[r]
 view.[pcms]
 
 *2621|
 [fc]
-There's no sea. Am I escaping from reality? We need to escape from[r]
-here quickly.[pcms]
+There's no sea. Am I escaping from reality? I need to escape from here[r]
+quickly.[pcms]
 
 *2622|
 [fc]
 [vo_koz s="kozu_0790"]
 [ns]Kozue[nse]
-"It's hot... isn't it... Let's escape quickly, Daisuke-niichan..."[pcms]
+"It's hot...huh... Let's escape quickly, Daisuke-niichan..."[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1219,9 +1213,9 @@ time. Don't let go of my hand no matter what. Let's go!"[pcms]
 
 *2625|
 [fc]
-This time I won't fall down. Like a flickering light bulb, my[r]
-consciousness fades in and out. Desperately holding on, I follow[r]
-Daisuke-niichan.[pcms]
+This time, I won't fall down. Like a flickering light bulb, my[r]
+consciousness fades in and out, but I desperately cling to it and[r]
+follow Daisuke-niichan.[pcms]
 
 ;//♯_ホワイトアウト
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
@@ -1239,17 +1233,17 @@ Daisuke-niichan.[pcms]
 
 *2626|
 [fc]
-The sunlight. The outside air.[pcms]
+The sunlight. The air outside.[pcms]
 
 *2627|
 [fc]
-The stagnant air inside completely changes as a refreshing breeze[r]
-blows through, and a dazzling light envelops us.[pcms]
+The stagnant air inside is replaced by a refreshing breeze blowing[r]
+through, and a dazzling light envelops us as if to blind us.[pcms]
 
 *2628|
 [fc]
-As if falling into sleep, while drifting in and out of consciousness,[r]
-we had made it outside of the school.[pcms]
+As if falling into sleep, while dozing off, we had made it outside of[r]
+the school.[pcms]
 
 *2629|
 [fc]
@@ -1263,8 +1257,8 @@ Those words raced through my mind.[pcms]
 [fc]
 [vo_koz s="kozu_0792"]
 [ns]Kozue[nse]
-"Daisuke-niichan, you're warm... You smell nice too. Ehehe... I'm[r]
-going to hug you tight..."[pcms]
+"Daisuke-niichan, you're warm... You smell nice too. Ehehe...I'm gonna[r]
+hug you tight..."[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1284,9 +1278,8 @@ happy... Just the two of us is fine..."[pcms]
 *2633|
 [fc]
 [ns]Daisuke[nse]
-"Don't say anything foolish. Look, there's the car. Just a little bit[r]
-more and we'll be back in town. Hang in there, Kozue... Alright, let's[r]
-go..."[pcms]
+"Don't say anything silly. Look, there's the car. Just a little bit[r]
+more and we'll be back in town. Hang in there, Kozue... Let's go..."[pcms]
 
 *2634|
 [fc]
@@ -1301,7 +1294,7 @@ listen to each other.[pcms]
 [fc]
 [vo_koz s="kozu_0794"]
 [ns]Kozue[nse]
-"Yes... I'll properly listen to what my husband says~..."[pcms]
+"Yes... I'll listen to what my husband says properly~..."[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//嶺岸・ノイズ止まるのでもう一度挿入
@@ -1335,7 +1328,7 @@ Ah, Daisuke-niichan is carrying me in his arms. It's warm.[pcms]
 [fc]
 [vo_koz s="kozu_0795"]
 [ns]Kozue[nse]
-"Ahaha... I'm so happy... so happy..."[pcms]
+"Ahaha... I'm so happy... so very happy..."[pcms]
 
 *2641|
 [fc]
@@ -1371,9 +1364,9 @@ to the driver's seat.[pcms]
 *2643|
 [fc]
 Turning my back to the car and looking towards the school, my legs[r]
-suddenly froze, and I couldn't move. It was because I thought I saw[r]
-the faces of the two we had driven out deep within the school[r]
-building.[pcms]
+suddenly froze, and I couldn't move. It was because I felt like I[r]
+could see the faces of the two people we had driven out, deep within[r]
+the school building.[pcms]
 
 *2644|
 [fc]
@@ -1387,8 +1380,8 @@ draining from my entire body.[pcms]
 
 *2645|
 [fc]
-Those two are glaring at me from over there... I'm not... I'm not[r]
-bad...[pcms]
+Those two are glaring at me from over there... I'm not... I'm not in[r]
+the wrong...[pcms]
 
 ;//嶺岸・ゆっくりキャラ消し
 [chara_int][trans_c cross time=1000]
@@ -1442,7 +1435,7 @@ Those two are going to tell Daisuke-niichan that I drove them out.[pcms]
 
 *2652|
 [fc]
-If that happens to me... Daisuke-niichan will hate me... He'll hate[r]
+If that happens, I'll be... Daisuke-niichan will hate me... He'll hate[r]
 me![pcms]
 
 ;//嶺岸・セリフ、少し後ろに移動します
@@ -1466,34 +1459,33 @@ me![pcms]
 
 *2653|
 [fc]
-As those two women became clearer and clearer, they seemed to be[r]
-approaching us.[pcms]
+The two women who are becoming clearer and clearer are approaching us.[pcms]
 
 *2654|
 [fc]
-It was as if I had been struck by sleep paralysis.[pcms]
+It's as if I've been struck by sleep paralysis.[pcms]
 
 ;//嶺岸・ゆっくりキャラ消し
 [chara_int][trans_c cross time=1000]
 
 *2655|
 [fc]
-Like a frog being stared down by a snake, I was completely unable to[r]
-move, but Daisuke-niichan's voice freed me.[pcms]
+Like a frog being stared down by a snake, my body completely unable to[r]
+move was freed by Daisuke-niichan's voice.[pcms]
 
 [ChrSetEx layer=5 chbase="sn_UP_bA04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2656|
 [fc]
 [ns]Daisuke[nse]
-"Kozue! What are you doing! Get in the car quickly! We're going to[r]
-drive off!"[pcms]
+"Kozue! What are you doing! Get in the car quickly! I'm starting the[r]
+car!"[pcms]
 
 *2657|
 [fc]
 [vo_koz s="kozu_0797"]
 [ns]Kozue[nse]
-"Ah... yes... uh... ugh... ughhh!!"[pcms]
+"Ah... yes... ugh... uwehh!!"[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -1504,11 +1496,11 @@ Again... My head is spinning, and my stomach feels sick...[pcms]
 
 *2659|
 [fc]
-Why...? I don't feel pain anywhere.[pcms]
+Why...? I'm not in pain anywhere.[pcms]
 
 *2660|
 [fc]
-And... My hands feel numb... Maybe I did something while I was asleep.[pcms]
+And... My hands feel numb. Maybe I did something while I was asleep.[pcms]
 
 *2661|
 [fc]
@@ -1529,7 +1521,7 @@ about me.[pcms]
 
 *2664|
 [fc]
-About me, who drove those two away ruthlessly. Me, who is resented by[r]
+About me, who drove those two out ruthlessly. Me, who is resented by[r]
 those two.[pcms]
 
 *2665|
@@ -1556,8 +1548,8 @@ anything to deserve it.[pcms]
 
 *2667|
 [fc]
-I close my eyes tightly and turn away from the school building, then[r]
-Daisuke-niichan lifts me up again and seats me in the car seat.[pcms]
+I close my eyes tightly and turn away from the school building, and[r]
+then Daisuke-niichan lifts me up and seats me in the car seat.[pcms]
 
 *2668|
 [fc]
@@ -1567,7 +1559,7 @@ up a bit, but hang in there!"[pcms]
 
 *2669|
 [fc]
-Daisuke-niichan's voice is becoming distant again. Far away... getting[r]
+Daisuke-niichan's voice is fading away again. Far away... getting[r]
 further and further away...[pcms]
 
 *2670|
@@ -1594,7 +1586,7 @@ I'm so happy...[pcms]
 
 *2674|
 [fc]
-Ah, but I feel sick. I might throw up again...[pcms]
+Oh, but I feel sick. I might throw up again...[pcms]
 
 *2675|
 [fc]
@@ -1614,7 +1606,7 @@ The town?[pcms]
 
 *2677|
 [fc]
-Oh, it was just a dream. We haven't even reached the sea yet.[pcms]
+Oh, it was just a dream. We haven't reached the sea yet.[pcms]
 
 ;//★_山道＋民家　朝・昼　bg22a.bmp
 ;//自動車フレーム表示(運転席前方・朝昼)
@@ -1661,9 +1653,9 @@ A home for the two of us... I'm looking forward to it...[pcms]
 [fc]
 [vo_koz s="kozu_0799"]
 [ns]Kozue[nse]
-"Onii-chan... Onii-chan... When we get back home... Let's look for a[r]
-house to live in together... A house just for the two of us... Ugh...[r]
-gahhh..."[pcms]
+"Big brother... big brother... When we get home... let's look for a[r]
+house to live in together... A house just for the two of us... ugh...[r]
+bleghhh..."[pcms]
 
 *2686|
 [fc]
@@ -1682,7 +1674,7 @@ frustrating.[pcms]
 *2688|
 [fc]
 [ns]Daisuke[nse]
-"Should I stop the car? It seems like there are no more infected[r]
+"Should I stop the car...? It seems like there are no more infected[r]
 around, and maybe if you breathe some fresh air outside, it might make[r]
 you feel a bit better."[pcms]
 
@@ -1691,7 +1683,7 @@ you feel a bit better."[pcms]
 
 *2689|
 [fc]
-I should only show my husband cute and beautiful sides of me.[pcms]
+I'm supposed to only show my husband cute and beautiful things.[pcms]
 
 *2690|
 [fc]
@@ -1699,8 +1691,8 @@ Ah-ah...[pcms]
 
 *2691|
 [fc]
-But Daisuke-niichan is so kind. He even carries me outside and pats my[r]
-back.[pcms]
+But Daisuke-niichan is so kind. He even carried me outside and patted[r]
+my back.[pcms]
 
 *2692|
 [fc]
@@ -1712,7 +1704,7 @@ But my head is spinning.[pcms]
 
 *2694|
 [fc]
-The earth is spinning. The earth is spinning around me as the center.[pcms]
+The earth is spinning. Around me, the earth is spinning.[pcms]
 
 *2695|
 [fc]
@@ -1731,7 +1723,7 @@ out, it won't stop.[pcms]
 [fc]
 [vo_koz s="kozu_0800"]
 [ns]Kozue[nse]
-"Ugh... cough... ewww... Cough... I'm sorry, Daisuke-niichan. For[r]
+"Ugh... cough... ewww... cough... I'm sorry, Daisuke-niichan. For[r]
 showing you something so dirty..."[pcms]
 
 [ChrSetEx layer=5 chbase="sn_bA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
@@ -1739,23 +1731,23 @@ showing you something so dirty..."[pcms]
 *2699|
 [fc]
 [ns]Daisuke[nse]
-"Don't worry about it. It's not a big deal at this point. You used to[r]
-get sick and throw up all the time when you were little, right? I used[r]
-to take care of you sometimes, didn't I?"[pcms]
+"Don't worry about it. It's not a big deal at this point. When you[r]
+were little, you often got fevers and threw up, right? I used to take[r]
+care of you sometimes, didn't I?"[pcms]
 
 *2700|
 [fc]
 [vo_koz s="kozu_0801"]
 [ns]Kozue[nse]
-"Oh no... That's such an old story... Cough... But thank you, Daisuke-[r]
-niichan... I feel much better now, shall we go back to the car? Take[r]
-me to the sea quickly..."[pcms]
+"No way... That's such an old story... Cough... But thank you,[r]
+Daisuke-niichan... I feel much better now, shall we go back to the[r]
+car? Take me to the sea quickly..."[pcms]
 
 *2701|
 [fc]
 [ns]Daisuke[nse]
 "Got it, got it. Once your body is healed, I'll definitely...[r]
-Definitely take you there. For now, just stay put, okay?"[pcms]
+definitely take you there. For now, just stay put, okay?"[pcms]
 
 *2702|
 [fc]
@@ -1771,8 +1763,8 @@ Finally, all the bad stuff has left my stomach. I feel a bit better.[pcms]
 
 *2704|
 [fc]
-I should sleep now. If I stay awake any longer, I'll just be a bother[r]
-to Daisuke-niichan.[pcms]
+I should sleep now. If I stay awake any longer, I'll be a bother to[r]
+Daisuke-niichan.[pcms]
 
 *2705|
 [fc]
@@ -1780,8 +1772,8 @@ I should rest now. My body isn't just mine anymore.[pcms]
 
 *2706|
 [fc]
-Staggering on the spinning and swaying ground, I finally manage to[r]
-step into the car where Daisuke-niichan is waiting.[pcms]
+Staggering on the spinning and swaying ground, I finally managed to[r]
+step into the car where Daisuke-niichan was waiting.[pcms]
 
 *2707|
 [fc]
@@ -1791,8 +1783,8 @@ of light stretch out.[pcms]
 
 *2708|
 [fc]
-As the car moves, the rays of light pierce my eyes. Many beams of[r]
-light force them shut.[pcms]
+As the car moves, the rays of light pierce my eyes. Many rays of light[r]
+force them shut.[pcms]
 
 ;//♯_ホワイトアウト
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
@@ -1826,31 +1818,31 @@ niichan when I was little.[pcms]
 *2713|
 [fc]
 [ns]Daisuke[nse]
-"...Kozue...remember...okay...? Well,...not something you'd[r]
-forget...anyway..."[pcms]
+"...Kozue... remember... right... Well, ...not something you'd[r]
+forget... is it..."[pcms]
 
 *2714|
 [fc]
-There's no way I could forget. It was the first present I ever[r]
+There's no way I could forget. It was the very first present I[r]
 received from Daisuke-niichan.[pcms]
 
 *2715|
 [fc]
-A hair ornament shaped like a Namahage.[pcms]
+A Namahage-shaped hair ornament.[pcms]
 
 *2716|
 [fc]
-When the rubber broke, I replaced it. When it got scratched, I[r]
-polished and fixed it.[pcms]
+When the elastic broke, I attached another one. When it got scratched,[r]
+I polished and fixed it.[pcms]
 
 *2717|
 [fc]
-It's been a treasure I've cherished ever since I received it.[pcms]
+It's been a treasure that I've cherished ever since I received it.[pcms]
 
 *2718|
 [fc]
 [ns]Daisuke[nse]
-"Sorry... Did I wake you up? Was I too loud... by myself? Go back to[r]
+"Sorry... Did I wake you up? Was I too loud by myself...? Go back to[r]
 sleep. It'll be better for your body."[pcms]
 
 ;//se即時停止
@@ -1866,13 +1858,13 @@ sleep. It'll be better for your body."[pcms]
 
 *2719|
 [fc]
-It wasn't loud at all. My body's feeling a lot better now. The nausea[r]
-is also going away.[pcms]
+It's not loud at all. My body feels much better now. The nausea is[r]
+also going away.[pcms]
 
 *2720|
 [fc]
-More importantly. I wonder if Daisuke-niichan remembers. The time he[r]
-gave me my "treasure."[pcms]
+More importantly. I wonder if Daisuke-niichan remembers. The time when[r]
+he gave me my "treasure."[pcms]
 
 *2721|
 [fc]
@@ -1895,8 +1887,8 @@ keep wearing that thing?"[pcms]
 *2723|
 [fc]
 [ns]Daisuke[nse]
-"That's right. Once you're feeling better, I'll buy you a new hair[r]
-ornament. Surely you'd want to change to a new one by now, right?"[pcms]
+"That's right. When you get better, I'll buy you a new hair ornament.[r]
+You'd want to change to a new one by now, wouldn't you?"[pcms]
 
 *2724|
 [fc]
@@ -1911,8 +1903,8 @@ I don't need a new one. Because...[pcms]
 *2726|
 [fc]
 [ns]Daisuke[nse]
-"Is that so... You don't have to hold back, you know? It's not like[r]
-it's something expensive..."[pcms]
+"I see... You don't have to hold back, you know? It's not like it was[r]
+expensive or anything..."[pcms]
 
 *2727|
 [fc]
@@ -1923,7 +1915,7 @@ is a treasure.[pcms]
 [fc]
 [vo_koz s="kozu_0805"]
 [ns]Kozue[nse]
-"It has to be this one... Wearing this makes me feel like I'm always[r]
+"It has to be this one... When I wear this, I feel like I'm always[r]
 with Daisuke-niichan. Like he's always by my side."[pcms]
 
 *2729|
@@ -1951,8 +1943,8 @@ The time I could spend with Daisuke-niichan is my treasure.[pcms]
 *2733|
 [fc]
 [ns]Daisuke[nse]
-"Hey, hey, stop it, don't talk about treasures and such... There will[r]
-be better things to come, don't be satisfied with just that."[pcms]
+"Hey, hey, stop it, don't call that a treasure... There will be better[r]
+things to come, don't be satisfied with just that."[pcms]
 
 *2734|
 [fc]
@@ -1978,8 +1970,8 @@ impossible now.[pcms]
 *2738|
 [fc]
 [ns]Daisuke[nse]
-"Hey, rest easy and sleep. By the time you wake up, we'll be in the[r]
-city."[pcms]
+"Alright, rest easy and sleep. By the time you wake up, we'll be in[r]
+the city."[pcms]
 
 *2739|
 [fc]
@@ -1987,12 +1979,12 @@ Dear God.[pcms]
 
 *2740|
 [fc]
-At least let me stay myself until we reach the city with Daisuke-[r]
-niichan. Just a little bit longer, please.[pcms]
+Please let me stay myself just a little longer, at least until we[r]
+reach the city with Daisuke-niichan.[pcms]
 
 *2741|
 [fc]
-Just a little bit longer.[pcms]
+Just a little longer.[pcms]
 
 ;//♯_ホワイトアウト
 ;//自動車フレーム消去（キャラ毎）
@@ -2031,7 +2023,8 @@ Thank you.[pcms]
 *2745|
 [fc]
 [ns]Daisuke[nse]
-"We did it... we finally made it back! Kozue... we're saved!!"[pcms]
+"We did it... we did it! We finally made it back! Kozue... we're[r]
+saved!!"[pcms]
 
 *2746|
 [fc]
@@ -2049,7 +2042,7 @@ Thank goodness. Thank you, God.[pcms]
 
 *2749|
 [fc]
-Please take care of Daisuke-niichan from now on.[pcms]
+Please help Daisuke-niichan from now on.[pcms]
 
 *2750|
 [fc]
@@ -2069,30 +2062,29 @@ I will always be by your side.[pcms]
 *2752|
 [fc]
 [ns]Self-Defense Force Member[nse]
-Even if Daisuke-niichan says he doesn't want to, I'll always be[r]
-watching over him.[pcms]
+"Stop!"[pcms]
 
 *2753|
 [fc]
-If Daisuke-niichan finds someone he likes, I'll protect the two of[r]
-them so they won't have to go through such tough times anymore.[pcms]
+Even if Daisuke-niichan says he doesn't want to, I'll always be[r]
+watching over him.[pcms]
 
 *2754|
 [fc]
-It's okay. The person Daisuke-niichan likes is also my treasure.[pcms]
+If Daisuke-niichan finds someone he likes, I'll protect the two of you[r]
+so you won't have to go through such tough times again.[pcms]
 
 *2755|
 [fc]
-Everything that's important to Daisuke-niichan is my treasure too.[pcms]
+It's okay. The person Daisuke-niichan likes is also my treasure.[pcms]
 
 *2756|
 [fc]
-I'll always protect them.[pcms]
+Everything that's important to Daisuke-niichan is my treasure too.[pcms]
 
 *2757|
 [fc]
-"Oh, we're getting off, Kozue...? Kozue? Did you fall asleep...? I'm[r]
-going down first, okay?"[pcms]
+I will always protect them.[pcms]
 
 ;//キャラ消し
 ;[chara_int][trans_c cross time=150]
@@ -2103,45 +2095,46 @@ going down first, okay?"[pcms]
 *2758|
 [fc]
 [ns]Daisuke[nse]
-"You... you're lucky to be safe... Are there others...? Ah, there's a[r]
-girl. She looks unwell. Hey, give her a hand. And then, we'll need to[r]
-conduct an inspection just in case."[pcms]
+"Oh, we're getting off, Kozue...? Kozue? Did she fall asleep...? I'm[r]
+getting off first then?"[pcms]
 
 *2759|
 [fc]
 [ns]Self-Defense Force Member[nse]
-It's lively, isn't it?[pcms]
+"You... you're lucky to be safe... anyone else... ah, there's a girl.[r]
+She looks unwell. Hey, give her a hand. And just to be sure, we'll[r]
+need to conduct an examination."[pcms]
 
 *2760|
+[fc]
+It's noisy.[pcms]
+
+*2761|
 [fc]
 It's like the festival in September. That time, you bought me a hair[r]
 ornament.[pcms]
 
-*2761|
-[fc]
-We walked around the town together, collecting lots of tips. And then[r]
-you used that money to buy it for me at the shop.[pcms]
-
 *2762|
 [fc]
-Everything is becoming distant.[pcms]
+We walked around the town together, collecting lots of tips. And with[r]
+that money, you bought it for me at the night market.[pcms]
 
 *2763|
 [fc]
-The voices of people and the sound of the waves too.[pcms]
+Everything is becoming distant.[pcms]
 
 *2764|
 [fc]
-Well then, see you again. See you again, Daisuke-niichan.[pcms]
+The voices of people and the sound of the waves too.[pcms]
 
 *2765|
 [fc]
-"Yes... I understand. Then, I'll be off. Alright, Kozue..."[pcms]
+Well then, see you again. See you again, Daisuke-niichan.[pcms]
 
 *2766|
 [fc]
 [ns]Daisuke[nse]
-I hear the voice of the person I love. My beloved person.[pcms]
+"Yes... understood. Well then, I'll be off. Alright, Kozue..."[pcms]
 
 ;//★_バリケード前　朝・昼　bg31a.bmp
 [bg storage="bg31a"][trans_c cross time=500]
@@ -2151,52 +2144,51 @@ I hear the voice of the person I love. My beloved person.[pcms]
 
 *2767|
 [fc]
-My mouth tastes sour. It tastes like metal.[pcms]
+I can hear the voice of the person I love. My beloved person.[pcms]
 
 *2768|
 [fc]
-There are so many men around.[pcms]
+My mouth tastes sour. It tastes like metal.[pcms]
 
 *2769|
 [fc]
-They're all staring at me with scary faces.[pcms]
+There are so many men around.[pcms]
 
 *2770|
 [fc]
-Don't touch me. The only one allowed to touch me is the person I love.[pcms]
+They're all staring at me with scary faces.[pcms]
 
 *2771|
 [fc]
-Huh? Who is the person I love?[pcms]
+Don't touch me. Only the person I love is allowed to touch me.[pcms]
 
 *2772|
 [fc]
-"Hey... you there? Tch... not again... No good, this is no good[r]
-anymore."[pcms]
+Huh? Which man is the one I love?[pcms]
 
 [ChrSetEx layer=5 chbase="etc_01b"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *2773|
 [fc]
 [ns]Self-Defense Force Member B[nse]
-No good? What's no good?[pcms]
+"Hey... you? Tch... not again... No good, it's over."[pcms]
 
 *2774|
 [fc]
-Huh? I can't make a sound.[pcms]
+No good? What's no good?[pcms]
 
 *2775|
 [fc]
-Everything in front of me is bright red.[pcms]
+Huh? I can't make a sound.[pcms]
 
 *2776|
 [fc]
-"Another young one like this, I can't deal with this."[pcms]
+Everything in front of me is bright red.[pcms]
 
 *2777|
 [fc]
 [ns]Self-Defense Force Member B[nse]
-It's hot. Don't point that red, flickering heat at me.[pcms]
+"Another young one like this, I can't deal with it."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -2205,24 +2197,23 @@ It's hot. Don't point that red, flickering heat at me.[pcms]
 
 *2778|
 [fc]
-It's hot. It's dazzling.[pcms]
+It's hot. Don't point that red, flickering heat at me.[pcms]
 
 *2779|
 [fc]
-That's right. I have to hand it over to my beloved person.[pcms]
+It's hot. It's dazzling.[pcms]
 
 *2780|
 [fc]
-Because I don't want him to forget about me.[pcms]
+That's right. I have to hand it over to my beloved person.[pcms]
 
 *2781|
 [fc]
-Daisuke-niichan.[pcms]
+Because I don't want him to forget about me.[pcms]
 
 *2782|
 [fc]
-"...Number five thousand eight hundred thirty-three... Incineration[r]
-process, begin."[pcms]
+Daisuke-niichan.[pcms]
 
 ;//♪_Insomnia.wav　フェードアウト
 ;//♪_BGM無音
@@ -2232,7 +2223,8 @@ process, begin."[pcms]
 *2783|
 [fc]
 [ns]Self-Defense Force Member B[nse]
-I can't breathe. It's hot.[pcms]
+"...Number five thousand eight hundred thirty-three... Incineration[r]
+process, begin."[pcms]
 
 ;//♂：デバッグやってみて陳腐だったら削ろうねここ。
 
@@ -2247,24 +2239,24 @@ I can't breathe. It's hot.[pcms]
 
 *2784|
 [fc]
-Daisuke-niichan.[pcms]
+I can't breathe. It's hot.[pcms]
 
 *2785|
 [fc]
-Please don't forget about me.[pcms]
+Daisuke-niichan.[pcms]
 
 *2786|
+[fc]
+Please don't forget about me.[pcms]
+
+*2787|
 [fc]
 I don't need the hair ornament anymore. It's pointless for me to have[r]
 it.[pcms]
 
-*2787|
-[fc]
-Goodbye, my treasure. Make sure Daisuke-niichan picks it up properly.[pcms]
-
 *2788|
 [fc]
-[returntitle][s]
+Goodbye, my treasure. Make sure Daisuke-niichan picks it up properly.[pcms]
 
 [gameover]
 
