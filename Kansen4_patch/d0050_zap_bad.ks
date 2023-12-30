@@ -96,12 +96,12 @@ Maybe... going outside will help me cool off...[pcms]
 *1188|
 [fc]
 [ns]Daisuke[nse]
-"Eh? Hey, ...if we're together... it's safer, right?"[pcms]
+"Huh? Hey, ...if we're together... it's safer, right?"[pcms]
 
 *1189|
 [fc]
 Daisuke's voice was mixed with an irritating noise like TV static, and[r]
-I couldn't clearly understand what he said. That too, grated on my[r]
+I couldn't clearly understand what he said. That also grated on my[r]
 nerves.[pcms]
 
 *1190|
@@ -120,16 +120,17 @@ nerves.[pcms]
 *1191|
 [fc]
 I want to feel the cool breeze outside quickly. I hate being inside[r]
-this suffocating building. It's because I'm here that I feel so[r]
-unbearably hot.[pcms]
+this suffocating building. It's because I'm in a place like this that[r]
+I feel so unbearably hot.[pcms]
 
 ;//★_山奥の学園　昇降口　夜（灯り無し）　bg29c.bmp
 [bg storage="bg29c"][trans_c cross time=500]
 
 *1192|
 [fc]
-Feeling delirious with fever, I somehow made it to the entrance. Once[r]
-I get outside, this irritation and the heat will surely be blown away.[pcms]
+Delirious with fever and staggering, I somehow made it to the[r]
+entrance. Once I get outside, this irritation and the heat will surely[r]
+blow away.[pcms]
 
 *1193|
 [fc]
@@ -155,7 +156,7 @@ the lockers that had become barricades and went outside.[pcms]
 *1196|
 [fc]
 The night breeze gently caressed my flushed body. The turmoil in my[r]
-heated mind seemed to lighten a bit. In fact, I started to feel[r]
+heated head seemed to lighten a bit. In fact, I started to feel[r]
 somewhat exhilarated.[pcms]
 
 *1197|
@@ -207,8 +208,8 @@ them...[pcms]
 
 *1202|
 [fc]
-Eh? What did I just think? Why would I think such an embarrassing[r]
-thing...[pcms]
+Eh? What did I just think? Why would I think something so[r]
+embarrassing...?[pcms]
 
 *1203|
 [fc]
@@ -239,13 +240,12 @@ around inside my head, trying to take over my mind.[pcms]
 
 *1208|
 [fc]
-The men are searching for me... I have to run away quickly...[r]
-Otherwise...[pcms]
+The men are searching for me... I have to run away... Otherwise...[pcms]
 
 *1209|
 [fc]
-While thinking that, the desire to touch and be touched by those men[r]
-interferes, and I just can't move from the spot.[pcms]
+While thinking that, the desire to touch and be touched by those men's[r]
+skin gets in the way, and I just can't move from the spot.[pcms]
 
 *1210|
 [fc]
@@ -255,8 +255,8 @@ interferes, and I just can't move from the spot.[pcms]
 
 *1211|
 [fc]
-To want to be in contact with those who have abandoned their humanity.[r]
-The impulse grows so strong that it cannot be contained by reason.[pcms]
+To want to be in contact with those who have ceased to be human. The[r]
+impulse grows so strong that it can't be held back by reason.[pcms]
 
 *1212|
 [fc]
@@ -303,8 +303,8 @@ My feet step towards the darkness again.[pcms]
 
 *1215|
 [fc]
-The red glowing eyes of the men in the darkness stare at me. As if[r]
-they're saying, "Come over here quickly."[pcms]
+The red glowing eyes of the men in the darkness stare at me as if[r]
+beckoning me over.[pcms]
 
 *1216|
 [fc]
@@ -312,8 +312,8 @@ My head is filled with noise. Reason doesn't speak to me anymore.[pcms]
 
 *1217|
 [fc]
-Another step, and yet another step towards the men. For a moment, I[r]
-thought I saw Daisuke's face in the gaps between the noise.[pcms]
+Another step, and yet another step towards the men. For a moment,[r]
+Daisuke's face seemed to float in the gaps of the noise.[pcms]
 
 *1218|
 [fc]
@@ -322,14 +322,13 @@ race team where everyone can run happily...[pcms]
 
 *1219|
 [fc]
-I had that thought for a moment, but it was crushed by the[r]
-overwhelming desire to be utterly ravaged by those men and it vanished[r]
-with a snap.[pcms]
+I had a fleeting thought about such things, but it was crushed by the[r]
+desire to be utterly ravaged by those men and vanished with a snap.[pcms]
 
 *1220|
 [fc]
-Have I lost myself? Then, what have I become...? Has someone taken[r]
-over my body...?[pcms]
+Have I ceased to be myself...? Then, what have I become...? Has[r]
+someone taken over my body...?[pcms]
 
 *1221|
 [fc]
@@ -344,13 +343,13 @@ over my body...?[pcms]
 
 *1222|
 [fc]
-Before I knew it, tears were spilling from my eyes. But I don't even[r]
+Before I knew it, tears were spilling from my eyes. But even I don't[r]
 understand why I'm crying.[pcms]
 
 *1223|
 [fc]
-Why am I crying? After all, something very fun is surely waiting for[r]
-me...[pcms]
+Why am I crying, I wonder. When something surely... very fun is[r]
+waiting for me...[pcms]
 
 *1224|
 [fc]
@@ -366,40 +365,40 @@ me...[pcms]
 *1225|
 [fc]
 [ns]Infected Person A[nse]
-"Oh! Found ya!"[pcms]
+"Oh! Found ya~"[pcms]
 
 *1226|
 [fc]
 The man notices me and embraces me with his log-like arms. My body[r]
-heats up even more from the touch I've been longing for.[pcms]
+heats up even more from the skin contact I've been longing for.[pcms]
 
 *1227|
 [fc]
 [vo_mak s="mako_1103"]
 [ns]Makoto[nse]
-"Ahh... Hold me tighter, much tighter. Mess me up... *smooch*"[pcms]
+"Ah... Hold me tighter, much tighter. Mess me up... Nchu."[pcms]
 
 ;//○（セリフ最後、キスです）
 
 *1228|
 [fc]
-I press my lips against the man who hugged me, sliding my tongue[r]
-forward into his mouth.[pcms]
+I press my lips against the man who hugged me and slide my tongue in[r]
+willingly.[pcms]
 
 *1229|
 [fc]
 [ns]Infected Person B[nse]
-"Ahh. A woman, a pussy."[pcms]
+"Ahh~. A woman~ a pussy~"[pcms]
 
 *1230|
 [fc]
 [ns]Infected Person C[nse]
-"Yay! Pussy! Pussy!"[pcms]
+"Yay~! A pussy! A pussy~!"[pcms]
 
 *1231|
 [fc]
-While catching a glimpse of the men starting to swarm around me, my[r]
-mind goes completely blank.[pcms]
+While catching a glimpse of the men starting to swarm in the corner of[r]
+my vision, my mind goes blank.[pcms]
 
 ;//♪_BGM10　フェードアウト
 ;//♪_BGM無音
@@ -429,17 +428,17 @@ mind goes completely blank.[pcms]
 [fc]
 [vo_mak s="mako_1104"]
 [ns]Makoto[nse]
-"Nnah! Dicks! Hard, hot dicks! *slurp slurp*, haah, haah"[pcms]
+"Nnah! Dicks! Hard, hot dicks! Nchururu, juru, haa, haa"[pcms]
 
 *1233|
 [fc]
 [ns]Infected Person A[nse]
-"You suck so good. Let me feel more from below."[pcms]
+"You got a nice suction. Let me feel it more from below~"[pcms]
 
 *1234|
 [fc]
 [ns]Infected Person B[nse]
-"Her pussy's so damn wet! What a lewd woman!"[pcms]
+"Her pussy's so wet too! What a lewd woman!"[pcms]
 
 ;//♂：以下、イベント絵が全裸等の場合追加用テキスト
 ;//♂：コメントアウトしておきます
@@ -448,65 +447,66 @@ mind goes completely blank.[pcms]
 
 *1235|
 [fc]
-Every time the men touch my body, my excitement grows. Their fingers[r]
-and dicks crawling all over my body feel so dear to me.[pcms]
+Each time the men touch my body, my excitement grows. Their fingers[r]
+and dicks crawling all over my body without missing a spot feel so[r]
+dear to me.[pcms]
 
 *1236|
 [fc]
 [vo_mak s="mako_1105"]
 [ns]Makoto[nse]
-"Nnhah! Nn! More, thrust into my pussy! Stir it uppp!"[pcms]
+"Nnhah! Nn! More, thrust into my pussy more! Stir it up eee!"[pcms]
 
 *1237|
 [fc]
 [ns]Infected Person B[nse]
-"Here! Here! How's that!?"[pcms]
+"Look! Look! How's that!?"[pcms]
 
 *1238|
 [fc]
 [vo_mak s="mako_1106"]
 [ns]Makoto[nse]
-"Ah! Ahn! It's good, my pussy is filled with so much heat!"[pcms]
+"Ah! Ahnna! It's good, my pussy is full of hotness ooooh!"[pcms]
 
 *1239|
 [fc]
-Dicks rub against the inside of my pussy over and over again. Each[r]
+The dicks rub against the inside of my pussy over and over again. Each[r]
 thrust sends a jolt from my stomach to the top of my head. The[r]
 addictive stimulation makes hot fluid seep out of my pussy.[pcms]
 
 *1240|
 [fc]
 [ns]Infected Person B[nse]
-"Were you that pent up? You like dicks that much? Come on, say it, 'I[r]
-love dicks.'"[pcms]
+"Were you that pent up~? Do you like dicks that much? Come on, say it,[r]
+'I love dicks'~"[pcms]
 
 *1241|
 [fc]
 [vo_mak s="mako_1107"]
 [ns]Makoto[nse]
-"No! Noo! That's... Ahh!"[pcms]
+"No! Noo! Tha...that's... Ah!"[pcms]
 
 *1242|
 [fc]
 [ns]Infected Person B[nse]
-"If you don't say it, I'll pull out, you know?"[pcms]
+"If you don't say it, I'll pull it out, you know~?"[pcms]
 
 *1243|
 [fc]
 [vo_mak s="mako_1108"]
 [ns]Makoto[nse]
-"No! Don't pull out, I don't want that!"[pcms]
+"No! Don't pull it out, I don't want that!"[pcms]
 
 *1244|
 [fc]
-Not wanting to let the hot dick escape, I clench my pussy tightly[r]
-around it.[pcms]
+Not wanting to let go of the hot dick, I clench my pussy tightly to[r]
+keep it in place.[pcms]
 
 *1245|
 [fc]
 [ns]Infected Person B[nse]
-"Ohhh! Such amazing suction! Seriously, you're making my clit so damn[r]
-happy. You like that? Huh? Hey!"[pcms]
+"Oooh! Such amazing suction~! Seriously, you're exposing your clit[r]
+like that. Does it feel that good? Eh? Hey!"[pcms]
 
 ;//白フラ
 ;//ab_H012
@@ -517,29 +517,29 @@ happy. You like that? Huh? Hey!"[pcms]
 [fc]
 [vo_mak s="mako_1109"]
 [ns]Makoto[nse]
-"Eeek! No, don't pinch there... Auh! Guh! Naaaaah! But, maybe it's[r]
+"Igyi! No, don't pinch there... Auh! Guh! Nnaaaaah! But maybe it's[r]
 good! More, my clit!"[pcms]
 
 *1247|
 [fc]
-The man's knobby fingers barely touch the most sensitive nub on my[r]
-body, and instantly, stars burst before my eyes.[pcms]
+Just a light touch from the man's knobby fingers on my most sensitive[r]
+spot made stars burst in front of my eyes.[pcms]
 
 *1248|
 [fc]
 [ns]Infected Person B[nse]
-"Oh, so that's good, huh!"[pcms]
+"Oh~ so that's how it is! Good!"[pcms]
 
 *1249|
 [fc]
 [vo_mak s="mako_1110"]
 [ns]Makoto[nse]
-"Naaaaahhh kuuuuh!! It's good! My head's going numb! Hauh! Hah, hah"[pcms]
+"Nnaaaaaah kuuuu!! It's good! My head's going numb! Hauh! Haa, haa"[pcms]
 
 *1250|
 [fc]
 [ns]Infected Person B[nse]
-"What? Don't need the dick anymore?"[pcms]
+"What? Don't need dicks anymore?"[pcms]
 
 ;//ab_H012
 [evcg storage="ab_H012b"][trans_c cross time=300]
@@ -552,74 +552,71 @@ body, and instantly, stars burst before my eyes.[pcms]
 
 *1252|
 [fc]
-To beg so lewdly for these men's hot flesh with my hips swaying...[pcms]
+To lewdly swing my hips and beg for these men's hot flesh like this.[pcms]
 
 *1253|
 [fc]
-It's unimaginable compared to how I was just a while ago. But now, I'm[r]
-addicted to the sensation of being gouged deep inside my belly.[pcms]
+It's unimaginable from how I was just a while ago. But now, I'm[r]
+addicted to the sensation of being gouged inside my belly.[pcms]
 
 *1254|
 [fc]
-I want more... I want the dick to stir up my insides... and I want my[r]
-clit to be played with more...[pcms]
+I want more... To be stirred up inside by a dick... And for my clit to[r]
+be played with more...[pcms]
 
 *1255|
 [fc]
 [ns]Infected Person B[nse]
-"Say clearly what you want."[pcms]
+"Say what you want clearly~"[pcms]
 
 *1256|
 [fc]
-But the man, refusing to satisfy my request, teasingly asks me again.[pcms]
+But the man who won't satisfy my demands keeps asking me teasingly.[pcms]
 
 *1257|
 [fc]
 [vo_mak s="mako_1112"]
 [ns]Makoto[nse]
-"Ahh...nhu... The dick... Put your dick deep inside my pussy![r]
-Hau...naaaaaah!!"[pcms]
+"Ah...nhu... Dicks. Put your dick inside my pussy all the way![r]
+Hau...nnaaaaaah!!"[pcms]
 
 *1258|
 [fc]
 [ns]Infected Person B[nse]
-"Heheh! Good girl, you said it well! Alright... I'll do just as you[r]
-wish! Here goes!"[pcms]
+"Hehe~! Well said! Alright... I'll do just as you wish! Here goes!"[pcms]
 
 *1259|
 [fc]
-When I beg clearly with words as well as with my body movements, every[r]
-time the hot, hard dick moves back and forth inside my vagina, a[r]
-"Aaaaaah! Ahn! Fuah!"[pcms]
+Only when I clearly beg with words, not just with body movements, does[r]
+he finally put his dick in all the way.[pcms]
 
 *1260|
 [fc]
-"Ah, aahn! This! This is definitely good! The dick is good!!"[pcms]
+Every time the hot and hard cock thrusts inside my vagina, a voice[r]
+leaks from my throat.[pcms]
 
 *1261|
 [fc]
 [vo_mak s="mako_1113"]
 [ns]Makoto[nse]
-I'm completely captivated by these men's dicks. Surrounded by so many[r]
-hot lumps of flesh, I feel like an ice cream melting under the blazing[r]
-sun, my head about to blissfully melt away.[pcms]
+"Aaaaaah! Ahn! Fuaah!"[pcms]
 
 *1262|
 [fc]
 [vo_mak s="mako_1114"]
 [ns]Makoto[nse]
-"Hey, don't just enjoy yourself, lick it."[pcms]
+"Ah, aahn! This! This is definitely good! The cock is good!!"[pcms]
 
 *1263|
 [fc]
-"Nchu, juru, it's so hard, njuru. It's twitching. It tastes so good.[r]
-Nn, nju, chururu."[pcms]
+I'm completely captivated by these men's cocks. Surrounded by so many[r]
+hot lumps of flesh, I feel like an ice cream under the blazing sun, my[r]
+head melting with happiness.[pcms]
 
 *1264|
 [fc]
 [ns]Infected Person A[nse]
-The dick is forcibly twisted inside, and a strange smell spreads[r]
-through my mouth. But I didn't hate it.[pcms]
+"Hey, don't just feel good by yourself, lick it."[pcms]
 
 ;//ab_H012
 [evcg storage="ab_H012a"][trans_c cross time=300]
@@ -628,70 +625,71 @@ through my mouth. But I didn't hate it.[pcms]
 [fc]
 [vo_mak s="mako_1115"]
 [ns]Makoto[nse]
-Far from hating it, I could feel the pulsing more directly than when[r]
-it was inside my vagina, which only accelerated my excitement.[pcms]
+"Nchu, juru, it's so hard, njuru. It's twitching. It tastes so good.[r]
+Nn, nju, chururu."[pcms]
 
 *1266|
 [fc]
-"Ahh, your breasts are so soft~. This feeling, it's good!"[pcms]
+The cock is forcibly twisted inside, and a strange smell spreads in my[r]
+mouth. But I didn't hate it.[pcms]
 
 *1267|
 [fc]
-"Njuru... my breasts, they're feeling the dick! Nchu... please! Play[r]
-with my nipples with your dick!"[pcms]
+Far from hating it, I could feel the pulsing more directly than when[r]
+it's inside my vagina, and it accelerated my excitement.[pcms]
 
 *1268|
 [fc]
 [ns]Infected Person C[nse]
-The tip of the dick plays with my nipples, and the liquid flowing from[r]
-it obscenely shines on my swollen nipples. A different kind of heat[r]
-than the uncomfortable one takes over my body.[pcms]
+"Ahh, your breasts are so soft~. This feeling, it's good!"[pcms]
 
 *1269|
 [fc]
 [vo_mak s="mako_1116"]
 [ns]Makoto[nse]
-"I'm about to let it all out~!"[pcms]
+"Njuru... my breasts, they're feeling the cold cock! Nchu... please![r]
+Play with my nipples with your cock!"[pcms]
 
 ;//○（フェラの合間にセリフ）
 
 *1270|
 [fc]
-"Nju... is the semen coming out? Is it going to come out? Inside my[r]
-pussy, are you going to ejaculate!?"[pcms]
+The tip of the cock toys with my nipples, and the liquid flowing from[r]
+it lasciviously shines on my swollen nipples. A different kind of heat[r]
+than the uncomfortable one takes over my body.[pcms]
 
 *1271|
 [fc]
 [ns]Infected Person B[nse]
-"Ou! Me too~. Drink it all up for me~!"[pcms]
+"I'm about to let it all out~!"[pcms]
 
 *1272|
 [fc]
 [vo_mak s="mako_1117"]
 [ns]Makoto[nse]
-"Me too"[pcms]
+"Nju... is your semen coming out? Is it going to come out? Are you[r]
+going to ejaculate inside my pussy!?"[pcms]
 
 *1273|
 [fc]
 [ns]Infected Person A[nse]
-"Ahah! Let it out! In my pussy, in my mouth, everywhere... Give me all[r]
-your semen! Semen! Give me your semen!!"[pcms]
+"Ou! Me too~. Drink it all up for me~!"[pcms]
 
 *1274|
 [fc]
 [ns]Infected Person C[nse]
-I'm surrounded by men, by dicks everywhere. I'm so happy I can't help[r]
-it.[pcms]
+"Me too"[pcms]
 
 *1275|
 [fc]
 [vo_mak s="mako_1118"]
 [ns]Makoto[nse]
-"I'm going crazy... I'm about to come too!!"[pcms]
+"Ahah! Let it out! In my pussy, in my mouth, everywhere... Give me all[r]
+of your semen! Semen! Give me your semen!!"[pcms]
 
 *1276|
 [fc]
-"Naaaaah! Ah... ah..."[pcms]
+Men are all around me, cocks everywhere. I'm so happy I can't help it.[pcms]
 
 ;//白フラ
 ;//ab_H012
@@ -702,7 +700,7 @@ it.[pcms]
 [fc]
 [vo_mak s="mako_1119"]
 [ns]Makoto[nse]
-"Aaah... I... I peed..."[pcms]
+"I'm going crazy... I'm going to come too!!"[pcms]
 
 ;//ab_012H　射精差分
 [se buf=0 storage="se_sex01"]
@@ -716,7 +714,7 @@ it.[pcms]
 [fc]
 [vo_mak s="mako_1120"]
 [ns]Makoto[nse]
-"Ahahaha! This chick squirted!"[pcms]
+"Naaaaaah! Ah... ah..."[pcms]
 
 ;//ab_012H　射精後差分
 [evcg storage="ab_H012f"][trans_c cross time=300]
@@ -732,20 +730,20 @@ it.[pcms]
 [fc]
 [vo_mak s="mako_1121"]
 [ns]Makoto[nse]
-My body feels like it's floating in the air, and my vision is[r]
-flickering.[pcms]
+"Aaah... I... I peed..."[pcms]
 
 *1280|
 [fc]
 [ns]Infected Person B[nse]
-Ah... my head is going white...[pcms]
+"Ahahaha! This chick squirted!"[pcms]
 
 ;//♯_ホワイトフラッシュ
 [白フラ]
 
 *1281|
 [fc]
-What was I doing? I have to go home... With everyone...[pcms]
+My body feels like it's floating in the air, and my vision is[r]
+flickering.[pcms]
 
 ;//♯_ホワイトフラッシュ
 [白フラ]
@@ -764,15 +762,14 @@ What was I doing? I have to go home... With everyone...[pcms]
 
 *1282|
 [fc]
-That's right, the car... That car... we have to fix it... and go with[r]
-everyone...[pcms]
+Ah... my head is going blank...[pcms]
 
 ;//#_ホワイトアウト
 [白フラ]
 
 *1283|
 [fc]
-[returntitle][s]
+What was I doing? I have to go home... With everyone...[pcms]
 
 ;//♂：以下、イベント絵が全裸等の場合追加用テキスト
 ;//♂：コメントアウトしておきます
@@ -782,7 +779,8 @@ everyone...[pcms]
 
 *1284|
 [fc]
-[returntitle][s]
+That's right, the car... That car... we have to fix it... with[r]
+everyone...[pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る

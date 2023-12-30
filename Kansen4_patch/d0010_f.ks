@@ -553,9 +553,6 @@ Now, which place should we head to first?[pcms]
 ;//※選択肢発生
 ;//１．情報入手が先だ　　ラベルFへ
 ;//２．真坂の言葉の意味は？　ラベルGへ
-;	[link storage="D0010_G.ks" target=*D0010_G]情報入手が先だ[endlink]
-;       (link storage="D0010_H.ks" target=*D0010_H)What does Masaka-[r]
-san mean by that?(endlink)[pcms]
 
 
 *SEL10|情報入手が先だ／真坂さんの言葉の意味は？
