@@ -715,7 +715,7 @@
 ;選択肢のフォントサイズ定義
 ;[eval exp="sf.selfont = 24"]
 ;選択肢のフォントサイズ定義
-[eval exp="sf.seltext_size = 24"]
+[eval exp="sf.seltext_size = 20"]
 ;文字列のマージントップ
 [eval exp="sf.sel_text_mt = 8"]
 
