@@ -818,11 +818,11 @@ men.[pcms]
 *5487|
 [fc]
 Both me and Makoto are starting to become strange like these men?[r]
-But...but still....[pcms]
+But...but still...[pcms]
 
 *5488|
 [fc]
-I don't care about that anymore. If only my body could move....[pcms]
+I don't care about that anymore. If only my body could move...[pcms]
 
 *5489|
 [fc]

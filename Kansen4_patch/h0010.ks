@@ -1692,20 +1692,18 @@ Hmph... That's what happens when you oppose me.[pcms]
 *9189|
 [fc]
 [ns]Daisuke[nse]
-「ふん……」[pcms]
+"Hmph..."[pcms]
 
 *9190|
 [fc]
-いまなら、なんだってできそうだ。[r]
-いや、できるはずなんだ！[r]
-なんたって、おれは、かみだからな！[pcms]
+Right now, I feel like I could do anything. No, I must be able to![r]
+After all, I am a god![pcms]
 
 *9191|
 [fc]
 [ns]Daisuke[nse]
-「おおっ！　かみさま！　いいひびきだっ！[r]
-　よし……こっ……このままのいきおいで……！[r]
-　ま、ま、まちも、お、おれのモンにしてやるっ！」[pcms]
+"Oh! God! That has a nice ring to it! Alright... with this[r]
+momentum...! I'll make the town, no, everything mine!"[pcms]
 
 [ChrSetEx layer=5 chbase="nt_cA04"][ChrSetXY layer=5 x=162 y=40][trans_c cross time=150]
 
@@ -1713,14 +1711,13 @@ Hmph... That's what happens when you oppose me.[pcms]
 [fc]
 [vo_koz s="kozu_1341"]
 [ns]Kozue[nse]
-「おれのモン？」[pcms]
+"Mine?"[pcms]
 
 *9193|
 [fc]
 [ns]Daisuke[nse]
-「ああ！　まちぜんぶ……いや、せかいじゅうを、[r]
-　おれらのモンにするんだよ！　おれらがきっかけになって、[r]
-　せかいじゅうしあわせに……へいわにするんだよ！」[pcms]
+"Yeah! The whole town... no, the entire world will be ours! We'll be[r]
+the catalyst for making the whole world happy... and peaceful!"[pcms]
 
 [ChrSetEx layer=5 chbase="ma_cA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1728,7 +1725,7 @@ Hmph... That's what happens when you oppose me.[pcms]
 [fc]
 [vo_aya s="aya_1622"]
 [ns]Aya[nse]
-「それは、よいことですね！」[pcms]
+"That sounds like a good thing!"[pcms]
 
 [ChrSetEx layer=5 chbase="ab_aA05"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1736,17 +1733,15 @@ Hmph... That's what happens when you oppose me.[pcms]
 [fc]
 [vo_mak s="mako_1743"]
 [ns]Makoto[nse]
-「でも、どうやって……？　どうやって、アンタのモンにするの？[r]
-　……あぁ！　いまみたく、いっせいにおそっちゃうってこと！？[r]
-　おもしろそうっ！」[pcms]
+"But how...? How are you going to make it yours? ...Ah! Like we just[r]
+did, attacking all at once!? That sounds fun!"[pcms]
 
 [ChrSetEx layer=5 chbase="ab_aC01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *9196|
 [fc]
 [ns]Daisuke[nse]
-「だろう！？　だろう！？　みんな……、[r]
-　きょうりょく、してくれるか？」[pcms]
+"Right!? Right!? Everyone... will you cooperate with me?"[pcms]
 
 [ChrSetEx layer=5 chbase="nt_cA02"][ChrSetXY layer=5 x=162 y=40][trans_c cross time=150]
 
@@ -1754,7 +1749,7 @@ Hmph... That's what happens when you oppose me.[pcms]
 [fc]
 [vo_koz s="kozu_1342"]
 [ns]Kozue[nse]
-「うん！　だいすけにいちゃんのやりたいこと、やって」[pcms]
+"Yeah! I'll do whatever Daisuke-niichan wants to do."[pcms]
 
 [ChrSetEx layer=5 chbase="ab_aC01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1762,7 +1757,7 @@ Hmph... That's what happens when you oppose me.[pcms]
 [fc]
 [vo_mak s="mako_1744"]
 [ns]Makoto[nse]
-「アンタといっしょなら、あきなさそう！　ついていくよっ！」[pcms]
+"If I'm with you, it won't be boring! I'll follow you!"[pcms]
 
 [ChrSetEx layer=5 chbase="ma_cA02"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1770,7 +1765,7 @@ Hmph... That's what happens when you oppose me.[pcms]
 [fc]
 [vo_aya s="aya_1623"]
 [ns]Aya[nse]
-「わたしも……おとも、します」[pcms]
+"I will... accompany you as well."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -1779,59 +1774,54 @@ Hmph... That's what happens when you oppose me.[pcms]
 
 *9200|
 [fc]
-随分この場所にいた気がする。[r]
-このまま、ここにいてもいいが、やはり街へ行くべきだ。[pcms]
+I feel like we've been in this place for a while. We could stay here,[r]
+but we should head to the town.[pcms]
 
 *9201|
 [fc]
-そして、街のみんなにも、俺が神になったことを、[r]
-みんなにもこの快感を伝えるべきだ。[r]
-そう、何のしがらみも無い、気楽な世界を。[pcms]
+And then, let everyone in the town know that I've become a god, to[r]
+spread this pleasure to everyone. Yes, a world without any shackles,[r]
+where everyone can be carefree.[pcms]
 
 *9202|
 [fc]
 [ns]Daisuke[nse]
-「でも、ダリィんだよなぁ……」[pcms]
+"But, it's such a drag..."[pcms]
 
 *9203|
 [fc]
-街はまだ見えない。[r]
-あとどの位歩けば良いのだろうか。[pcms]
+The town is still not in sight. How much further do we have to walk?[pcms]
 
 *9204|
 [fc]
-あるくの、めんどくせぇしなあ……。[r]
-どうすっかなあ……ん？[pcms]
+Walking is such a hassle... What should I do... huh?[pcms]
 
 ;//■_足をひきずって歩く足音
 [se buf=0 storage="se042"]
 
 *9205|
 [fc]
-街に向かうべきか、どうするべきか。[r]
-迷う俺の前に、一人の女の子が姿を現した。[pcms]
+Should I head towards the town or do something else? As I was[r]
+pondering, a girl appeared before me.[pcms]
 
 *9206|
 [fc]
-その女の子は、俺達の事に気がつかない様な感じで、[r]
-とぼとぼ歩き、山へとむかっていった。[pcms]
+The girl seemed unaware of us and trudged along towards the mountain.[pcms]
 
 *9207|
 [fc]
 [ns]Daisuke[nse]
-「なんだぁ？　アイツ……。[r]
-　おれたちと、おなじニオイしたけど……。[r]
-　それに、どこかでみたんだけどな……どこだっけな……」[pcms]
+"What's with her? She... smelled the same as us... And I've seen her[r]
+somewhere before... where was it..."[pcms]
 
 *9208|
 [fc]
-すこしまえに、みたきがする……。[r]
-だけど、だれだっけ……。[pcms]
+I feel like I saw her a little while ago... But who was she...?[pcms]
 
 *9209|
 [fc]
 [ns]Daisuke[nse]
-「うん……」[pcms]
+"Hmm..."[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -1843,29 +1833,25 @@ Hmph... That's what happens when you oppose me.[pcms]
 [fc]
 [vo_koz s="kozu_1343"]
 [ns]Kozue[nse]
-「ねぇ……そ、そろそろ、いこうよ……。[r]
-　つかれた、とかいわないから……」[pcms]
+"Hey... let's get going soon... I won't say I'm tired..."[pcms]
 
 *9211|
 [fc]
 [ns]Daisuke[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *9212|
 [fc]
-そうだよ。[r]
-あのこだって、ここまでこれたんだ。[r]
-かみさまの、おれにできないハズはない。[pcms]
+That's right. If that girl could make it this far, there's no way I, a[r]
+god, can't do it.[pcms]
 
 *9213|
 [fc]
-かならず、せかいじゅうを、おれのちからで、[r]
-しあわせにしてみせるんだ。[pcms]
+I will definitely make the whole world happy with my power.[pcms]
 
 *9214|
 [fc]
-さっきの、おんなのこみたいに、[r]
-もう、だれにもなみだをながさせないんだ！[pcms]
+Just like that girl earlier, I won't let anyone shed tears anymore![pcms]
 
 [ChrSetEx layer=5 chbase="ma_cA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1873,19 +1859,18 @@ Hmph... That's what happens when you oppose me.[pcms]
 [fc]
 [vo_aya s="aya_1624"]
 [ns]Aya[nse]
-「では、そろそろいきますか？　ここまできたら、[r]
-　まちは、もうすぐです。がんばりましょう……」[pcms]
+"Shall we get going then? Now that we've come this far, the town is[r]
+just around the corner. Let's do our best..."[pcms]
 
 *9216|
 [fc]
-みんな、やるきあるなあ……。[r]
-……そうだな……おれも、あんなおんなのこに、[r]
-それに、みんなにまけてられないからな！[pcms]
+Everyone is so motivated... Yeah... I can't lose to that girl or[r]
+anyone else![pcms]
 
 *9217|
 [fc]
 [ns]Daisuke[nse]
-「そうだな！」[pcms]
+"That's right!"[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -1894,12 +1879,12 @@ Hmph... That's what happens when you oppose me.[pcms]
 
 *9218|
 [fc]
-ようやく、重い腰を上げた俺は、みんなの先頭に立って、[r]
-街へと足を向けた。[pcms]
+Finally lifting my heavy hips, I took the lead and headed towards the[r]
+town.[pcms]
 
 *9219|
 [fc]
-世界を救うために。[pcms]
+To save the world.[pcms]
 
 ;//システムアイコン消去＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1912,18 +1897,16 @@ Hmph... That's what happens when you oppose me.[pcms]
 
 *9220|
 [fc]
-俺達は歩いた。[r]
-長い長い時間、歩いた。[r]
-自らの使命の為に。[pcms]
+We walked. We walked for a long, long time. For our mission.[pcms]
 
 *9221|
 [fc]
-そして、やっと見覚えのある場所までたどり着いた。[r]
-だが、そこは見覚えがあって、無い場所だった。[pcms]
+And at last, we arrived at a familiar place. But it was both familiar[r]
+and unfamiliar.[pcms]
 
 *9222|
 [fc]
-道路には穴が開き、そこら中で火事が起きていたからだ。[pcms]
+There were holes in the road and fires everywhere.[pcms]
 
 ;//★_バリケード前　夕方
 [bg storage="bg31c"][trans_c cross time=500]
@@ -1931,8 +1914,8 @@ Hmph... That's what happens when you oppose me.[pcms]
 *9223|
 [fc]
 [ns]Daisuke[nse]
-「なんだこれ……おれたちの……おれのまちが……。[r]
-　それに、なんだあいつら……！」[pcms]
+"What is this... our... my town has..." And what are those guys[r]
+doing...!"[pcms]
 
 [ChrSetEx layer=3 chbase="etc_01b"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=5 chbase="etc_01b"][ChrSetXY layer=5 x=162 y=0]
@@ -1940,21 +1923,20 @@ Hmph... That's what happens when you oppose me.[pcms]
 
 *9224|
 [fc]
-俺達の街の入り口には、ゴツい男達や戦車が並び、[r]
-物々しい雰囲気を漂わせていた。[pcms]
+At the entrance of our town, there were burly men and tanks lined up,[r]
+creating an ominous atmosphere.[pcms]
 
 *9225|
 [fc]
-あいつら……。[pcms]
+Those guys...[pcms]
 
 *9226|
 [fc]
-おれがいないあいだに、[r]
-おれのまちをすきかってしようとしてたんだな……。[pcms]
+While I was away, they tried to take advantage of my town...[pcms]
 
 *9227|
 [fc]
-クソッタレどもめ！[pcms]
+Damn them all![pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -1964,8 +1946,8 @@ Hmph... That's what happens when you oppose me.[pcms]
 *9228|
 [fc]
 [ns]Daisuke[nse]
-「くそっ！　あいつら……めにものみせてやるっ！[r]
-　ぜんいん……ぜんいんつっこめえぇっ！！」[pcms]
+"Damn it! Those guys... I'll show them what for! Everyone...[r]
+charge!!!"[pcms]
 
 [ChrSetEx layer=3 chbase="etc_03c"][ChrSetXY layer=3 x=-50 y=0]
 [ChrSetEx layer=5 chbase="etc_02c"][ChrSetXY layer=5 x=162 y=0]

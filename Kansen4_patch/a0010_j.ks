@@ -524,8 +524,8 @@ I understand that feeling when I think back to Kozue as a child.[pcms]
 [vo_koz s="kozu_0060"]
 [ns]Kozue[nse]
 "But you know, becoming a good bride is quite tough. Cooking, laundry,[r]
-cleaningI want to do all of them properly and learn about nutrition[r]
-to keep my family healthy."[pcms]
+cleaningI want to do all of them properly and learn about nutrition to[r]
+keep my family healthy."[pcms]
 
 *669|
 [fc]

@@ -1395,9 +1395,9 @@ hood.[pcms]
 
 *5993|
 [fc]
-I strained all my senseseyes, ears, everythingto be on guard.[r]
-However, the sound was just a one-time occurrence, and silence had[r]
-returned to our surroundings.[pcms]
+I strained all my senseseyes, ears, everythingto be on guard. However,[r]
+the sound was just a one-time occurrence, and silence had returned to[r]
+our surroundings.[pcms]
 
 [ChrSetEx layer=5 chbase="ab_cB02"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 

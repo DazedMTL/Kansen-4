@@ -2065,7 +2065,6 @@ there was a bulletin board plastered with many papers.[pcms]
 
 *1755|
 [fc]
-To Mother - Heading to relatives' house in Tokyo" "Kikuchi Tomohiro:[r]
 To Yko - Waiting at home"[pcms]
 
 *1756|

@@ -1654,8 +1654,8 @@ Despite the valuable advice, I had wasted it.[pcms]
 *4687|
 [fc]
 They must have been concerned about me. Of course, they must be[r]
-feeling the same way as me. Everyone silently passed the time as (ruby[r]
-text="とき")time went by.[pcms]
+feeling the same way as me. Everyone silently waited as time[r]
+went by.[pcms]
 
 ;//システムアイコン消去＆メッセージウィンドウ消去
 [sysbt_meswin clear]

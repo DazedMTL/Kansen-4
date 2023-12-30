@@ -28,31 +28,27 @@
 *3375|
 [fc]
 [ns]Daisuke[nse]
-「ん……」[pcms]
+"Hmm..."[pcms]
 
 *3376|
 [fc]
-取り敢えず目が醒めたものの、頭がぼうっとしていた。[r]
-どうやら夕べは呑みすぎたようだ。[r]
-途中からの記憶が飛んでいる。[pcms]
+I woke up, but my head was still fuzzy. It seems I drank too much last[r]
+night. I can't remember anything from a certain point on.[pcms]
 
 *3377|
 [fc]
-周りを見回すと俺の荷物があったので、ここは俺のコテージで[r]
-あるのは間違いなさそうだ。[r]
-どうやって戻ってきたのかさえ、よく覚えていない。[pcms]
+Looking around, I saw my belongings, so there was no doubt this was my[r]
+cottage. I can't even clearly remember how I got back here.[pcms]
 
 *3378|
 [fc]
-なんだかやたらとはしゃいだような覚えはあるんだが……。[r]
-何かやらかしてなければ、いいんだけれど……。[r]
-特に、女の子達に対して……とか……。[pcms]
+I have some recollection of being unusually lively... I just hope I[r]
+didn't do anything... especially towards the girls...[pcms]
 
 *3379|
 [fc]
-何時だろうと思い、携帯を見て、俺はしっかりと目が覚めた。[r]
-午後５時！！　何時に寝たのかはわからないけれど、[r]
-でも、夕方といえる時間帯になっていた。[pcms]
+Wondering what time it was, I checked my phone and fully woke up. 5[r]
+PM!! I don't know when I went to sleep, but it was already evening.[pcms]
 
 [bgm storage="bgm03"]
 
@@ -61,14 +57,15 @@
 
 *3380|
 [fc]
-真夏だけあって、外に出てみるとまだ日差しの中だった。[r]
-見回してみたが、誰もいない。[r]
-まだみんな眠っているのかもしれない。[pcms]
+Being the height of summer, it was still bright outside when I went[r]
+out. Looking around, there was no one else. Maybe everyone else is[r]
+still asleep.[pcms]
 
 *3381|
 [fc]
-いくらなんでもそろそろ起きて、帰り支度をしないと[r]
-まずいだろうと思い、俺は取り急ぎ翔くんのコテージを目指した。[pcms]
+At any rate, it's about time to get up and start preparing to go home.[r]
+It would be bad not to, so I hurriedly headed towards Shou-kun's[r]
+cottage.[pcms]
 
 ;//♯_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -83,13 +80,13 @@
 *3382|
 [fc]
 [ns]Daisuke[nse]
-「翔くんっ！　翔くんっ！！　起きてる？　起きてよっ！！」[pcms]
+"Shou-kun! Shou-kun!! Are you awake? Wake up!!"[pcms]
 
 *3383|
 [fc]
-俺は翔くんのコテージの扉をドンドンと叩いたが、中からは[r]
-何の反応も無かった。どうしようかと思いながらドアノブを[r]
-回すと開いたので、そのまま俺は中に入った。[pcms]
+I banged on the door of Shou-kun's cottage, but there was no response[r]
+from inside. As I wondered what to do, I tried the doorknob and it[r]
+opened, so I went inside.[pcms]
 
 ;//★_コテージ内部　夕方　bg17b.bmp
 [bg storage="bg17b"][trans_c cross time=500]
@@ -97,14 +94,12 @@
 *3384|
 [fc]
 [ns]Daisuke[nse]
-「翔くんっ！　翔くんってばっ！　起きてよっ！[r]
-　ってか、起きろってばっ！！」[pcms]
+"Shou-kun! Come on, Shou-kun! Wake up! I mean, wake up already!!"[pcms]
 
 *3385|
 [fc]
-翔くんはしっかり夢の中。[r]
-声を掛けるだけでは起きそうにないので、俺は翔くんの身体を[r]
-揺さぶり、ついでに鼻もつまんでやった。[pcms]
+Shou-kun was deep in sleep. Just calling out wasn't going to wake him,[r]
+so I shook his body and pinched his nose for good measure.[pcms]
 
 ;//嶺岸・寝起きなのでジャケット無しaにしておく
 [ChrSetEx layer=5 chbase="is_UP_aA06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -112,61 +107,58 @@
 *3386|
 [fc]
 [ns]Shou[nse]
-「ん……んっ……んんっ！　ぶはあっ！！[r]
-　ってめっ！　だいっ！　なんちゅう起こし方するんだよっ！」[pcms]
+"Mmm... Mmm... Mmmph! Bwah!! Hey! Dai! What kind of way is that to[r]
+wake someone up?!"[pcms]
 
 *3387|
 [fc]
-さすがに鼻をつままれた翔くんは、息苦しさからガバッと[r]
-上半身を起こした。多少の怒りを伴いながら。[r]
-俺につかみかかろうとするのを、するりとかわしてやった。[pcms]
+As expected, Shou-kun sat up abruptly after having his nose pinched,[r]
+slightly angry. He tried to grab me, but I smoothly dodged.[pcms]
 
 *3388|
 [fc]
 [ns]Daisuke[nse]
-「しょーがないだろー。何度も声掛けたんだぜ、翔くん。[r]
-　それよりも、今何時だかわかってる？[r]
-　もう夕方の５時なんだよ。まずいって、帰らないと」[pcms]
+"Can't help it, man. I called out to you so many times, Shou-kun. More[r]
+importantly, do you know what time it is? It's already 5 in the[r]
+evening. We really should be heading back."[pcms]
 
 [ChrSetEx layer=5 chbase="is_UP_aA05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3389|
 [fc]
 [ns]Shou[nse]
-「んあ？　あ、ほんとだ。５時だ。朝の５時じゃねーよな？」[pcms]
+"Huh? Oh, really? 5 o'clock. It's not 5 in the morning, right?"[pcms]
 
 *3390|
 [fc]
 [ns]Daisuke[nse]
-「夕方の５時だってば。あんまり帰宅が遅くなると、[r]
-　女の子達に迷惑かかるだろ？　と言っても、俺以外[r]
-　誰も起きてなかったんだけどさ」[pcms]
+"It's 5 in the evening. If we get back too late, it'll be a hassle for[r]
+the girls. Though when I woke up, no one else was up yet."[pcms]
 
 [ChrSetEx layer=5 chbase="is_UP_aA02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3391|
 [fc]
 [ns]Shou[nse]
-「はははっ。夕べはしこたま呑んだからな。[r]
-　たーっぷり眠ったおかげで、俺はすっかり抜けたけど、[r]
-　だいは大丈夫か？」[pcms]
+"Hahaha. We did drink a ton last night. Thanks to a good long sleep,[r]
+I'm feeling refreshed now. But are you okay, Dai?"[pcms]
 
 *3392|
 [fc]
 [ns]Daisuke[nse]
-「うん、それは大丈夫。それよりも、女性陣を起こさないと[r]
-　まずいと思うんだけどさ……その……」[pcms]
+"Yeah, I'm fine. But more importantly, we need to wake up the[r]
+ladies... that..."[pcms]
 
 *3393|
 [fc]
 [ns]Shou[nse]
-「あー、そうだな。どれ、サエを起こすか。[r]
-　で、サエに女の子たちのコテージ回ってもらおうや」[pcms]
+"Ah, right. Let's go wake up Saeko. Then we can have her go around to[r]
+the girls' cottages."[pcms]
 
 *3394|
 [fc]
 [ns]Daisuke[nse]
-「うん、そうして…………？」[pcms]
+"Yeah, and then...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -197,14 +189,14 @@
 *3395|
 [fc]
 [ns]Daisuke[nse]
-「なんだろ？　サイレン？　なんのサイレン？」[pcms]
+"What's that? A siren? What kind of siren?"[pcms]
 
 [ChrSetEx layer=5 chbase="is_UP_aA01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3396|
 [fc]
 [ns]Shou[nse]
-「なんだろな……」[pcms]
+"I wonder..."[pcms]
 
 ;//SEボリューム変更
 ;<SoundVolume 2,-1000,500>
@@ -215,15 +207,15 @@
 [fc]
 [vo_sae s="sae_0151"]
 [ns]Saeko[nse]
-「ん……。なに？　何か……音が……。[r]
-　あら……ダイちゃん。おはよう。どうしたの？」[pcms]
+"Hmm... What? There's some... noise... Oh... Good morning, Dai-chan.[r]
+What's going on?"[pcms]
 
 [ChrSetEx layer=5 chbase="is_UP_aA01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *3398|
 [fc]
 [ns]Shou[nse]
-「サエ、起きたか。今何時だと思う？　夕方の５時だぜ」[pcms]
+"Saeko, you're awake. Guess what time it is? It's 5 PM."[pcms]
 
 [ChrSetEx layer=5 chbase="ki_UP_bB01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
@@ -231,24 +223,24 @@
 [fc]
 [vo_sae s="sae_0152"]
 [ns]Saeko[nse]
-「え？　うそぉ……」[pcms]
+"Eh? No way..."[pcms]
 
 *3400|
 [fc]
-サイレンの音で冴子さんは目を覚ましたようだ。[r]
-少しぽやんとした顔をしている、寝起きの冴子さん……。[pcms]
+It seems the sound of the siren woke Saeko-san up. She had a slightly[r]
+dazed look on her face, just having woken up...[pcms]
 
 *3401|
 [fc]
-翔くんはいつも、こんな冴子さんの姿も見ているんだよな。[r]
-大人の女と俺が思っている冴子さんの無防備な姿に、ついつい[r]
-可愛らしいと感じて、次いで翔くんが改めて羨ましくなっていた。[pcms]
+Shou-kun always sees Saeko-san like this too. The defenseless[r]
+appearance of Saeko-san, whom I consider an adult woman, made me feel[r]
+she was quite cute, and once again I found myself envying Shou-kun.[pcms]
 
 *3402|
 [fc]
 [ns]Daisuke[nse]
-「おはようございます、冴子さん。俺、外に出ますね。[r]
-　この音がなんなのかも気になるし」[pcms]
+"Good morning, Saeko-san. I'm going outside. I'm curious about that[r]
+noise."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -257,15 +249,15 @@
 
 *3403|
 [fc]
-そう言いながら、俺は翔くんと冴子さんのコテージをあとにした。[r]
-どこかから、間近ではないけれどサイレンの音がしている。[r]
-でも、音は聞えるけれど、いったいなんのサイレンなのか不明だ。[pcms]
+Saying that, I left Shou-kun and Saeko-san's cottage behind. The sound[r]
+of a siren was coming from somewhere not too close by. But while I[r]
+could hear it, it was unclear what kind of siren it was.[pcms]
 
 *3404|
 [fc]
-隣のコテージの扉がカチャリと開いて真坂さんが出てきた。[r]
-少し眠そうな顔をしている。[r]
-俺に気が付くと、真坂さんはゆっくりと頭を下げてきた。[pcms]
+The door to the next cottage clicked open and Masaka-san came out[r]
+looking a bit sleepy. When she noticed me, Masaka-san slowly bowed her[r]
+head.[pcms]
 
 [ChrSetEx layer=5 chbase="ma_eD02"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -273,14 +265,14 @@
 [fc]
 [vo_aya s="aya_0235"]
 [ns]Aya[nse]
-「おはようございます……仙道君。あの……あれ、[r]
-　なんの音ですか？　サイレンに聞こえますよね？」[pcms]
+"Good morning... Sendou-kun. Um... that noise, what is it? It sounds[r]
+like a siren, doesn't it?"[pcms]
 
 *3406|
 [fc]
 [ns]Daisuke[nse]
-「おはよう、真坂さん。うん、サイレンっぽいんだけど、[r]
-　いったい何のサイレンなのか、わかんないんだ」[pcms]
+"Good morning, Masaka-san. Yeah, it does sound like a siren, but I[r]
+have no idea what it's for."[pcms]
 
 [ChrSetEx layer=5 chbase="ma_eD01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -288,12 +280,12 @@
 [fc]
 [vo_aya s="aya_0236"]
 [ns]Aya[nse]
-「……そうですか……。気になりますね……」[pcms]
+"...I see... It's concerning..."[pcms]
 
 *3408|
 [fc]
-そう言いながら真坂さんは可愛らしく口を手で覆って、[r]
-生あくびをかみ殺していた。[pcms]
+Saying that, Masaka-san cutely covered her mouth with her hand and[r]
+stifled a yawn.[pcms]
 
 ;//嶺岸・寝起きなのでジャケット無しeにしておく
 [ChrSetEx layer=5 chbase="ab_eA06"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
@@ -302,8 +294,8 @@
 [fc]
 [vo_mak s="mako_0363"]
 [ns]Makoto[nse]
-「うー……ダイスケ、絢さん、おはよー……。[r]
-　なんか、鳴ってるねー。なに、あれ？」[pcms]
+"Ugh... Daisuke, Aya-san, good morning... There's some noise. What is[r]
+that?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="ma_eA07"][ChrSetXY layer=3 x=0 y=0]
@@ -313,7 +305,7 @@
 [fc]
 [vo_aya s="aya_0237"]
 [ns]Aya[nse]
-「私も今起きたばかりで……何かのサイレンのようなんですが」[pcms]
+"I just woke up too... It seems like some kind of siren."[pcms]
 
 [ChrSetEx layer=4 chbase="ab_eA07"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -321,12 +313,13 @@
 [fc]
 [vo_mak s="mako_0364"]
 [ns]Makoto[nse]
-「ふーん……あー……頭に響くー。うー、ちょっと頭痛いかもー」[pcms]
+"Hmm... Ah... It's resonating in my head. Ugh, I might have a bit of a[r]
+headache."[pcms]
 
 *3412|
 [fc]
 [ns]Daisuke[nse]
-「はははっ、二日酔いか、マコト？」[pcms]
+"Hahaha, got a hangover, Makoto?"[pcms]
 
 [ChrSetEx layer=3 chbase="ma_eA03"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
@@ -334,14 +327,14 @@
 [fc]
 [vo_aya s="ayaA_0001"]
 [ns]Aya[nse]
-「大丈夫ですか、眞琴さん？　あ、私、痛み止めなら[r]
-　持ってますから、あとで、差し上げますね」[pcms]
+"Are you okay, Makoto-san? Oh, I have some painkillers with me if you[r]
+need them later."[pcms]
 
 *3414|
 [fc]
 [vo_mak s="mako_0366"]
 [ns]Makoto[nse]
-「うー、ありがとー絢さん」[pcms]
+"Ugh, thanks Aya-san."[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="nt_cA11"][ChrSetXY layer=5 x=162 y=40][trans_c cross time=150]

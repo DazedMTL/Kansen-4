@@ -293,157 +293,156 @@ already..."[pcms]
 *6602|
 [fc]
 [ns]Daisuke[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *6603|
 [fc]
-マコトは悲しげに俺から視線をそらして、うつむいていた。[pcms]
+Makoto averted her gaze from me with sadness and hung her head.[pcms]
 
 *6604|
 [fc]
-何がマコトをそうさせているんだろうか、[r]
-俺はゆっくりとマコトに語りかけていく。[pcms]
+I wonder what's making Makoto act like this, I slowly start to speak[r]
+to her.[pcms]
 
 *6605|
 [fc]
 [ns]Daisuke[nse]
-「俺たちは親友じゃないか、その親友が苦しんでいるのに、[r]
-　かまわないなんてできないよ」[pcms]
+"Aren't we best friends? I can't just ignore my best friend when she's[r]
+suffering."[pcms]
 
 *6606|
 [fc]
 [vo_mak s="mako_1505"]
 [ns]Makoto[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *6607|
 [fc]
-親友……俺がそう表現したことで、[r]
-マコトの元気を失った心がゆるやかに開いた気がした。[pcms]
+Best friends... My use of that term seemed to gently open up Makoto's[r]
+disheartened heart.[pcms]
 
 *6608|
 [fc]
 [vo_mak s="mako_1506"]
 [ns]Makoto[nse]
-「もう助からないと思ったの……[r]
-　そうしたら自然に足が動いていた……」[pcms]
+"I thought we were beyond saving... Then my legs just started moving[r]
+on their own..."[pcms]
 
 *6609|
 [fc]
 [ns]Daisuke[nse]
-「大丈夫、俺たちは助かるよ」[pcms]
+"Don't worry, we're going to be okay."[pcms]
 
 *6610|
 [fc]
-マコトはパニックを起こしているだけのようだ、[r]
-ゆっくりと時間を掛ければ問題はなさそうだ。[pcms]
+It seems like Makoto is just panicking, if we take our time, there[r]
+shouldn't be a problem.[pcms]
 
 *6611|
 [fc]
 [vo_mak s="mako_1507"]
 [ns]Makoto[nse]
-「だって……助かっても……[r]
-　ダイスケからは逃げられないじゃない……」[pcms]
+"But... even if we're saved... I can't escape from Daisuke..."[pcms]
 
 *6612|
 [fc]
 [ns]Daisuke[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *6613|
 [fc]
-逃げる？　俺から？[r]
-どうしたっていうんだ、マコトは……。[pcms]
+Escape? From me? What's going on, Makoto...?[pcms]
 
 *6614|
 [fc]
 [ns]Daisuke[nse]
-「どうしてそんなこというんだよ、[r]
-　俺から逃げる必要なんて無いじゃないか」[pcms]
+"Why would you say something like that? There's no need for you to run[r]
+away from me."[pcms]
 
 [ChrSetEx layer=5 chbase="ab_dB01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *6615|
 [fc]
-俺がそういうと、マコトは羞恥に震えた表情で[r]
-やっと下を向いているような状態になった。[pcms]
+As I say that, Makoto becomes visibly shaken with embarrassment and[r]
+finally seems to look down.[pcms]
 
 *6616|
 [fc]
-潤んだ瞳で床を見つめながら、唇をわななかせている。[pcms]
+Her eyes are moist as she stares at the floor, her lips quivering.[pcms]
 
 *6617|
 [fc]
 [vo_mak s="mako_1508"]
 [ns]Makoto[nse]
-「だって、ダイスケにはあんなところを[r]
-　見られちゃったから……」[pcms]
+"Because... you saw that part of me..."[pcms]
 
 *6618|
 [fc]
 [ns]Daisuke[nse]
-「あ……」[pcms]
+"Ah..."[pcms]
 
 *6619|
 [fc]
 [vo_mak s="mako_1509"]
 [ns]Makoto[nse]
-「だから、一緒にいるのが辛くて……」[pcms]
+"That's why it's painful to be around you..."[pcms]
 
 *6620|
 [fc]
 [ns]Daisuke[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *6621|
 [fc]
-まぁ、言われてみれば至極当然のことなのかも知れない。[pcms]
+Well, when you think about it, it might be a perfectly natural[r]
+reaction.[pcms]
 
 *6622|
 [fc]
-あんな現場を、しかも男に見られて平気な筈はないからな。[pcms]
+Seeing such a scene, and especially by a man, there's no way she could[r]
+be okay with it.[pcms]
 
 *6623|
 [fc]
-そこに来て、翔くんと冴子さんの変貌した姿を[r]
-見てしまったら……。[pcms]
+On top of that, having witnessed Shou-kun and Saeko-san's transformed[r]
+appearances...[pcms]
 
 *6624|
 [fc]
-多少、動揺するのは仕方がないのかも知れなかった。[pcms]
+It's understandable that she might be somewhat shaken.[pcms]
 
 *6625|
 [fc]
 [vo_mak s="mako_1510"]
 [ns]Makoto[nse]
-「変な女だって、思うでしょ……？」[pcms]
+"You must think I'm a weird woman, right...?"[pcms]
 
 *6626|
 [fc]
-俺は思わずマコトのオナニーシーンを思い出してしまう。[pcms]
+I inadvertently recall Makoto's masturbation scene.[pcms]
 
 *6627|
 [fc]
-ブルマを履いて、アソコとおっぱいを弄っていた姿と[r]
-あえぎ声がまだ脳裏に焼き付いている……。[pcms]
+Wearing bloomers, playing with her pussy and breasts, and her moans[r]
+are still etched in my mind...[pcms]
 
 *6628|
 [fc]
 [ns]Daisuke[nse]
-「変だなんて思わないよ、さっきも言っただろ？」[pcms]
+"I don't think you're weird at all, I told you that before, didn't I?"[pcms]
 
 *6629|
 [fc]
-自分のことを変だというマコトを説得するのは難しそうだ。[pcms]
+It seems difficult to convince Makoto that she isn't strange.[pcms]
 
 *6630|
 [fc]
-それが変じゃないと俺がいくら言ってみても、[r]
-頑なに心を閉ざすだけだろう。[pcms]
+No matter how much I say it's not weird, she'll probably just[r]
+stubbornly close off her heart.[pcms]
 
 *6631|
 [fc]
-どうすれば……。[pcms]
+What should I do...[pcms]
 
 [ChrSetEx layer=5 chbase="ab_dB02"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -451,26 +450,25 @@ already..."[pcms]
 [fc]
 [vo_mak s="mako_1511"]
 [ns]Makoto[nse]
-「うそ、変だよ……ダイスケは優しいから……[r]
-　アタシだって自分で変だって思うのに……」[pcms]
+"No, it's weird... You're just being kind... Even I think I'm[r]
+weird..."[pcms]
 
 *6633|
 [fc]
 [ns]Daisuke[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *6634|
 [fc]
-俺は本当にマコトのことを変だとは思っていなかった。[pcms]
+I truly didn't think Makoto was weird at all.[pcms]
 
 *6635|
 [fc]
-これを伝えるためには、俺の思っていることを[r]
-そのまま言うしかない。[pcms]
+To convey this, I have to just say what I'm thinking.[pcms]
 
 *6636|
 [fc]
-どうして、俺が変だと思わないのかを……。[pcms]
+Why I don't think she's weird...[pcms]
 
 [ChrSetEx layer=5 chbase="ab_dA04"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -478,14 +476,14 @@ already..."[pcms]
 [fc]
 [vo_mak s="mako_1512"]
 [ns]Makoto[nse]
-「いいの……本当のことを言ってくれても……[r]
-　その方が楽になるかも」[pcms]
+"It's okay... even if you tell me the truth... It might make me feel[r]
+better."[pcms]
 
 *6638|
 [fc]
 [ns]Daisuke[nse]
-「本当だって、ちっとも変じゃないよ。[r]
-　どっちかというと……魅力的だった」[pcms]
+"Honestly, you're not weird at all. If anything... you were[r]
+attractive."[pcms]
 
 [ChrSetEx layer=5 chbase="ab_dB01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -493,17 +491,17 @@ already..."[pcms]
 [fc]
 [vo_mak s="mako_1513"]
 [ns]Makoto[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *6640|
 [fc]
-俺が照れて顔を伏せると、マコトもつられるように[r]
-頬を染めて横を向いてしまった。[pcms]
+As I blush and look down, Makoto also seems to be influenced and turns[r]
+her face away with flushed cheeks.[pcms]
 
 *6641|
 [fc]
-なんだか微妙な空気になってきている。[r]
-ここは一旦話を打ち切って、みんなのところに戻ろう。[pcms]
+The atmosphere has become somewhat delicate. Maybe it's best to end[r]
+the conversation here and go back to where everyone else is.[pcms]
 
 *6642|
 [fc]

@@ -184,8 +184,8 @@ the locks on other classroom windows. What do you think?"[pcms]
 [vo_mak s="mako_0673"]
 [ns]Makoto[nse]
 "Yeah, that's a good idea. I think this place is safe for now, so we[r]
-should leave the two of them here and all of usthe four of usshould[r]
-go around locking up."[pcms]
+should leave the two of them here and all of usthe four of usshould go[r]
+around locking up."[pcms]
 
 [ChrSetEx layer=5 chbase="ma_eA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 

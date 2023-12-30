@@ -312,11 +312,12 @@ Daisuke?"[pcms]
 *2191|
 [fc]
 [ns]Daisuke[nse]
-「おお、大丈夫だって。気をつけて行ってこいな」[pcms]
+"Oh, I'll be fine. Take care and have a good trip."[pcms]
 
 *2192|
 [fc]
-居ない方が作業が進む……なんて言葉は飲み込んでおく。[pcms]
+I swallowed the words "I can get more work done when they're not[r]
+around..."[pcms]
 
 [ChrSetEx layer=3 chbase="ab_bC01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
@@ -324,7 +325,7 @@ Daisuke?"[pcms]
 [fc]
 [vo_mak s="mako_0228"]
 [ns]Makoto[nse]
-「じゃーねー、ダイスケ。手ー、休めるんじゃないよー」[pcms]
+"See ya, Daisuke. Don't just sit around resting your hands, okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="nt_bA02"][ChrSetXY layer=4 x=324 y=40][trans_c cross time=150]
 
@@ -332,8 +333,8 @@ Daisuke?"[pcms]
 [fc]
 [vo_koz s="kozu_0166"]
 [ns]Kozue[nse]
-「じゃあ、行ってくるね大介兄ちゃん。買ってきたの、ちゃんと[r]
-　飲んで時々お休みいれてね」[pcms]
+"Then, we're off, Daisuke-niichan. Make sure you drink what we bought[r]
+and take breaks from time to time, okay?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -343,22 +344,22 @@ Daisuke?"[pcms]
 
 *2195|
 [fc]
-そんな言葉を残しながら、マコトは予備のヘルメットを梢に渡し、[r]
-ふたりで楽しそうにバイクで出かけてしまった。[pcms]
+Leaving those words behind, Makoto handed Kozue a spare helmet, and[r]
+the two of them cheerfully rode off on the bike.[pcms]
 
 *2196|
 [fc]
-小気味よいエンジン音が、あっという間に遠ざかっていった。[pcms]
+The pleasant sound of the engine quickly faded into the distance.[pcms]
 
 *2197|
 [fc]
-この暑さだ。バイクで風を切って走り去るマコトと梢が[r]
-羨ましくなった。[pcms]
+With this heat, I couldn't help but envy Makoto and Kozue as they sped[r]
+away on the bike, cutting through the wind.[pcms]
 
 *2198|
 [fc]
-完成さえすれば、俺だって風を切る事が出来る。[r]
-そのためにも、少しでも進めようと思ったのだが――[pcms]
+Once it's finished, I'll be able to slice through the wind too. With[r]
+that thought, I intended to make as much progress as possible, but--[pcms]
 
 ;//嶺岸・■_自動車がゆっくり近づいてきて停車する音
 ;//se124.ogg
@@ -367,16 +368,17 @@ Daisuke?"[pcms]
 *2199|
 [fc]
 [ns]Daisuke[nse]
-「ふう……」[pcms]
+"Phew..."[pcms]
 
 *2200|
 [fc]
-やっぱりひと休みだ。梢の差し入れに手を伸ばす。[pcms]
+It's definitely time for a break. I reached for the refreshments Kozue[r]
+had brought.[pcms]
 
 *2201|
 [fc]
-と、同時に車のエンジン音――聞き覚えのある音――がして[r]
-ガレージの前で止まった。[pcms]
+At the same time, I heard a car engine -- a familiar sound -- and it[r]
+stopped in front of the garage.[pcms]
 
 ;//■_自動車のドア開ける
 [se buf=0 storage="se003"]
@@ -395,9 +397,9 @@ Daisuke?"[pcms]
 
 *2202|
 [fc]
-ドアの開閉音が聞こえて、その中にはスライドドアの音も[r]
-混じっていて、予想通りの人物ふたりと、予想外の人物ひとりが[r]
-ガレージへと姿を現した。[pcms]
+I heard the sound of doors opening and closing, including the sliding[r]
+door, and as expected, two familiar figures and one unexpected person[r]
+appeared at the garage.[pcms]
 
 [ChrSetEx layer=3 chbase="is_aA01"][ChrSetXY layer=3 x=0 y=0]
 [ChrSetEx layer=4 chbase="ki_aA01"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
@@ -405,13 +407,13 @@ Daisuke?"[pcms]
 *2203|
 [fc]
 [ns]Shou[nse]
-「よー、だい。作業は進んでるかー？」[pcms]
+"Yo, Dai. How's the work going?"[pcms]
 
 *2204|
 [fc]
 [vo_sae s="sae_0076"]
 [ns]Saeko[nse]
-「ダイちゃん、毎日頑張ってるわね」[pcms]
+"Dai-chan, you've been working hard every day."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -422,13 +424,12 @@ Daisuke?"[pcms]
 [fc]
 [vo_aya s="aya_0162"]
 [ns]Aya[nse]
-「……こんにちは」[pcms]
+"...Hello."[pcms]
 
 *2206|
 [fc]
 [ns]Daisuke[nse]
-「やあ、お揃いでいらっしゃい。たった今、マコトと梢は[r]
-　バイクで出かけちゃったんだよ」[pcms]
+"Hey, welcome all of you. Makoto and Kozue just left on the bike."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -439,12 +440,12 @@ Daisuke?"[pcms]
 *2207|
 [fc]
 [ns]Shou[nse]
-「そっか。居ないのか」[pcms]
+"Is that so? They're not here?"[pcms]
 
 *2208|
 [fc]
 [ns]Daisuke[nse]
-「ふたりに用事だった？」[pcms]
+"Did you need something from them?"[pcms]
 
 [ChrSetEx layer=4 chbase="ki_aA02"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -452,17 +453,16 @@ Daisuke?"[pcms]
 [fc]
 [vo_sae s="sae_0077"]
 [ns]Saeko[nse]
-「ふたりにって言うよりも、みんなで出かけないって[r]
-　誘いに来たのよ」[pcms]
+"More than needing them specifically, we came to invite everyone out."[pcms]
 
 [ChrSetEx layer=3 chbase="is_aA01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2210|
 [fc]
 [ns]Shou[nse]
-「キャンプで必要なものの買い足しと、その帰りに[r]
-　ババヘラアイスでも、どうかなって話しになってな。[r]
-　どうせならだい達も誘おうぜって話しになったんだよ」[pcms]
+"We're going to buy some stuff we need for the camp, and then maybe[r]
+grab some Baba-Hera ice cream on the way back. We thought we might as[r]
+well invite you guys too."[pcms]
 
 [ChrSetEx layer=4 chbase="ma_bB01"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -470,48 +470,48 @@ Daisuke?"[pcms]
 [fc]
 [vo_aya s="aya_0163"]
 [ns]Aya[nse]
-「……一緒に……出かけませんか？」[pcms]
+"...Would you like to come with us?"[pcms]
 
 *2212|
 [fc]
 [ns]Daisuke[nse]
-「うーん…………」[pcms]
+"Hmm..."[pcms]
 
 *2213|
 [fc]
-なかなか魅力的なお誘いではある。真坂さんまで言葉にして[r]
-誘ってくれているわけだし。[pcms]
+It's quite an attractive invitation. Even Masaka-san is personally[r]
+inviting me.[pcms]
 
 *2214|
 [fc]
-でも、今日は作業を進めておきたい。[pcms]
+But I want to make progress on my work today.[pcms]
 
 *2215|
 [fc]
-マコトも出かけたから、より作業を進められそうな気もするし。[r]
-それに確か明日には、マコトの親戚もやってくるはずだ。[pcms]
+With Makoto gone, I feel like I can get even more done. Plus, I'm[r]
+pretty sure Makoto's relatives are coming tomorrow.[pcms]
 
 *2216|
 [fc]
-そうしたら、多少はバタバタして、作業にも影響が[r]
-出てくるかもしれない。[pcms]
+That'll probably make things a bit hectic and could affect my work.[pcms]
 
 *2217|
 [fc]
-そう考えると、やはり今日は作業を進めた方がいいだろう。[pcms]
+Thinking about it, it's probably better to make progress on my work[r]
+today.[pcms]
 
 *2218|
 [fc]
 [ns]Daisuke[nse]
-「ごめん。お誘いは嬉しいけど、今日は作業を進めたいんだ。[r]
-　申し訳ないけど、俺は行けないよ」[pcms]
+"Sorry. I appreciate the invite, but I want to focus on my work today.[r]
+I can't go, unfortunately."[pcms]
 
 [ChrSetEx layer=3 chbase="is_aA09"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2219|
 [fc]
 [ns]Shou[nse]
-「おいおい、つれないなあ」[pcms]
+"Come on, that's cold."[pcms]
 
 [ChrSetEx layer=4 chbase="ki_aA01"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -519,15 +519,15 @@ Daisuke?"[pcms]
 [fc]
 [vo_sae s="sae_0078"]
 [ns]Saeko[nse]
-「あらあ、残念ね。でもしょうがないわね、ショーちゃん。[r]
-　気持ちはわかるでしょ？」[pcms]
+"Oh dear, that's too bad. But it can't be helped, right Shou-chan? You[r]
+understand his feelings?"[pcms]
 
 [ChrSetEx layer=3 chbase="is_aA01"][ChrSetXY layer=3 x=0 y=0][trans_c cross time=150]
 
 *2221|
 [fc]
 [ns]Shou[nse]
-「まあな。じゃあ、あきらめて俺らだけで、出かけるか」[pcms]
+"Well yeah. Guess we'll just have to go without them."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -538,22 +538,23 @@ Daisuke?"[pcms]
 [fc]
 [vo_aya s="aya_0164"]
 [ns]Aya[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *2223|
 [fc]
-真坂さんが哀しそうな顔になってしまって、[r]
-俺の心はチクリと疼いた。[pcms]
+Masaka-san looked sad, and it gave me a pang of guilt.[pcms]
 
 *2224|
 [fc]
-でも、明後日には一緒にキャンプで楽しむ事が出来る。[r]
-思い切り楽しむためにも、少しでも進めておきたい。[pcms]
+But in two days we'll all be able to enjoy ourselves at the camp. To[r]
+fully enjoy that time, I want to make as much progress as possible[r]
+now.[pcms]
 
 *2225|
 [fc]
 [ns]Daisuke[nse]
-「真坂さん……ごめんな。また誘ってな、翔くんも冴子さんも」[pcms]
+"Masaka-san...I'm sorry. Invite me again next time, okay? You too,[r]
+Shou-kun and Saeko-san."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -564,8 +565,8 @@ Daisuke?"[pcms]
 *2226|
 [fc]
 [ns]Shou[nse]
-「おお、いいって。どうせ明後日からはワイワイ楽しめるんだし、[r]
-　俺たちは、冷たーーーいアイスでも堪能するさ」[pcms]
+"Oh, it's alright. We'll have plenty of fun together the day after[r]
+tomorrow anyway. We'll just enjoy some cold---ice cream for now."[pcms]
 
 [ChrSetEx layer=4 chbase="ki_aA02"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -573,9 +574,8 @@ Daisuke?"[pcms]
 [fc]
 [vo_sae s="sae_0079"]
 [ns]Saeko[nse]
-「もう、ショーちゃんったら、そんなイヤミ言わないのよ。[r]
-　ダイちゃん、今度時間があるときに一緒にアイス食べに[r]
-　行きましょうね、ね？」[pcms]
+"Now now, Shou-chan, don't be like that. Dai-chan, let's go have ice[r]
+cream together when you have some free time, okay?"[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -586,22 +586,22 @@ Daisuke?"[pcms]
 [fc]
 [vo_aya s="aya_0165"]
 [ns]Aya[nse]
-「…………残念です」[pcms]
+"...That's disappointing."[pcms]
 
 *2229|
 [fc]
 [ns]Daisuke[nse]
-「ほんと、ごめんな」[pcms]
+"Really, I'm sorry."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2230|
 [fc]
-翔くんと冴子さんは手をふりながら、真坂さんはトボトボと[r]
-言ったら大げさだけれど、寂しそうな顔をして、それでも[r]
-Seeing her like that, I was almost driven by the impulse to chase[r]
-after her and take back what I said, but I held back and watched the[r]
-three of them leave.[pcms]
+Shou and Saeko waved their hands as they left while Masaka-san looked[r]
+dejectedly downcast. It might be an exaggeration to say she trudged[r]
+away, but seeing her like that, I was almost driven by the impulse to[r]
+chase after her and take back what I said, but I held back and watched[r]
+the three of them leave.[pcms]
 
 *2231|
 [fc]

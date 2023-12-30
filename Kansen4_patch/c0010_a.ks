@@ -740,9 +740,9 @@ and closed the tank door.[pcms]
 
 *6135|
 [fc]
-Then, I went to get what had popped into my mind earlierthe solid[r]
-fuel I had seen when searching through the luggage roomand took out[r]
-its small package from behind the car.[pcms]
+Then, I went to get what had popped into my mind earlierthe solid fuel[r]
+I had seen when searching through the luggage roomand took out its[r]
+small package from behind the car.[pcms]
 
 *6136|
 [fc]

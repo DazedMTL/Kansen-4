@@ -1826,32 +1826,32 @@ niichan when I was little.[pcms]
 *2713|
 [fc]
 [ns]Daisuke[nse]
-「……梢……覚えて……だな……。[r]
-　まあ、……なか忘れ……モンで……な……か……」[pcms]
+"...Kozue...remember...okay...? Well,...not something you'd[r]
+forget...anyway..."[pcms]
 
 *2714|
 [fc]
-忘れるわけない。[r]
-大介兄ちゃんから、一番最初に貰ったプレゼント。[pcms]
+There's no way I could forget. It was the first present I ever[r]
+received from Daisuke-niichan.[pcms]
 
 *2715|
 [fc]
-なまはげ型の、髪飾り。[pcms]
+A hair ornament shaped like a Namahage.[pcms]
 
 *2716|
 [fc]
-ゴムが切れたら、別のを付けて。[r]
-キズが着いたら、磨いて直して。[pcms]
+When the rubber broke, I replaced it. When it got scratched, I[r]
+polished and fixed it.[pcms]
 
 *2717|
 [fc]
-貰った時からずーっと、大切にしている宝物。[pcms]
+It's been a treasure I've cherished ever since I received it.[pcms]
 
 *2718|
 [fc]
 [ns]Daisuke[nse]
-「悪……。起こしちゃっ……？　独り……、うるさかった……。[r]
-　もう一回寝……よ。その方……体も……るだろう」[pcms]
+"Sorry... Did I wake you up? Was I too loud... by myself? Go back to[r]
+sleep. It'll be better for your body."[pcms]
 
 ;//se即時停止
 [stopse buf=0]
@@ -1866,21 +1866,20 @@ niichan when I was little.[pcms]
 
 *2719|
 [fc]
-うるさくなんかないよ。[r]
-からだも、もうかなりらくになってきたよ。[r]
-きもちわるいのも、もうなくなってきたよ。[pcms]
+It wasn't loud at all. My body's feeling a lot better now. The nausea[r]
+is also going away.[pcms]
 
 *2720|
 [fc]
-そんなことより。[r]
-大介兄ちゃんは覚えているかな。[r]
-わたしに『宝物』をくれた時のこと。[pcms]
+More importantly. I wonder if Daisuke-niichan remembers. The time he[r]
+gave me my "treasure."[pcms]
 
 *2721|
 [fc]
 [vo_koz s="kozu_0803"]
 [ns]Kozue[nse]
-「あのね、大介兄ちゃん。髪飾りくれた時のこと、覚えてる？」[pcms]
+"Hey, Daisuke-niichan. Do you remember when you gave me the hair[r]
+ornament?"[pcms]
 
 ;//自動車フレーム表示(運転席・昼・キャラ付き)
 [CarSetBase carbase="car_flame_driver_a"]
@@ -1890,114 +1889,110 @@ niichan when I was little.[pcms]
 *2722|
 [fc]
 [ns]Daisuke[nse]
-「ん……お前にあげたのは覚えてるけどな。[r]
-　いつまでそんなモン付けてんだ」[pcms]
+"Hmm... I remember giving it to you, but how long are you going to[r]
+keep wearing that thing?"[pcms]
 
 *2723|
 [fc]
 [ns]Daisuke[nse]
-「そうだ。お前が元気になったら、新しい髪飾り買ってやるよ。[r]
-　さすがにもう、新しいのにしたいだろ、お前も」[pcms]
+"That's right. Once you're feeling better, I'll buy you a new hair[r]
+ornament. Surely you'd want to change to a new one by now, right?"[pcms]
 
 *2724|
 [fc]
-そんなのいらないよ。[r]
-だって……。[pcms]
+I don't need a new one. Because...[pcms]
 
 *2725|
 [fc]
 [vo_koz s="kozu_0804"]
 [ns]Kozue[nse]
-「……いいの。これは。わたしの宝物だもん」[pcms]
+"...It's okay. This one is my treasure."[pcms]
 
 *2726|
 [fc]
 [ns]Daisuke[nse]
-「そうか……遠慮しなくったっていいんだぞ？　そんなの、[r]
-　高い物でもないんだし……」[pcms]
+"Is that so... You don't have to hold back, you know? It's not like[r]
+it's something expensive..."[pcms]
 
 *2727|
 [fc]
-ねだんなんかじゃないんだ。[r]
-大介兄ちゃんから貰ったものは、ぜんぶ宝もの。[pcms]
+It's not about the price. Everything I received from Daisuke-niichan[r]
+is a treasure.[pcms]
 
 *2728|
 [fc]
 [vo_koz s="kozu_0805"]
 [ns]Kozue[nse]
-「いいの……コレじゃなきゃ駄目だもん。[r]
-　これを付けてれば、大介兄ちゃんとずっと一緒な気が……。[r]
-　ずっと、傍に居てくれるみたいな感じがするんだもん」[pcms]
+"It has to be this one... Wearing this makes me feel like I'm always[r]
+with Daisuke-niichan. Like he's always by my side."[pcms]
 
 *2729|
 [fc]
-それに……。[pcms]
+And...[pcms]
 
 *2730|
 [fc]
 [vo_koz s="kozu_0806"]
 [ns]Kozue[nse]
-「だから……これで十分だよ……。[r]
-　わたしに宝物をくれて……ありがとう、大介兄ちゃん」[pcms]
+"So... this is enough for me... Thank you for giving me a treasure,[r]
+Daisuke-niichan."[pcms]
 
 *2731|
 [fc]
-本当は、髪かざりだけが、宝ものじゃない。[r]
-髪かざりもそうだけど……。[pcms]
+It's not just the hair ornament that's a treasure. It's also the hair[r]
+ornament but...[pcms]
 
 *2732|
 [fc]
-大介兄ちゃんといっしょにいられた時間が、わたしの宝もの。[pcms]
+The time I could spend with Daisuke-niichan is my treasure.[pcms]
 
 [ChrSetEx layer=5 chbase="sn_UP_bA05"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2733|
 [fc]
 [ns]Daisuke[nse]
-「おいおい、よせよ、そんなの宝物とか……。[r]
-　これからもっと良い物やるからさ、そんなモンで満足するなよ」[pcms]
+"Hey, hey, stop it, don't talk about treasures and such... There will[r]
+be better things to come, don't be satisfied with just that."[pcms]
 
 *2734|
 [fc]
-これからもっと……。[r]
-ずっと、いっしょにいられたらいいな。[pcms]
+More to come... I hope we can be together forever.[pcms]
 
 *2735|
 [fc]
 [vo_koz s="kozu_0807"]
 [ns]Kozue[nse]
-「うん……ごめんね、またちょっと眠るね……」[pcms]
+"Yeah... sorry, I'm going to sleep a little more..."[pcms]
 
 *2736|
 [fc]
-ごめんね、だいすけ兄ちゃん。[r]
-わたし、からだがなんかへんなんだ。[pcms]
+Sorry, Daisuke-niichan. Something feels weird with my body.[pcms]
 
 *2737|
 [fc]
-ずっと、ずっとそばにいたかったけど。[r]
-もしかしたらもう、むりかもしれないよ。[pcms]
+I wanted to be by your side forever and ever. But maybe that's[r]
+impossible now.[pcms]
 
 [ChrSetEx layer=5 chbase="sn_UP_bA01"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *2738|
 [fc]
 [ns]Daisuke[nse]
-「おう、安心して、寝てろ。[r]
-　目が覚める頃にはもう、街だ」[pcms]
+"Hey, rest easy and sleep. By the time you wake up, we'll be in the[r]
+city."[pcms]
 
 *2739|
 [fc]
-かみさま。[pcms]
+Dear God.[pcms]
 
 *2740|
 [fc]
-せめてだいすけ兄ちゃんといっしょに、まちにつくまで。[r]
-あと、ほんのすこしだけ、わたしのままでいさせてください。[pcms]
+At least let me stay myself until we reach the city with Daisuke-[r]
+niichan. Just a little bit longer, please.[pcms]
 
 *2741|
 [fc]
-あと、ほんのすこしだけ。[pcms]
+Just a little bit longer.[pcms]
 
 ;//♯_ホワイトアウト
 ;//自動車フレーム消去（キャラ毎）
@@ -2007,16 +2002,16 @@ niichan when I was little.[pcms]
 *2742|
 [fc]
 [ns]Daisuke[nse]
-「……海か。絶対連れて行ってやるよ。ずっと言ってたもんな。[r]
-　それに……水着も似合ってたぞ、梢」[pcms]
+"...The sea, huh? I'll definitely take you there. You've always talked[r]
+about it. And... you looked good in a swimsuit, Kozue."[pcms]
 
 *2743|
 [fc]
-ありがとうだいすけ兄ちゃん。[pcms]
+Thank you, Daisuke-niichan.[pcms]
 
 *2744|
 [fc]
-ありがとう。[pcms]
+Thank you.[pcms]
 
 ;//♯_レッドフラッシュ（少しながめ）
 [赤フラ time=1000]
@@ -2036,36 +2031,33 @@ niichan when I was little.[pcms]
 *2745|
 [fc]
 [ns]Daisuke[nse]
-「やった……やったぞ！　やっと……やっと帰ってこれた！[r]
-　梢……俺達、助かったぞ！！」[pcms]
+"We did it... we finally made it back! Kozue... we're saved!!"[pcms]
 
 *2746|
 [fc]
-かえってこれた？[r]
-たすかった……？[pcms]
+We made it back? We're saved...?[pcms]
 
 *2747|
 [fc]
 [vo_koz s="kozu_0808"]
 [ns]Kozue[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *2748|
 [fc]
-よかった。[r]
-かみさま、ありがとう。[pcms]
+Thank goodness. Thank you, God.[pcms]
 
 *2749|
 [fc]
-あとは、だいすけにいちゃんをたすけてあげてね。[pcms]
+Please take care of Daisuke-niichan from now on.[pcms]
 
 *2750|
 [fc]
-だいすけにいちゃん、ずっとありがとう。[pcms]
+Thank you for everything, Daisuke-niichan.[pcms]
 
 *2751|
 [fc]
-わたしは、ずっとそばにいるからね。[pcms]
+I will always be by your side.[pcms]
 
 ;//自動車フレーム消去（キャラ毎）
 [chara_int_ layer=1][chara_int_ layer=5][chara_int_ layer=6][trans_c cross time=150]

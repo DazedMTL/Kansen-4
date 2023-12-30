@@ -328,15 +328,14 @@ with a snap.[pcms]
 
 *1220|
 [fc]
-アタシが、アタシで無くなったのかな……？[r]
-じゃあ、アタシは一体、何になったの……？[r]
-アタシの体は、誰かに乗っ取られたの……？[pcms]
+Have I lost myself? Then, what have I become...? Has someone taken[r]
+over my body...?[pcms]
 
 *1221|
 [fc]
 [vo_mak s="mako_1101"]
 [ns]Makoto[nse]
-「えっ……」[pcms]
+"Eh..."[pcms]
 
 ;//○(涙に小さく驚く)
 
@@ -345,19 +344,19 @@ with a snap.[pcms]
 
 *1222|
 [fc]
-いつの間にか、目から涙が零れだしていた。[r]
-だけど、涙の理由が自分でもわからない。[pcms]
+Before I knew it, tears were spilling from my eyes. But I don't even[r]
+understand why I'm crying.[pcms]
 
 *1223|
 [fc]
-どうして泣いてるのかな、アタシ。[r]
-今から、きっと……とてもたのしいことがまってるのに……。[pcms]
+Why am I crying? After all, something very fun is surely waiting for[r]
+me...[pcms]
 
 *1224|
 [fc]
 [vo_mak s="mako_1102"]
 [ns]Makoto[nse]
-「ふふふ……」[pcms]
+"Fufufu..."[pcms]
 
 ;//○（楽しげに笑いが漏れる）
 
@@ -367,41 +366,40 @@ with a snap.[pcms]
 *1225|
 [fc]
 [ns]Infected Person A[nse]
-「おぉ！　みぃつけたぁ」[pcms]
+"Oh! Found ya!"[pcms]
 
 *1226|
 [fc]
-男がアタシに気付いて、その丸太のような腕で抱きしめる。[r]
-アタシの待ち望んでいた肌の感覚に、体は一層熱くなる。[pcms]
+The man notices me and embraces me with his log-like arms. My body[r]
+heats up even more from the touch I've been longing for.[pcms]
 
 *1227|
 [fc]
 [vo_mak s="mako_1103"]
 [ns]Makoto[nse]
-「あぁ……。もっとつよく、つよくだいて。[r]
-　めちゃくちゃにして……。んちゅ」[pcms]
+"Ahh... Hold me tighter, much tighter. Mess me up... *smooch*"[pcms]
 
 ;//○（セリフ最後、キスです）
 
 *1228|
 [fc]
-抱きついてきた男の口にアタシは唇を重ね、[r]
-舌を自分から滑り込ませる。[pcms]
+I press my lips against the man who hugged me, sliding my tongue[r]
+forward into his mouth.[pcms]
 
 *1229|
 [fc]
 [ns]Infected Person B[nse]
-「あぁ。おんなぁ、まんこだぁ」[pcms]
+"Ahh. A woman, a pussy."[pcms]
 
 *1230|
 [fc]
 [ns]Infected Person C[nse]
-「やったぁ！　おまんこ！　おまんこぉ！」[pcms]
+"Yay! Pussy! Pussy!"[pcms]
 
 *1231|
 [fc]
-次第に群がり出す男達を視界の片隅に見ながら、[r]
-アタシの頭の中は真っ白になっていった。[pcms]
+While catching a glimpse of the men starting to swarm around me, my[r]
+mind goes completely blank.[pcms]
 
 ;//♪_BGM10　フェードアウト
 ;//♪_BGM無音
@@ -431,18 +429,17 @@ with a snap.[pcms]
 [fc]
 [vo_mak s="mako_1104"]
 [ns]Makoto[nse]
-「んあぁ！　おちんちん！　かたくて、あついおちんちん！[r]
-　んちゅるる、じゅる、はぁ、はぁ」[pcms]
+"Nnah! Dicks! Hard, hot dicks! *slurp slurp*, haah, haah"[pcms]
 
 *1233|
 [fc]
 [ns]Infected Person A[nse]
-「いいすいつきだぁ。もっと、したからませてくれぇ」[pcms]
+"You suck so good. Let me feel more from below."[pcms]
 
 *1234|
 [fc]
 [ns]Infected Person B[nse]
-「まんこも、すごいぬれやがる！　いんらんなおんなだな！」[pcms]
+"Her pussy's so damn wet! What a lewd woman!"[pcms]
 
 ;//♂：以下、イベント絵が全裸等の場合追加用テキスト
 ;//♂：コメントアウトしておきます
@@ -451,70 +448,65 @@ with a snap.[pcms]
 
 *1235|
 [fc]
-男達に体を触られる度に、興奮の度合いが増していく。[r]
-この体の隅々まで、余す所無く這い回る男達の指やおちんちんが[r]
-とても愛おしく感じる。[pcms]
+Every time the men touch my body, my excitement grows. Their fingers[r]
+and dicks crawling all over my body feel so dear to me.[pcms]
 
 *1236|
 [fc]
 [vo_mak s="mako_1105"]
 [ns]Makoto[nse]
-「んはっ！　んっ！　もっと、アタシのおまんこ、つきあげて！[r]
-　かきまわしてえええ！」[pcms]
+"Nnhah! Nn! More, thrust into my pussy! Stir it uppp!"[pcms]
 
 *1237|
 [fc]
 [ns]Infected Person B[nse]
-「ほら！　ほら！　どうだ！？」[pcms]
+"Here! Here! How's that!?"[pcms]
 
 *1238|
 [fc]
 [vo_mak s="mako_1106"]
 [ns]Makoto[nse]
-「あっ！　あんぁ！　いいの、おまんこのなか、あついので[r]
-　いっぱいなのぉおおお！」[pcms]
+"Ah! Ahn! It's good, my pussy is filled with so much heat!"[pcms]
 
 *1239|
 [fc]
-おちんちんが、おまんこの中を何度も何度も擦り上げる。[r]
-突き上げられる度に、おなかから頭の天辺まで刺激が突き抜ける。[r]
-その病みつきになる刺激に、おまんこから熱い液が滲み出る。[pcms]
+Dicks rub against the inside of my pussy over and over again. Each[r]
+thrust sends a jolt from my stomach to the top of my head. The[r]
+addictive stimulation makes hot fluid seep out of my pussy.[pcms]
 
 *1240|
 [fc]
 [ns]Infected Person B[nse]
-「よっぽどたまってたのかぁ？[r]
-　そんなにちんちんいいのかぁ？[r]
-　ほら、いってみろよぉ、ちんちんだいすきですってぇ」[pcms]
+"Were you that pent up? You like dicks that much? Come on, say it, 'I[r]
+love dicks.'"[pcms]
 
 *1241|
 [fc]
 [vo_mak s="mako_1107"]
 [ns]Makoto[nse]
-「やっ！　やんっ！　そ……そんな……。あっ！」[pcms]
+"No! Noo! That's... Ahh!"[pcms]
 
 *1242|
 [fc]
 [ns]Infected Person B[nse]
-「いわないと、ぬ、ぬいちゃうぞぉ？」[pcms]
+"If you don't say it, I'll pull out, you know?"[pcms]
 
 *1243|
 [fc]
 [vo_mak s="mako_1108"]
 [ns]Makoto[nse]
-「やだ！　ぬ、ぬいちゃイヤぁ！」[pcms]
+"No! Don't pull out, I don't want that!"[pcms]
 
 *1244|
 [fc]
-熱いおちんちんを逃がしたくなくて、[r]
-おまんこに力を込めてしっかりくわえ込もうとする。[pcms]
+Not wanting to let the hot dick escape, I clench my pussy tightly[r]
+around it.[pcms]
 
 *1245|
 [fc]
 [ns]Infected Person B[nse]
-「おぉぉぉ！　すげぇすいつきだぁ！[r]
-　まったく、こんなに、くりとりすはらしやがって。[r]
-　そんなにいいのか？　え？　おい！」[pcms]
+"Ohhh! Such amazing suction! Seriously, you're making my clit so damn[r]
+happy. You like that? Huh? Hey!"[pcms]
 
 ;//白フラ
 ;//ab_H012
@@ -525,31 +517,29 @@ with a snap.[pcms]
 [fc]
 [vo_mak s="mako_1109"]
 [ns]Makoto[nse]
-「いぎぃ！　や、そこつまんじゃ……。あぅっ！　ぐっ！[r]
-　んぁああああ！　でも、いいかも！　くりちゃん、もっと！」[pcms]
+"Eeek! No, don't pinch there... Auh! Guh! Naaaaah! But, maybe it's[r]
+good! More, my clit!"[pcms]
 
 *1247|
 [fc]
-男の節くれ立った指が、[r]
-アタシの体の一番敏感な突起に軽く触れただけで、[r]
-目の前には、いくつもの星が飛んだ。[pcms]
+The man's knobby fingers barely touch the most sensitive nub on my[r]
+body, and instantly, stars burst before my eyes.[pcms]
 
 *1248|
 [fc]
 [ns]Infected Person B[nse]
-「おぉそうか！　いいか！」[pcms]
+"Oh, so that's good, huh!"[pcms]
 
 *1249|
 [fc]
 [vo_mak s="mako_1110"]
 [ns]Makoto[nse]
-「んぁああああくぅぅう！！　いいの！[r]
-　あたまのなかしびれちゃうの！　はぅっ！　はぁ、はぁ」[pcms]
+"Naaaaahhh kuuuuh!! It's good! My head's going numb! Hauh! Hah, hah"[pcms]
 
 *1250|
 [fc]
 [ns]Infected Person B[nse]
-「なんだ？　ちんちんは、もういらないのかぁ？」[pcms]
+"What? Don't need the dick anymore?"[pcms]
 
 ;//ab_H012
 [evcg storage="ab_H012b"][trans_c cross time=300]
@@ -558,81 +548,78 @@ with a snap.[pcms]
 [fc]
 [vo_mak s="mako_1111"]
 [ns]Makoto[nse]
-「んあ……はっ、はっ……。ほしい……。[r]
-　ほしいから、ちゃんとおくまでいれてぇ」[pcms]
+"Nnah...hah, hah... I want it... Please put it in all the way."[pcms]
 
 *1252|
 [fc]
-こんな男達の熱い肉をいやらしく腰を振ってねだるだなんて。[pcms]
+To beg so lewdly for these men's hot flesh with my hips swaying...[pcms]
 
 *1253|
 [fc]
-さっきまでのアタシからは想像もつかない。[r]
-でも今は、お腹の中を抉られる感触に病みつきになっている。[pcms]
+It's unimaginable compared to how I was just a while ago. But now, I'm[r]
+addicted to the sensation of being gouged deep inside my belly.[pcms]
 
 *1254|
 [fc]
-もっと欲しい……。[r]
-おちんちんでお腹を掻き回して……、[r]
-くりちゃんももっといじって欲しい……。[pcms]
+I want more... I want the dick to stir up my insides... and I want my[r]
+clit to be played with more...[pcms]
 
 *1255|
 [fc]
 [ns]Infected Person B[nse]
-「なにがほしいのか、ちゃんといえよぉ」[pcms]
+"Say clearly what you want."[pcms]
 
 *1256|
 [fc]
-だけど、アタシの要求に応えない男は、[r]
-意地悪く質問をしてくる。[pcms]
+But the man, refusing to satisfy my request, teasingly asks me again.[pcms]
 
 *1257|
 [fc]
 [vo_mak s="mako_1112"]
 [ns]Makoto[nse]
-「あぁ……んふ……。おち……ちん。[r]
-　おちんちんを、アタシのおまんこのおくまでいれて！[r]
-　はぅ……んぁあああああ！！」[pcms]
+"Ahh...nhu... The dick... Put your dick deep inside my pussy![r]
+Hau...naaaaaah!!"[pcms]
 
 *1258|
 [fc]
 [ns]Infected Person B[nse]
-「へへぇ！　よ、よくいったぁ！[r]
-　いいぜ……おのぞみどおりにしてやるっ！　そらっ！」[pcms]
+"Heheh! Good girl, you said it well! Alright... I'll do just as you[r]
+wish! Here goes!"[pcms]
 
 *1259|
 [fc]
-体の動きだけでなく、言葉ではっきりとおねだりすると、[r]
-Every time the hot, hard dick moves back and forth inside my vagina, a[r]
-voice leaks from my throat.[pcms]
+When I beg clearly with words as well as with my body movements, every[r]
+time the hot, hard dick moves back and forth inside my vagina, a[r]
+"Aaaaaah! Ahn! Fuah!"[pcms]
 
 *1260|
 [fc]
-"Aaaaaah! Ahn! Fuah!"[pcms]
+"Ah, aahn! This! This is definitely good! The dick is good!!"[pcms]
 
 *1261|
 [fc]
 [vo_mak s="mako_1113"]
 [ns]Makoto[nse]
-"Ah, aahn! This! This is definitely good! The dick is good!!"[pcms]
+I'm completely captivated by these men's dicks. Surrounded by so many[r]
+hot lumps of flesh, I feel like an ice cream melting under the blazing[r]
+sun, my head about to blissfully melt away.[pcms]
 
 *1262|
 [fc]
 [vo_mak s="mako_1114"]
 [ns]Makoto[nse]
-I'm completely captivated by these men's dicks. Surrounded by so many[r]
-hot lumps of flesh, I feel like an ice cream melting under the blazing[r]
-sun, my head about to blissfully melt away.[pcms]
+"Hey, don't just enjoy yourself, lick it."[pcms]
 
 *1263|
 [fc]
-"Hey, don't just enjoy yourself, lick it."[pcms]
+"Nchu, juru, it's so hard, njuru. It's twitching. It tastes so good.[r]
+Nn, nju, chururu."[pcms]
 
 *1264|
 [fc]
 [ns]Infected Person A[nse]
-"Nchu, juru, it's so hard, njuru. It's twitching. It tastes so good.[r]
-Nn, nju, chururu."[pcms]
+The dick is forcibly twisted inside, and a strange smell spreads[r]
+through my mouth. But I didn't hate it.[pcms]
 
 ;//ab_H012
 [evcg storage="ab_H012a"][trans_c cross time=300]
@@ -641,71 +628,70 @@ Nn, nju, chururu."[pcms]
 [fc]
 [vo_mak s="mako_1115"]
 [ns]Makoto[nse]
-The dick is forcibly twisted inside, and a strange smell spreads[r]
-through my mouth. But I didn't hate it.[pcms]
-
-*1266|
-[fc]
 Far from hating it, I could feel the pulsing more directly than when[r]
 it was inside my vagina, which only accelerated my excitement.[pcms]
 
-*1267|
+*1266|
 [fc]
 "Ahh, your breasts are so soft~. This feeling, it's good!"[pcms]
+
+*1267|
+[fc]
+"Njuru... my breasts, they're feeling the dick! Nchu... please! Play[r]
+with my nipples with your dick!"[pcms]
 
 *1268|
 [fc]
 [ns]Infected Person C[nse]
-"Njuru... my breasts, they're feeling the dick! Nchu... please! Play[r]
-with my nipples with your dick!"[pcms]
+The tip of the dick plays with my nipples, and the liquid flowing from[r]
+it obscenely shines on my swollen nipples. A different kind of heat[r]
+than the uncomfortable one takes over my body.[pcms]
 
 *1269|
 [fc]
 [vo_mak s="mako_1116"]
 [ns]Makoto[nse]
-The tip of the dick plays with my nipples, and the liquid flowing from[r]
-it obscenely shines on my swollen nipples. A different kind of heat[r]
-than the uncomfortable one takes over my body.[pcms]
+"I'm about to let it all out~!"[pcms]
 
 ;//○（フェラの合間にセリフ）
 
 *1270|
 [fc]
-"I'm about to let it all out~!"[pcms]
+"Nju... is the semen coming out? Is it going to come out? Inside my[r]
+pussy, are you going to ejaculate!?"[pcms]
 
 *1271|
 [fc]
 [ns]Infected Person B[nse]
-"Nju... is the semen coming out? Is it going to come out? Inside my[r]
-pussy, are you going to ejaculate!?"[pcms]
+"Ou! Me too~. Drink it all up for me~!"[pcms]
 
 *1272|
 [fc]
 [vo_mak s="mako_1117"]
 [ns]Makoto[nse]
-"Ou! Me too~. Drink it all up for me~!"[pcms]
+"Me too"[pcms]
 
 *1273|
 [fc]
 [ns]Infected Person A[nse]
-"Me too"[pcms]
+"Ahah! Let it out! In my pussy, in my mouth, everywhere... Give me all[r]
+your semen! Semen! Give me your semen!!"[pcms]
 
 *1274|
 [fc]
 [ns]Infected Person C[nse]
-"Ahah! Let it out! In my pussy, in my mouth, everywhere... Give me all[r]
-your semen! Semen! Give me your semen!!"[pcms]
+I'm surrounded by men, by dicks everywhere. I'm so happy I can't help[r]
+it.[pcms]
 
 *1275|
 [fc]
 [vo_mak s="mako_1118"]
 [ns]Makoto[nse]
-I'm surrounded by men, by dicks everywhere. I'm so happy I can't help[r]
-it.[pcms]
+"I'm going crazy... I'm about to come too!!"[pcms]
 
 *1276|
 [fc]
-"I'm going crazy... I'm about to come too!!"[pcms]
+"Naaaaah! Ah... ah..."[pcms]
 
 ;//白フラ
 ;//ab_H012
@@ -716,7 +702,7 @@ it.[pcms]
 [fc]
 [vo_mak s="mako_1119"]
 [ns]Makoto[nse]
-"Naaaaah! Ah... ah..."[pcms]
+"Aaah... I... I peed..."[pcms]
 
 ;//ab_012H　射精差分
 [se buf=0 storage="se_sex01"]
@@ -730,7 +716,7 @@ it.[pcms]
 [fc]
 [vo_mak s="mako_1120"]
 [ns]Makoto[nse]
-"Aaah... I... I peed..."[pcms]
+"Ahahaha! This chick squirted!"[pcms]
 
 ;//ab_012H　射精後差分
 [evcg storage="ab_H012f"][trans_c cross time=300]
@@ -746,20 +732,20 @@ it.[pcms]
 [fc]
 [vo_mak s="mako_1121"]
 [ns]Makoto[nse]
-"Ahahaha! This chick squirted!"[pcms]
+My body feels like it's floating in the air, and my vision is[r]
+flickering.[pcms]
 
 *1280|
 [fc]
 [ns]Infected Person B[nse]
-My body feels like it's floating in the air, and my vision is[r]
-flickering.[pcms]
+Ah... my head is going white...[pcms]
 
 ;//♯_ホワイトフラッシュ
 [白フラ]
 
 *1281|
 [fc]
-Ah... my head is going white...[pcms]
+What was I doing? I have to go home... With everyone...[pcms]
 
 ;//♯_ホワイトフラッシュ
 [白フラ]
@@ -778,15 +764,15 @@ Ah... my head is going white...[pcms]
 
 *1282|
 [fc]
-What was I doing? I have to go home... With everyone...[pcms]
+That's right, the car... That car... we have to fix it... and go with[r]
+everyone...[pcms]
 
 ;//#_ホワイトアウト
 [白フラ]
 
 *1283|
 [fc]
-That's right, the car... That car... we have to fix it... and go with[r]
-everyone...[pcms]
+(returntitle)[pcms]
 
 ;//♂：以下、イベント絵が全裸等の場合追加用テキスト
 ;//♂：コメントアウトしておきます

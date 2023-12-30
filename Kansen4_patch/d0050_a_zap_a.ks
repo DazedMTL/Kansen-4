@@ -36,81 +36,75 @@
 
 *1121|
 [fc]
-夜の校内って結構、不気味だ。[r]
-自分から言い出した見回りだけど、[r]
-本当は教室を出る少し前から体が少しだるい。[pcms]
+The school at night is quite eerie. Even though I volunteered for[r]
+patrol, I've been feeling a bit sluggish just before leaving the[r]
+classroom.[pcms]
 
 *1122|
 [fc]
-でも、あのままみんなと顔を合わせてると[r]
-おかしな事を口走りそうで……。[pcms]
+But if I kept facing everyone, I felt like I might blurt out something[r]
+strange...[pcms]
 
 *1123|
 [fc]
 [vo_mak s="mako_1081"]
 [ns]Makoto[nse]
-「なんでこんなにイライラするんだろ……。[r]
-　まだ、“あの日”でもないのに……」[pcms]
+"Why am I so irritated...? It's not even 'that day' yet..."[pcms]
 
 *1124|
 [fc]
-それも全部、冴子さんの所為だ。[r]
-冴子さんは絶対に様子がおかしい！[r]
-なのに、アタシがどんなに言っても、みんな分かってくれない。[pcms]
+It's all Saeko-san's fault. Saeko-san is definitely acting strange![r]
+But no matter how much I say it, no one understands.[pcms]
 
 *1125|
 [fc]
-どうしてなの？[r]
-なんで、みんな冴子さんの肩を持つの？[r]
-なんで、アタシの事、信じてくれないの？[pcms]
+Why is that? Why does everyone take Saeko-san's side? Why won't they[r]
+believe me?[pcms]
 
 *1126|
 [fc]
-そんな思いがこのイラつきの原因なんだ。[r]
-誰も彼も自分の身が心配じゃないのだろうか？[r]
-アタシは、こんなにみんなを心配してるのに……。[pcms]
+That's the cause of this irritation. Doesn't anyone else care about[r]
+their own safety? I'm so worried about everyone...[pcms]
 
 *1127|
 [fc]
 [vo_mak s="mako_1082"]
 [ns]Makoto[nse]
-「それにしても……アツいわねぇ」[pcms]
+"Even so...it's hot, isn't it?"[pcms]
 
 *1128|
 [fc]
-これは、気温の所為じゃない。[r]
-自分の体が熱を持っている。[r]
-風邪でも引いたのだろうか？[pcms]
+This isn't because of the temperature. My body is generating heat.[r]
+Could I have caught a cold?[pcms]
 
 *1129|
 [fc]
-今すぐにでも、服を全部脱いで裸になってしまいたい。[r]
-そして、外の涼しい風に体を丸ごと晒したい。[pcms]
+I want to strip off all my clothes right now and be naked. Then,[r]
+expose my whole body to the cool breeze outside.[pcms]
 
 *1130|
 [fc]
 [vo_mak s="mako_1083"]
 [ns]Makoto[nse]
-「そして……ダイスケに、ぎゅっと……」[pcms]
+"And then...to be held tightly by Daisuke..."[pcms]
 
 *1131|
 [fc]
-抱きしめられたい……裸のままで……。[pcms]
+I want to be embraced...naked...[pcms]
 
 *1132|
 [fc]
-……。[r]
-何を考えているんだ、アタシは？[pcms]
+...What am I thinking?[pcms]
 
 *1133|
 [fc]
-そんな事、今考えてる場合でも無いし[r]
-妄想にしても恥ずかし過ぎる！[pcms]
+This isn't the time to be thinking about such things, and even as a[r]
+fantasy, it's too embarrassing![pcms]
 
 *1134|
 [fc]
-不意に、目の前の廊下が歪んだように感じる。[r]
-眩暈で足下がおぼつかない……。[pcms]
+Suddenly, the corridor in front of me seems to warp. My feet are[r]
+unsteady from dizziness...[pcms]
 
 ;//♯_ホワイトアウト
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
@@ -120,18 +114,19 @@
 
 *1135|
 [fc]
-気が付くと、裏口のある廊下の突き当たりまで来ていた。[pcms]
+Before I know it, I've made it to the end of the corridor with the[r]
+back door.[pcms]
 
 *1136|
 [fc]
 [vo_mak s="mako_1084"]
 [ns]Makoto[nse]
-「いつの間に……」[pcms]
+"When did I...?"[pcms]
 
 *1137|
 [fc]
-熱と眩暈で朦朧としている内に、無意識で歩いていたのだろうか。[r]
-思い出そうとするが、はっきりとしない。[pcms]
+Was I walking unconsciously while delirious with fever and dizziness?[r]
+I try to remember, but it's not clear.[pcms]
 
 ;//◎_ノイズ効果　以降継続
 ;// 開始
@@ -139,35 +134,35 @@
 
 *1138|
 [fc]
-頭の中で『何か』がザワザワと蠢く。[r]
-視界には、まるでテレビの砂嵐のようにノイズが走る。[pcms]
+Something "stirs" in my head. My vision is filled with noise, like[r]
+static on a television.[pcms]
 
 *1139|
 [fc]
-夜風が、どこからともなく吹き込み、[r]
-目の前の扉がカタカタと音を立て揺れている。[pcms]
+The night breeze blows in from somewhere, and the door in front of me[r]
+rattles.[pcms]
 
 *1140|
 [fc]
-外に出て、この風に吹かれたら気持ちよさそうだ。[r]
-でも、ここは開けちゃいけない気がする……。[pcms]
+It seems like it would feel nice to be blown by this wind outside. But[r]
+I feel like I shouldn't open this door...[pcms]
 
 *1141|
 [fc]
-しかし、この体中に帯びた熱に耐えられなくなってきた。[r]
-この火照りを止める為なら、少しくらい外に出ても[r]
-誰も咎めないのではないだろうか。[pcms]
+However, I can't stand this heat enveloping my body any longer. To[r]
+stop this burning sensation, maybe it's okay to step outside for a[r]
+bit...no one would blame me, right?[pcms]
 
 *1142|
 [fc]
-このままだと、アタシ……どうにかなりそう。[pcms]
+At this rate, I feel like I'm going to lose it...[pcms]
 
 ;//----------------------------------------------------------
 ;//〆：選択肢
 ;//１．扉から外にでて、直ぐに戻る　jump：ラベルA
 ;//２．このまま堪える。　jump：ラベルB
 ;	[link target=*D0050_zap_a_A]扉から外にでて、直ぐに戻る[endlink]
-;	[link target=*D0050_zap_a_B]このまま堪える[endlink][s]
+;       (link target=*D0050_zap_a_B)Endure it as is(endlink)[pcms]
 
 
 *SEL16|扉から外にでて、直ぐに戻る／このまま堪える
@@ -215,18 +210,19 @@
 
 *1143|
 [fc]
-だめだ……もう我慢の限界。[pcms]
+I can't take it anymore...I've reached my limit.[pcms]
 
 *1144|
 [fc]
-滲み出る汗が服とくっついて、不快感に耐えられない。[r]
-外の夜風に当たれば、この火照りも収まるだろう。[pcms]
+The sweat seeping out sticks to my clothes, and I can't stand the[r]
+discomfort. If I were hit by the night breeze outside, this heat would[r]
+surely subside.[pcms]
 
 *1145|
 [fc]
 [vo_mak s="mako_1085"]
 [ns]Makoto[nse]
-「こんな汗だくで、アイツと顔合わせられないしね……」[pcms]
+"I can't meet him looking all sweaty like this..."[pcms]
 
 ;//システムアイコン消去＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -243,7 +239,7 @@
 
 *1146|
 [fc]
-鍵を外し扉をそっと引いて、月明かりの外へアタシは踏み出した。[pcms]
+I unlock the door and step out into the moonlit outside.[pcms]
 
 ;//★_山奥の学園　外観　夜（灯り無し）　bg25a.bmp
 [bg storage="bg25c"][trans_c cross time=500]
@@ -254,23 +250,24 @@
 [fc]
 [vo_mak s="mako_1086"]
 [ns]Makoto[nse]
-「ん！　気持ちいい！」[pcms]
+"Ah! It feels good!"[pcms]
 
 *1148|
 [fc]
-外はシンと静まりかえり、遠くに虫の声なんかが聞こえるだけだ。[r]
-星空を見上げ、夜風に晒されると、ベトベトとした不快感は全て[r]
-消し飛んでいった。それと同時に、体の火照りも鎮まって行く。[pcms]
+Outside is deathly quiet, with only the distant sound of insects.[r]
+Looking up at the starry sky and being exposed to the night breeze,[r]
+all the sticky discomfort vanishes, and at the same time, the heat in[r]
+my body begins to calm down.[pcms]
 
 *1149|
 [fc]
-うん、もう大丈夫だ。[r]
-外にいる感染者達に見つからないうちに、戻ろう。[pcms]
+Yeah, I'm fine now. Let's get back before any of those infected[r]
+outside spot me.[pcms]
 
 *1150|
 [fc]
-中に戻り扉を閉めると、アタシは上機嫌で歩き出した。[r]
-扉の鍵の事など、頭からはすっかり抜け落ちていた。[pcms]
+Once back inside and the door closed, I start walking cheerfully,[r]
+having completely forgotten about locking the door.[pcms]
 
 ;//〆：フラグ abumi_lock 成立
 [eval exp="f.l_abumi_lock = 1"]
@@ -287,29 +284,28 @@
 
 *1151|
 [fc]
-でも、やっぱり、今ここを開けるわけにはいかない……。[pcms]
+But still, I really shouldn't be opening this right now...[pcms]
 
 *1152|
 [fc]
-外の暗闇の中の、どこにあの感染者達が潜んでいるか分からない。[r]
-今は汗がベトベトで気持ち悪いとか、そんな細かい事を気にして[r]
-いる場合じゃない。[pcms]
+In the darkness outside, who knows where those infected could be[r]
+lurking. Now isn't the time to worry about feeling sweaty and gross.[pcms]
 
 *1153|
 [fc]
 [vo_mak s="mako_1087"]
 [ns]Makoto[nse]
-「ちょっと惜しいけど、今はガマン、ガマン」[pcms]
+"It's a bit regrettable, but now is the time for patience, patience."[pcms]
 
 *1154|
 [fc]
-そうだ、こんな所で油を売っている場合じゃない。[r]
-他の場所も見回らなくちゃ……。[r]
-アイツらが、どこから入り込んでくるか分からないんだから。[pcms]
+That's right, this isn't the time to be dawdling. I need to patrol[r]
+other areas too... You never know where they might come in from.[pcms]
 
 *1155|
 [fc]
-火照る体を何とか気合いで誤魔化しつつ、アタシは歩き出した。[pcms]
+Trying to psych myself up to ignore the burning sensation in my body,[r]
+I start walking again.[pcms]
 
 ;//jump：合流へ
 [jump target=*D0050_zap_a_C]
@@ -323,21 +319,22 @@
 
 *1156|
 [fc]
-暗い廊下を進み、教室や出入り口を巡回して行く。[r]
-ふと、暗闇の中立ち止まり、気になっていた事を確認する。[pcms]
+I move through the dark corridors, checking classrooms and entrances[r]
+as I go. Suddenly stopping in the darkness, something bothers me and I[r]
+check.[pcms]
 
 *1157|
 [fc]
 [vo_mak s="mako_1088"]
 [ns]Makoto[nse]
-「…………。ん……。少し、汗臭いかな？」[pcms]
+"...Hmm... Do I smell a bit sweaty?"[pcms]
 
 ;//○(スンスンは鼻で匂いを嗅ぐ感じです)
 
 *1158|
 [fc]
-服の襟元を引っ張って、匂いを嗅いでみると少し汗臭い……。[r]
-このままで大丈夫かな？　ダイスケに嫌な顔されないかな？[pcms]
+I pull at the collar of my shirt and sniff. It smells slightly[r]
+sweaty... Is this okay? Will Daisuke make a disgusted face?[pcms]
 
 ;//■_カタッ
 [se buf=0 storage="se098"]

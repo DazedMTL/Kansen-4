@@ -19,7 +19,7 @@
 *3242|
 [fc]
 [ns]Shou[nse]
-"c?"[pcms]
+"...?"[pcms]
 
 *3243|
 [fc]
@@ -360,22 +360,21 @@ were being posted with only a slight time difference.[pcms]
 
 *3284|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:34:18 ID:F1xw Here in Suegazaki,[r]
-it seems that the so-called infected were found deep in the mountains.[pcms]
+2004/8/10 07:34:18 ID:F1xw Here in Suegazaki, it seems that the so-[r]
+called infected were found deep in the mountains.[pcms]
 
 *3285|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:38:36 ID:AQ1tyo >304 It seems like[r]
-those guys are left in various places.[pcms]
+2004/8/10 07:38:36 ID:AQ1tyo >304 It seems like those guys are left in[r]
+various places.[pcms]
 
 *3286|
 [fc]
-Mine Post Date: 2004/8/10 07:38:39 ID:UM1sk Mine[pcms]
+2004/8/10 07:38:39 ID:UM1sk Mine[pcms]
 
 *3287|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:38:36 ID:QW23xAko >303 That's my[r]
-dad.[pcms]
+2004/8/10 07:38:36 ID:QW23xAko >303 That's my dad.[pcms]
 
 *3288|
 [fc]
@@ -383,31 +382,29 @@ dad.[pcms]
 
 *3289|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:43:51 ID:EQG53pi My wife went[r]
-crazy after being bitten by them, and then[pcms]
+2004/8/10 07:43:51 ID:EQG53pi My wife went crazy after being bitten by[r]
+them, and then[pcms]
 
 *3290|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:44:32 ID:OOI97w The Self-Defense[r]
-Forces came to our area, they all seem like good people. Please help[r]
-everyone quickly.[pcms]
+2004/8/10 07:44:32 ID:OOI97w The Self-Defense Forces came to our area,[r]
+they all seem like good people. Please help everyone quickly.[pcms]
 
 *3291|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:44:36 ID:OOI97w The Self-Defense[r]
-Forces came to our area, they all seem like good people. Please help[r]
-everyone quickly.[pcms]
+2004/8/10 07:44:36 ID:OOI97w The Self-Defense Forces came to our area,[r]
+they all seem like good people. Please help everyone quickly.[pcms]
 
 *3292|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:44:48 ID:akat398w Someone used[r]
-propane gas to blow themselves up @ Maigo.[pcms]
+2004/8/10 07:44:48 ID:akat398w Someone used propane gas to blow[r]
+themselves up @ Maigo.[pcms]
 
 *3293|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:45:36 ID:TRkat93G The day before[r]
-yesterday, there was a lot of gunfire around Suzugaoaka. Then a huge[r]
-bomb dropped, no idea what happened after that.[pcms]
+2004/8/10 07:45:36 ID:TRkat93G The day before yesterday, there was a[r]
+lot of gunfire around Suzugaoaka. Then a huge bomb dropped, no idea[r]
+what happened after that.[pcms]
 
 *3294|
 [fc]
@@ -415,21 +412,21 @@ bomb dropped, no idea what happened after that.[pcms]
 
 *3295|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:48:50 ID:CvImh16 A Self-Defense[r]
-Force person said that if you get bitten by them, it's over. Seems[r]
-like there's no hope even if you fight.[pcms]
+2004/8/10 07:48:50 ID:CvImh16 A Self-Defense Force person said that if[r]
+you get bitten by them, it's over. Seems like there's no hope even if[r]
+you fight.[pcms]
 
 *3296|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:51:03 ID:ghjOIn9 Not sure if[r]
-you're seeing this but if you haven't been rescued yet, try to get to[r]
-Ishiakashi. A rescue facility has been set up.[pcms]
+2004/8/10 07:51:03 ID:ghjOIn9 Not sure if you're seeing this but if[r]
+you haven't been rescued yet, try to get to Ishiakashi. A rescue[r]
+facility has been set up.[pcms]
 
 *3297|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:51:32 ID:uyRlP35x The infected are[r]
-scared of fire. Seriously, those guys are beyond saving, so burn them[r]
-as soon as you find them.[pcms]
+2004/8/10 07:51:32 ID:uyRlP35x The infected are scared of fire.[r]
+Seriously, those guys are beyond saving, so burn them as soon as you[r]
+find them.[pcms]
 
 *3298|
 [fc]
@@ -449,19 +446,19 @@ The thread continues.[pcms]
 
 *3301|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:52:18 ID:uyRlP35x Can't get in[r]
-touch with relatives in Sendai.[pcms]
+2004/8/10 07:52:18 ID:uyRlP35x Can't get in touch with relatives in[r]
+Sendai.[pcms]
 
 *3302|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:53:32 ID:Owxoaw9t The house next[r]
-door burned down, mine is unscathed. I feel somewhat guilty. The[r]
-person next door went crazy, so in many ways, I was saved.[pcms]
+2004/8/10 07:53:32 ID:Owxoaw9t The house next door burned down, mine[r]
+is unscathed. I feel somewhat guilty. The person next door went crazy,[r]
+so in many ways, I was saved.[pcms]
 
 *3303|
 [fc]
-Iburi Gakko Post Date: 2004/8/10 07:57:32 ID:Gx6ucHxc Did you guys see[r]
-this? http:speeduploader.org[pcms]
+2004/8/10 07:57:32 ID:Gx6ucHxc Did you guys see this?[r]
+http:speeduploader.org[pcms]
 
 *3304|
 [fc]

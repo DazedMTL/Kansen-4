@@ -421,7 +421,7 @@ a racing team that'll last a lifetime, okay?"[pcms]
 [fc]
 [vo_mak s="mako_1273"]
 [ns]Makoto[nse]
-"…!"[pcms]
+"...!"[pcms]
 
 ;//♪_BGM11　フェードイン
 [bgm storage="bgm11"]
@@ -532,8 +532,8 @@ it pushed back immediately.[pcms]
 *4009|
 [fc]
 While lifting her breasts, I slowly kneaded them. They easily changed[r]
-shape yet quickly returned to their original formsoft and firm[r]
-breasts that excited me.[pcms]
+shape yet quickly returned to their original formsoft and firm breasts[r]
+that excited me.[pcms]
 
 *4010|
 [fc]

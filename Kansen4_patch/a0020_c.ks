@@ -34,15 +34,14 @@
 
 *982|
 [fc]
-夕べ納車された俺の車。すぐにでもサエを誘って真夜中の[r]
-ドライブにしけ込みたかったところだが、夕べもサエは[r]
-オフクロさんの店の手伝いだったから、そうはいかなかった。[pcms]
+My car was delivered last night. I wanted to invite Saeko for a[r]
+midnight drive right away, but she was helping out at her mother's[r]
+store last night, so that wasn't possible.[pcms]
 
 *983|
 [fc]
-今朝は今朝でアイツラを学園まで送ってやって、その後[r]
-ようやく俺はサエとのドライブに慣らし運転を兼ねて[r]
-出かける事が出来た。[pcms]
+This morning, after dropping those guys off at school, I finally got[r]
+to take Saeko out for a drive, doubling as a break-in for the car.[pcms]
 
 [sysbt_meswin clear]
 
@@ -62,47 +61,48 @@
 [fc]
 [vo_sae s="sae_0015"]
 [ns]Saeko[nse]
-「ん……はあっ……」[pcms]
+"Mmm...haah..."[pcms]
 
 *985|
 [fc]
 [ns]Shou[nse]
-「気持ちいいか……？　サエ？」[pcms]
+"Does it feel good...? Saeko?"[pcms]
 
 *986|
 [fc]
 [vo_sae s="sae_0016"]
 [ns]Saeko[nse]
-「んっ……えっええ……気持ちい……ぃ。あっ……」[pcms]
+"Mmm...yeah...it feels good...ah..."[pcms]
 
 *987|
 [fc]
-ちょっと郊外まで出て、山際の細い脇道に車を停めた。[pcms]
+We drove a little out of town and parked the car on a narrow side road[r]
+by the mountains.[pcms]
 
 *988|
 [fc]
-にんまり笑う俺にサエも察したらしく、くすりと笑って[r]
-俺たちは後ろの席に移り、シートを倒した。[pcms]
+Saeko seemed to guess what I was thinking from my smug smile, and with[r]
+a chuckle, we moved to the back seat and reclined it.[pcms]
 
 *989|
 [fc]
-これで簡易ベッドの出来上がりだ。俺が大きい車を欲しいと[r]
-思っていた理由のひとつだ。[pcms]
+And just like that, we had a makeshift bed. It was one of the reasons[r]
+I wanted a big car.[pcms]
 
 *990|
 [fc]
-これでいつでもどこでも、サエを抱く事が出来る。[r]
-前の軽じゃそういう訳にいかなかったからな。[pcms]
+Now I can embrace Saeko anytime, anywhere. That wasn't possible with[r]
+my previous compact car.[pcms]
 
 *991|
 [fc]
-趣味じゃないレースのカーテンを引ききって、俺はサエを[r]
-脱がせにかかる。[pcms]
+I pulled the race car curtains that weren't really my style all the[r]
+way, and started to undress Saeko.[pcms]
 
 *992|
 [fc]
-サエは今でも脱がせる時少し恥ずかしがる。[r]
-だが、そこがいい。新鮮みさえ感じる。[pcms]
+Saeko still gets a little embarrassed when I undress her. But that's[r]
+what I like. It even feels fresh.[pcms]
 
 ;//★_ki_H001a（カーセックス：アップ）
 [evcg storage="ki_H001a"][trans_c cross time=300]
@@ -111,12 +111,12 @@
 [fc]
 [vo_sae s="sae_0017"]
 [ns]Saeko[nse]
-「あ……ね、ねえ……下も……脱ぎたいわ……」[pcms]
+"Ah...hey...I want to take off the bottom too..."[pcms]
 
 *994|
 [fc]
 [ns]Shou[nse]
-「だめだよ……このままがいいんだ」[pcms]
+"No, it's better this way."[pcms]
 
 ;//★_ki_H001b（カーセックス：アップ）
 [evcg storage="ki_H001b"][trans_c cross time=300]
@@ -125,22 +125,21 @@
 [fc]
 [vo_sae s="sae_0018"]
 [ns]Saeko[nse]
-「でも……汚しちゃ……ああっ、あっ……ん」[pcms]
+"But...I'll get it dirty...ahh, ah...mm"[pcms]
 
 *996|
 [fc]
-俺はサエの白くて滑らかな太股を撫でていた手を離し、[r]
-代わりに舌を這わせた。[pcms]
+I let go of Saeko's white, smooth thigh that I had been caressing and[r]
+replaced my hand with my tongue.[pcms]
 
 *997|
 [fc]
-サエはのけぞり、露出した柔らかそうな白いおっぱいが[r]
-ぶるぶるっと震える。[pcms]
+Saeko arched back, and her exposed soft white breasts trembled.[pcms]
 
 *998|
 [fc]
-ショートパンツのボタンを外し、柔らかそうな下腹を、[r]
-下着のラインぎりぎりによだれたっぷりに舐めてやる。[pcms]
+I unbuttoned her shorts and lavishly licked her soft lower belly,[r]
+right along the edge of her panties.[pcms]
 
 ;//★_ki_H001a（カーセックス：アップ）
 [evcg storage="ki_H001a"][trans_c cross time=300]
@@ -149,13 +148,13 @@
 [fc]
 [vo_sae s="sae_0019"]
 [ns]Saeko[nse]
-「あっ、ああっ。ショーちゃん……お願い……脱がし……。[r]
-　んっあああん。だ……めよぉ……汚し……ちゃう……」[pcms]
+"Ah, ahh! Shou-chan...please...take them off. Mmm, ahhhn. No...I'll[r]
+get it dirty..."[pcms]
 
 *1000|
 [fc]
 [ns]Shou[nse]
-「いいんだよ……たっぷり汚しちゃいな、サエ」[pcms]
+"It's okay...get it all dirty, Saeko."[pcms]
 
 ;//★_ki_H001b（カーセックス：アップ）
 [evcg storage="ki_H001b"][trans_c cross time=300]
@@ -164,61 +163,64 @@
 [fc]
 [vo_sae s="sae_0020"]
 [ns]Saeko[nse]
-「あああっ、はあっあっ、そこ、だめぇ……」[pcms]
+"Ahhhh, hahhahh, not there, nooo..."[pcms]
 
 *1002|
 [fc]
-わずかに覗く下着にぷくっと浮き出てきたクリトリス。[r]
-俺は下着ごしに舌を伸ばして、レロレロと舐めてやった。[pcms]
+The clitoris that had just started to bulge through the slightly[r]
+visible panties. I extended my tongue over the fabric and licked it[r]
+with relish.[pcms]
 
 *1003|
 [fc]
-途端に唾液以外のシミが、下側からじわじわ広がってくる。[pcms]
+Immediately, stains from something other than saliva began to spread[r]
+from underneath.[pcms]
 
 *1004|
 [fc]
-この目に見える変化が楽しい。やはり何か身に纏っていた方が[r]
-俺は燃える。別に身につけるのは何でもいいんだ。[r]
-靴下じゃなきゃとかのこだわりはない。[pcms]
+I enjoy this visible change. I get more excited when there's something[r]
+still on her. It doesn't matter what she's wearing. I don't have a[r]
+particular fetish like it has to be socks or anything.[pcms]
 
 *1005|
 [fc]
-服を全部脱ぎきって、さあどうぞと差し出されるよりも、[r]
-身に纏っていた方が、慌ただしさがあって、なんというか、[r]
-欲望の鮮度が違う気がする。[pcms]
+It feels different when she's still wearing something, rather than[r]
+being fully naked and ready. There's a sense of urgency, and somehow,[r]
+the freshness of desire feels different.[pcms]
 
 *1006|
 [fc]
-お互いの欲望のままに、貪り合う。服を脱ぐのももどかしい[r]
-ぐらいに交わりたい。それに身に纏ったままのサエを[r]
-抱いていると、犯しているという気分が昂ぶってくる。[pcms]
+We indulge in each other's desires, wanting to be intimate so badly[r]
+that even undressing feels too slow. Embracing Saeko while she's still[r]
+clothed makes me feel more exhilarated by the thought of ravishing[r]
+her.[pcms]
 
 *1007|
 [fc]
-俺の女を、俺の欲望のままに。[pcms]
+My woman, at the mercy of my desires.[pcms]
 
 *1008|
 [fc]
 [vo_sae s="sae_0021"]
 [ns]Saeko[nse]
-「あああっ、ショーちゃん、だめぇえ……いきなり、そこ。[r]
-　ああっ、そんなに責めないで……ぇ……」[pcms]
+"Ahhh, Shou-chan, nooo...suddenly there. Ahh, don't tease me so[r]
+much...e..."[pcms]
 
 *1009|
 [fc]
 [ns]Shou[nse]
-「しょうがないなぁサエは。もう下着がグズグズ“グズグズ”だぜ」[pcms]
+"You're hopeless, Saeko. Your panties are already soaking wet."[pcms]
 
 *1010|
 [fc]
 [vo_sae s="sae_0022"]
 [ns]Saeko[nse]
-「ああ……そんなこと、言わない……で……んっああっあ」[pcms]
+"Ahh...don't say...such things...mmm ahh ahh"[pcms]
 
 *1011|
 [fc]
-尖らせた舌で弄んでいたクリトリスを解放し、俺は[r]
-大好きなサエのおっぱいを責めにかかる。[pcms]
+I released the clitoris I had been teasing with my pointed tongue and[r]
+began to focus on Saeko's beloved breasts.[pcms]
 
 ;//システムアイコン消去＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -229,12 +231,13 @@
 
 *1012|
 [fc]
-柔らかく膨らみきったサエの白いおっぱい。[r]
-その真ん中に恥ずかしそうに顔を埋めているサエの乳首。[pcms]
+Saeko's white breasts, fully swollen and soft. Her nipples shyly[r]
+hiding in the center.[pcms]
 
 *1013|
 [fc]
-そのへこんだ中心に俺は舌を差し入れ刺激を始める。[pcms]
+I inserted my tongue into the indented center and began to stimulate[r]
+it.[pcms]
 
 ;//★_ki_H002b（バストショット）
 [evcg storage="ki_H002b"][trans_c cross time=300]
@@ -243,38 +246,38 @@
 [fc]
 [vo_sae s="sae_0023"]
 [ns]Saeko[nse]
-「あっ、ああっ！　ああんっ、気持ち……い……いぃ」[pcms]
+"Ah, ahh! Ahhn, it feels...good...ii"[pcms]
 
 *1015|
 [fc]
 [ns]Shou[nse]
-「サエの乳首は恥ずかしがり屋だよなあ。……んっちゅっ」[pcms]
+"Saeko's nipples are shy, aren't they? ...Mmmchup"[pcms]
 
 *1016|
 [fc]
 [vo_sae s="sae_0024"]
 [ns]Saeko[nse]
-「ああっん、だって……だってぇ……あっ、そんなに[r]
-　されたら……んっ……んっ……ああっああっ」[pcms]
+"Ahhnn, because...because...ahh, if you do it so[r]
+much...mmm...mmm...ahh ahh"[pcms]
 
 *1017|
 [fc]
-俺の掌はたっぷりとした量感を感じながらおっぱいを揉みしだき、[r]
-舌先でへこみをぐるりと刺激しながら、唇で乳輪ごと吸ってやる。[r]
-ぢゅうぢゅうという音をわざとさせながら。[pcms]
+My palm kneaded her ample breasts while my tongue circled the[r]
+indentation and my lips sucked on the entire areola, deliberately[r]
+making a slurping sound.[pcms]
 
 *1018|
 [fc]
-もう一方の真ん中のへこみは、指の腹を使って押しながら[r]
-ぐりぐりと刺激する。そうしているうちに、俺の指にも[r]
-舌にも、ちょっとした固さを感じてくる。[pcms]
+The other nipple's indentation was stimulated by pressing and rubbing[r]
+it with the pad of my finger. As I did so, I began to feel a slight[r]
+firmness against both my finger and tongue.[pcms]
 
 *1019|
 [fc]
 [vo_sae s="sae_0025"]
 [ns]Saeko[nse]
-「んっはああっ……あっ……乳首……感じる……。[r]
-　ショーちゃん、気持ちいい……よぉ……あああっん」[pcms]
+"Mmmhaahh...ahh...my nipples...feel so good... Shou-chan, it feels[r]
+good...yeah...ahhhn"[pcms]
 
 ;//★_ki_H002c（バストショット）
 [evcg storage="ki_H002c"][trans_c cross time=300]
@@ -283,13 +286,13 @@
 [fc]
 [vo_sae s="sae_0026"]
 [ns]Saeko[nse]
-「んっあああっ。こんな……に、こんなにぃ……。[r]
-　感じるなんて……私の……乳首ぃ……気持ちいっ……」[pcms]
+"Mmm ahhh! Like this...so much... My nipples feel so good..."[pcms]
 
 *1021|
 [fc]
-最初のとき、サエはぎりぎりまで手でおっぱいを覆っていた。[r]
-どうやらへこんだ乳首が恥ずかしかったらしい。[pcms]
+The first time we did this, Saeko covered her breasts with her hands[r]
+until the very end. It seems she was embarrassed by her inverted[r]
+nipples.[pcms]
 
 *1022|
 [fc]

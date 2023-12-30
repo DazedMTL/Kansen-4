@@ -1263,7 +1263,7 @@ inside."[pcms]
 [fc]
 [vo_sae s="sae_0318"]
 [ns]Saeko[nse]
-"Eeh~...what should I do~? Heheh.... Actually~...I've always thought[r]
+"Eeh~...what should I do~? Heheh... Actually~...I've always thought[r]
 you were cute~! If Shou-chan is okay with it..."[pcms]
 
 *9085|
@@ -1313,8 +1313,8 @@ Stop this madness!"[pcms]
 
 *9091|
 [fc]
-Damn it...taking advantage of the fact that I can't move.... Doing[r]
-whatever she wants....[pcms]
+Damn it...taking advantage of the fact that I can't move... Doing[r]
+whatever she wants...[pcms]
 
 *9092|
 [fc]
@@ -1335,7 +1335,7 @@ smeared with semen from who knows whom, against mine.[pcms]
 [fc]
 [vo_sae s="sae_0321"]
 [ns]Saeko[nse]
-"Eeh~...that's rude of you.... Don't say it's dirty~. The semen is[r]
+"Eeh~...that's rude of you... Don't say it's dirty~. The semen is[r]
 slippery and feels good, doesn't it? Look~..."[pcms]
 
 *9096|
@@ -1384,11 +1384,11 @@ infected from the start?[pcms]
 *9104|
 [fc]
 Saeko-san had been feeling sick in the car. That means she was already[r]
-infected then....[pcms]
+infected then...[pcms]
 
 *9105|
 [fc]
-Damn it.... I realized too late! Has Shou-kun been infected by Saeko-[r]
+Damn it... I realized too late! Has Shou-kun been infected by Saeko-[r]
 san too!?[pcms]
 
 *9106|

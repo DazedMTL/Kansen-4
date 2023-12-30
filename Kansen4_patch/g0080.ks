@@ -470,7 +470,7 @@ Makoto buried her face in my shoulder and began to sob.[pcms]
 *8511|
 [fc]
 [ns]Daisuke[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *8512|
 [fc]

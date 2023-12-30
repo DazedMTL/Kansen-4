@@ -70,10 +70,10 @@ After hearing Makoto-san's scream, I immediately left the room.[pcms]
 ;D0050_O_zapsel.ks(14): ;//ì®·¡ã’
 ;D0060_A_zapsel.ks(18): ;//ì®·¡ã’
 ;D0060_B_zapsel.ks(16): ;//ì®·¡ã’
-Despite that, neither Makoto-san nor Kozue-san have come back.[r]
-Makoto's favorite situation is... Makoto-san and Kozue-san, they both[r]
-make me want to bite...[pcms]
-Since meeting Makoto, various scenes up until now...[pcms]
+;Despite that, neither Makoto-san nor Kozue-san have come back.[r]
+;Makoto's favorite situation is... Makoto-san and Kozue-san, they both[r]
+;make me want to bite... Since meeting Makoto, various ;scenes up until[r]
+;now...[pcms]
 
 
 ;===========================================================

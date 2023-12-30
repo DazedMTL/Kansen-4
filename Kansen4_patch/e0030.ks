@@ -207,7 +207,7 @@ everyone has started doing their own thing, what should I do?[pcms]
 ;	[link storage="E0030_A梢.ks" target=*E0030_A梢]梢に話しかける[endlink]
 ;	[link storage="E0030_B真坂.ks" target=*E0030_B真坂]真坂さんを追いかける[endlink]
 ;	[link storage="E0030_Cマコト.ks" target=*E0030_Cマコト]マコトを手伝う[endlink]
-;       (link storage="E0030_D寝る.ks" target=*E0030_D寝る)Sleep(endlink)[pcms]
+;   [link storage="E0030_D寝る.ks" target=*E0030_D寝る]Sleep(endlink)[pcms]
 
 *SEL24|梢に話しかける／真坂さんを追いかける／マコトを手伝う／寝る
 [fc]

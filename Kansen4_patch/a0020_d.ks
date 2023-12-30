@@ -21,9 +21,9 @@
 
 *1105|
 [fc]
-ようやく授業が終わった。ホームルームも終わったので[r]
-あとは帰るだけだ。教室内はいつもの放課後の開放感で[r]
-満たされ、楽しそうに話し込んでるグループもいる。[pcms]
+Finally, classes are over. Homeroom is done too, so all that's left is[r]
+to go home. The classroom is filled with the usual sense of freedom[r]
+after school, and there are groups happily chatting away.[pcms]
 
 [ChrSetEx layer=5 chbase="ab_aA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -31,12 +31,12 @@
 [fc]
 [vo_mak s="mako_0097"]
 [ns]Makoto[nse]
-「今日も寄っていくよね、ダイスケ？」[pcms]
+"You're coming over today too, right, Daisuke?"[pcms]
 
 *1107|
 [fc]
 [ns]Daisuke[nse]
-「当然。放課後はガレージでって、決めてある」[pcms]
+"Of course. It's decided that we hang out at the garage after school."[pcms]
 
 [ChrSetEx layer=5 chbase="ab_aC01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -44,14 +44,14 @@
 [fc]
 [vo_mak s="mako_0098"]
 [ns]Makoto[nse]
-「早く梢ちゃん来ないかなー。それともたまには、[r]
-　こっちから迎えに行ってやろっかなー」[pcms]
+"I wonder when Kozue-chan will arrive. Maybe I should go pick her up[r]
+for a change."[pcms]
 
 *1109|
 [fc]
 [ns]Daisuke[nse]
-「やめとけって。マコトが行ったら、[r]
-　上級生の呼び出しとかって、誤解されるぞ」[pcms]
+"Don't bother. If you go, they might misunderstand it as a call from[r]
+an upperclassman."[pcms]
 
 [ChrSetEx layer=5 chbase="ab_aA03"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -59,18 +59,18 @@
 [fc]
 [vo_mak s="mako_0099"]
 [ns]Makoto[nse]
-「どーいう意味よっ！」[pcms]
+"What do you mean by that?!"[pcms]
 
 [ChrSetEx layer=5 chbase="ab_aB02"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *1110a|
 [fc]
-梢が来るまでのあいだの時間つぶし。[pcms]
+Killing time until Kozue arrives.[pcms]
 
 *1111|
 [fc]
-俺は、マコトの向こう側、真坂さんからのチラチラとした[r]
-視線を感じながらマコトとじゃれていた。[pcms]
+I was frolicking with Makoto while feeling the occasional glances from[r]
+Masaka-san from across the way.[pcms]
 
 ;//seフェード停止
 [stopse buf=0]
@@ -80,32 +80,32 @@
 
 *1112|
 [fc]
-真坂さんがこちらを気にしているようだ。[pcms]
+It seems Masaka-san is paying attention to us.[pcms]
 
 *1113|
 [fc]
-良い兆候じゃないか？[r]
-そういうチャンスはきちんと捕まえなくちゃな。[pcms]
+Isn't that a good sign? I have to seize such opportunities properly.[pcms]
 
 *1114|
 [fc]
-俺は真坂さんに話しかけてみる事にした。[pcms]
+I decided to try talking to Masaka-san.[pcms]
 
 *1115|
 [fc]
 [ns]Daisuke[nse]
-「おーい真坂さん、今朝はお互い酷いメにあったね？」[pcms]
+"Hey Masaka-san, we both had a rough time this morning, didn't we?"[pcms]
 
 *1116|
 [fc]
-俺は席を立って、近寄りながら真坂さんに話しかけてみた。[pcms]
+I stood up from my seat and approached Masaka-san to start a[r]
+conversation.[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA06"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *1117|
 [fc]
-真坂さんはびっくりしたような顔で俺を見上げ、次いで[r]
-意を決したような顔つきになって答えてくる。[pcms]
+Masaka-san looked up at me with a surprised face, then her expression[r]
+turned resolute as she answered.[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA03"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -113,7 +113,7 @@
 [fc]
 [vo_aya s="aya_0014"]
 [ns]Aya[nse]
-「あ、ええと……」[pcms]
+"Ah, um..."[pcms]
 
 [ChrSetEx layer=5 chbase="ab_aA06"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -121,16 +121,16 @@
 [fc]
 [vo_mak s="mako_0100"]
 [ns]Makoto[nse]
-「……？！」[pcms]
+"...?!"[pcms]
 
 *1120|
 [fc]
-マコトがきょとんとした目を一瞬して、それと同時に[r]
-隣の真坂さんを振り返っていた。[pcms]
+Makoto looked momentarily stunned, then quickly turned to glance at[r]
+Masaka-san next to her.[pcms]
 
 *1121|
 [fc]
-さて、このあとは、どう続くのか、どう出るのか……。[pcms]
+Now, how will things proceed from here...?[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aD01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -138,23 +138,23 @@
 [fc]
 [vo_aya s="aya_0015"]
 [ns]Aya[nse]
-「……酷いメ……って……？」[pcms]
+"...Rough time... you say...?"[pcms]
 
 *1123|
 [fc]
-おお、凄いぞ。ちゃんと言葉になってる。[r]
-俺の問いかけに反応してくれている。[pcms]
+Oh wow, that's great. She's actually forming words. She's responding[r]
+to my question.[pcms]
 
 *1124|
 [fc]
-よし、一気に切り込まなくちゃな。[pcms]
+Alright, I've got to dive in now.[pcms]
 
 *1125|
 [fc]
 [ns]Daisuke[nse]
-「うん。翔くんの運転だよ。そりゃ車がボロっちいってのも[r]
-　あったけど、酷く揺れたし、急発進急ブレーキだし。[r]
-　気分悪くなったりしなかった？」[pcms]
+"Yeah. It was Shou-kun's driving. The car was a clunker, sure, but it[r]
+was really shaky and there were sudden starts and stops. Didn't you[r]
+feel sick?"[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -162,20 +162,18 @@
 [fc]
 [vo_aya s="aya_0016"]
 [ns]Aya[nse]
-「あ……はい。大丈夫でした。あの車は……初めてでしたけど、[r]
-　石郷岡さんの運転は、何回か乗せてもらったことが[r]
-　ありますし……」[pcms]
+"Ah... yes. I was fine. It was my first time in that car, but I've[r]
+been given rides by Ishigooka-san a few times before..."[pcms]
 
 *1127|
 [fc]
-おおおおっ！！[r]
-なんと、長文のお返事だっ！！[pcms]
+Ohhhh!! What a lengthy reply!![pcms]
 
 [ChrSetEx layer=5 chbase="ab_aA05"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *1128|
 [fc]
-マコトもびっくりしたようで、更に目を見開いている。[pcms]
+Makoto looks surprised too, her eyes wide open even more.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -183,8 +181,8 @@
 *1129|
 [fc]
 [ns]Daisuke[nse]
-「そっか。それはなにより。静かだったから、俺ちょっと[r]
-　心配してたんだよ」[pcms]
+"I see. That's good to hear. It was so quiet that I was a bit worried[r]
+about you."[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aB03"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -192,12 +190,12 @@
 [fc]
 [vo_aya s="aya_0017"]
 [ns]Aya[nse]
-「あ……すみません。お気遣いありがとうございます」[pcms]
+"Ah... thank you for your concern."[pcms]
 
 *1131|
 [fc]
 [ns]Daisuke[nse]
-「いえいえ」[pcms]
+"No problem."[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aD01"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -205,21 +203,22 @@
 [fc]
 [vo_aya s="aya_0018"]
 [ns]Aya[nse]
-「…………あ、あの」[pcms]
+"...Um"[pcms]
 
 *1133|
 [fc]
 [ns]Daisuke[nse]
-「ん？　なに？」[pcms]
+"Hm? What is it?"[pcms]
 
 *1134|
 [fc]
-凄いぞ。今度は真坂さんの方から、何やら話しかけてきたぞ。[pcms]
+This is amazing. Now Masaka-san is the one initiating the[r]
+conversation.[pcms]
 
 *1135|
 [fc]
-マコトの表情が面白い。びっくり眼のまんまで、[r]
-真坂さんと俺を交互にその見開いた目だけ動かして見ている。[pcms]
+Makoto's expression is priceless. Still with eyes wide in surprise,[r]
+she alternates her gaze between Masaka-san and me.[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA07"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -227,54 +226,52 @@
 [fc]
 [vo_aya s="aya_0019"]
 [ns]Aya[nse]
-「……今朝、車の中で仙道君が話していた……。[r]
-　石郷岡さんと話していた、『バイクのれすとあ』って[r]
-　なんですか？」[pcms]
+"...This morning, in the car, Sendou-kun was talking... About the[r]
+'bike restau' that Ishigooka-san mentioned, what is that?"[pcms]
 
 *1137|
 [fc]
-意外な問いかけだった。[r]
-俺の名前を呼んでくれたのも嬉しかったけれど、[r]
-それ以上に俺たちの話に興味を示してくれたのが嬉しかった。[pcms]
+It was an unexpected question. I was happy she called me by my name,[r]
+but even more so that she showed interest in our conversation.[pcms]
 
 *1138|
 [fc]
 [ns]Daisuke[nse]
-「ああ、あのね。バイクに限らないんだけど、動かなくなった[r]
-　ものを動くように蘇らせることだよ。[r]
-　それをレストアっていうんだ。俺は今バイクでしてるんだ」[pcms]
+"Ah, that. It's not just about bikes, but it's about bringing back to[r]
+life things that don't work anymore. That process is called[r]
+restoration. I'm currently doing it with a bike."[pcms]
 
 *1139|
 [fc]
 [vo_aya s="aya_0020"]
 [ns]Aya[nse]
-「それは……バイクを整備して、もしかしたら自分でバイクを[r]
-　再構築することですか……？」[pcms]
+"Does that mean... you're servicing the bike and maybe even rebuilding[r]
+it yourself...?"[pcms]
 
 *1140|
 [fc]
 [ns]Daisuke[nse]
-「そそ。当ってるよ。分解して整備して、もとの姿を[r]
-　取り戻させて動くようになるまで持って行く作業の事」[pcms]
+"Exactly. You got it right. It's the process of disassembling,[r]
+servicing, and restoring it to its original form until it works[r]
+again."[pcms]
 
 *1141|
 [fc]
-真坂さんは、俺の言葉を浸透させるように[r]
-少し頷きながら聴いている。[pcms]
+Masaka-san listens, nodding slightly as if absorbing my words.[pcms]
 
 *1142|
 [fc]
-マコトはバイクという言葉が出たあたりで、[r]
-びっくり眼から好奇心の眼へと変わっていた。[pcms]
+Makoto's expression changed from surprise to curiosity when the word[r]
+'bike' came up.[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA07"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *1143|
 [fc]
 [ns]Daisuke[nse]
-「マコトんちがモータースだろ。そこのガレージで[r]
-　放課後とかに作業しているんだ。[r]
-　……そうだ、興味があるんだったら、覗いてみる？」[pcms]
+"Your family runs a motor shop, right Makoto? I work on it in the[r]
+garage after school... Oh right, if you're interested, why don't you[r]
+come and take a look?"[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA06"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -909,7 +906,7 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_aya s="aya_0036"]
 [ns]Aya[nse]
-「…………」[pcms]
+"..."[pcms]
 
 ;//システムアイコン消去＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -934,18 +931,18 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_koz s="kozu_0094"]
 [ns]Kozue[nse]
-「わたし……帰る」[pcms]
+"I... I'm going home."[pcms]
 
 *1226|
 [fc]
-突然、梢がそう宣言した。[pcms]
+Suddenly, Kozue declared that.[pcms]
 
 [ChrSetEx layer=5 chbase="nt_aA04"][ChrSetXY layer=5 x=162 y=40][trans_c cross time=150]
 
 *1226a|
 [fc]
-振り返ってみると、すでに携帯を[r]
-カバンにしまい込んで椅子から立ち上がろうとしている。[pcms]
+When I turned around, she had already put her phone in her bag and was[r]
+about to stand up from her chair.[pcms]
 
 ;//♪_BGM14　フェードイン
 [bgm storage="bgm14"]
@@ -953,7 +950,7 @@ Masaka-san's gaze on my back as I worked.[pcms]
 *1227|
 [fc]
 [ns]Daisuke[nse]
-「梢？　何か用事でも出来たのか？」[pcms]
+"Kozue? Did something come up?"[pcms]
 
 [ChrSetEx layer=5 chbase="nt_aA11"][ChrSetXY layer=5 x=162 y=40][trans_c cross time=150]
 
@@ -961,19 +958,19 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_koz s="kozu_0095"]
 [ns]Kozue[nse]
-「……別に……とにかく、今日はもう帰る。[r]
-　真坂さん、また明日。先に帰るけど、ごめんなさい」[pcms]
+"...Not really... Anyway, I'm going home for today. Masaka-san, see[r]
+you tomorrow. Sorry for leaving first."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1229|
 [fc]
-そう言って、梢はガレージを出て行ってしまった。[pcms]
+With that said, Kozue left the garage.[pcms]
 
 *1230|
 [fc]
-携帯いじってたからな。何かメールでも飛んできて用事が[r]
-出来たんだろうか？[pcms]
+She had been fiddling with her phone. Maybe she got a message and[r]
+something came up?[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA04"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -981,47 +978,48 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_aya s="aya_0037"]
 [ns]Aya[nse]
-「……あの、いいんでしょうか？」[pcms]
+"...Is it okay to leave her be?"[pcms]
 
 *1232|
 [fc]
-真坂さんはなんだか不安そうな顔をして俺に尋ねてきた。[pcms]
+Masaka-san asked me with a somewhat anxious look on her face.[pcms]
 
 *1233|
 [fc]
-俺は梢が急に帰ったことよりも、真坂さんが心配している方が[r]
-気になった。だから、少しは安心してくれるようにと答えた。[pcms]
+I was more concerned about Masaka-san's worry than Kozue suddenly[r]
+leaving. So, I answered in a way that might reassure her a little.[pcms]
 
 *1234|
 [fc]
 [ns]Daisuke[nse]
-「ああ、何か用事が出来たんだと思うよ。気にする事ないよ」[pcms]
+"Yeah, I think something must have come up. No need to worry about[r]
+it."[pcms]
 
 *1235|
 [fc]
 [vo_aya s="aya_0038"]
 [ns]Aya[nse]
-「…………」[pcms]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA07"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
 *1236|
 [fc]
-真坂さんは、まだ少し不安そうだったけれど、[r]
-マコトの『気にする事ないよー』という言葉に、[r]
-ようやくいつもの整った顔立ちに戻ってくれた。[pcms]
+Masaka-san still looked a bit uneasy, but she finally returned to her[r]
+usual composed expression after hearing Makoto's "No need to worry[r]
+about it."[pcms]
 
 *1237|
 [fc]
-だから、俺はまた作業に戻る事にした。[pcms]
+So, I decided to get back to work.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1238|
 [fc]
-なにせ、やる事はいっぱいある。昼間のマコトの話からしても[r]
-作業を可能な限り進めておいたほうがいいだろう。[pcms]
+After all, there was a lot to do. From what Makoto said during the[r]
+day, it would be best to advance the work as much as possible.[pcms]
 
 ;//システムアイコン消去＆メッセージウィンドウ消去
 [sysbt_meswin clear]
@@ -1045,24 +1043,24 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_mak s="mako_0122"]
 [ns]Makoto[nse]
-「だーかーらー。もっと工具は丁寧に扱いなさいよー」[pcms]
+"That's why- You need to handle the tools more carefully!"[pcms]
 
 *1240|
 [fc]
 [ns]Daisuke[nse]
-「丁寧に扱ってるだろーが」[pcms]
+"I am handling them carefully!"[pcms]
 
 *1241|
 [fc]
 [vo_mak s="mako_0123"]
 [ns]Makoto[nse]
-「もっと丁寧に。工具を重ねて床に置くなー」[pcms]
+"More carefully. Don't just pile the tools on the floor."[pcms]
 
 *1242|
 [fc]
 [ns]Daisuke[nse]
-「ああ？　ちょっと置いただけだろーが。[r]
-　たまたま重なっちまっただけだろー？」[pcms]
+"Huh? I just put them down for a second. They just happened to stack[r]
+up, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ab_bA04"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1070,12 +1068,12 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_mak s="mako_0124"]
 [ns]Makoto[nse]
-「むーーーっ。だから、そーいうのが、丁寧じゃないっての」[pcms]
+"Mmm! That's exactly what's not careful."[pcms]
 
 *1244|
 [fc]
 [ns]Daisuke[nse]
-「あー、もうゴチャゴチャと。わーったよ、気をつけるよ」[pcms]
+"Ah, enough with the nagging. I get it, I'll be careful."[pcms]
 
 [ChrSetEx layer=5 chbase="ab_bA03"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1083,45 +1081,44 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_mak s="mako_0125"]
 [ns]Makoto[nse]
-「むーーっ！　ゴチャゴチャって何よー！　こっちは工具の[r]
-　扱い方をちゃんと教えてやってるんじゃないのよ。[r]
-　もう、いいっ！！　好きにやればいいでしょっ！！」[pcms]
+"Mmm! What do you mean 'nagging'?! I'm just trying to teach you the[r]
+proper way to handle tools. That's it! Do whatever you want!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1246|
 [fc]
-そう言い捨てると、マコトはダンダンと足音を鳴らして[r]
-ガレージを出て行ってしまった。[pcms]
+After saying that, Makoto stomped out of the garage with heavy[r]
+footsteps.[pcms]
 
 *1247|
 [fc]
 [ns]Daisuke[nse]
-「……ったく」[pcms]
+"...Seriously."[pcms]
 
 *1248|
 [fc]
-俺は結構頭にきていた。自分でも丁寧に[r]
-工具を扱っているつもりだったから。[pcms]
+I was quite annoyed. I thought I had been handling the tools carefully[r]
+myself.[pcms]
 
 *1249|
 [fc]
-なにせ借りている上に、オヤジさんが[r]
-仕事にも使う大事な工具だから。[pcms]
+After all, they were important tools that I borrowed and that the old[r]
+man uses for work.[pcms]
 
 *1250|
 [fc]
-それなのに、頭ごなしにマコトに非難されてむかついていた。[pcms]
+Yet, being criticized so bluntly by Makoto was irritating.[pcms]
 
 *1251|
 [fc]
-今日だけじゃなく、これまでにもそんな感じだったから、[r]
-そろそろ堪忍袋の緒が切れたのかもしれない。[pcms]
+It wasn't just today; it had been like this before, so maybe my[r]
+patience had finally run out.[pcms]
 
 *1252|
 [fc]
 [ns]Daisuke[nse]
-「……言い方ってもんがあるだろーが」[pcms]
+"...There's a way to say things, you know."[pcms]
 
 ;//♪_BGM03　フェードアウト
 [fadeoutbgm time=500]
@@ -1129,12 +1126,12 @@ Masaka-san's gaze on my back as I worked.[pcms]
 
 *1253|
 [fc]
-俺はブツブツ言いながら、それでも作業を進めようとしていた。[pcms]
+I muttered to myself while still trying to proceed with the work.[pcms]
 
 *1254|
 [fc]
-端から見たら、まさしく頭から湯気が上がっているような[r]
-状態だったかもしれない。[pcms]
+To an outsider, it might have looked like steam was literally coming[r]
+out of my head.[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA04"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1142,7 +1139,7 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_aya s="aya_0039"]
 [ns]Aya[nse]
-「あの……ほうっておいていいの？」[pcms]
+"Um... is it okay to just leave her?"[pcms]
 
 ;//♪_BGM15　フェードイン
 [bgm storage="bgm15"]
@@ -1150,8 +1147,8 @@ Masaka-san's gaze on my back as I worked.[pcms]
 *1256|
 [fc]
 [ns]Daisuke[nse]
-「ああ、いいよ！　いつもの事だからな！[r]
-　それこそほうっておけば、そのうちまた戻ってくるさっ！」[pcms]
+"Yeah, it's fine! It happens all the time! If we leave her alone,[r]
+she'll come back eventually!"[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aB02"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1159,26 +1156,25 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_aya s="aya_0040"]
 [ns]Aya[nse]
-「……」[pcms]
+"..."[pcms]
 
 *1258|
 [fc]
 [ns]Daisuke[nse]
-「……………………」[pcms]
+"..."[pcms]
 
 *1259|
 [fc]
-しまった……。俺は怒りにまかせて、その怒りのままに[r]
-真坂さんにぶつけてしまっていた。[pcms]
+Shoot... In my anger, I had taken it out on Masaka-san.[pcms]
 
 *1260|
 [fc]
-真坂さんは黙り込んでしまっている。まずい……。[pcms]
+Masaka-san fell silent. This is bad...[pcms]
 
 *1261|
 [fc]
 [ns]Daisuke[nse]
-「あ、あの……ごめん。悪かった。言い方きつかったよな……」[pcms]
+"Ah, um... sorry. That was bad of me. I was too harsh..."[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aB03"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -1186,8 +1182,8 @@ Masaka-san's gaze on my back as I worked.[pcms]
 [fc]
 [vo_aya s="aya_0041"]
 [ns]Aya[nse]
-「あ……ううん、いいの。気にしないでください。[r]
-　…………でも、ちょっと羨ましいな……」[pcms]
+"Ah... no, it's okay. Don't worry about it. ...But, I'm a little[r]
+envious..."[pcms]
 
 *1263|
 [fc]

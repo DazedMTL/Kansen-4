@@ -10,13 +10,13 @@
 [fc]
 [vo_koz s="kozu_0527"]
 [ns]Kozue[nse]
-「あのまま、ここから出て行ってくれればいいのにっ！！」[pcms]
+"I wish you would just leave and never come back!!"[pcms]
 
 *8306|
 [fc]
-梢はまだ怒りの渦中にいて、その怒りのままに冴子さんと[r]
-翔くんが出て行った入り口目掛けて言葉を投げつけた。[r]
-そればかりでなく、またマコトへと矛先を向け始めた。[pcms]
+Kozue was still caught in a whirlwind of anger, hurling her words[r]
+towards the entrance where Saeko-san and Shou-kun had left. Not only[r]
+that, but she also began to direct her anger towards Makoto.[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="nt_cA06"][ChrSetXY layer=3 x=0 y=40]
@@ -26,7 +26,7 @@
 [fc]
 [vo_koz s="kozu_0528"]
 [ns]Kozue[nse]
-「ねえ、まことちゃんもあとを追った方がいいんじゃないのっ？」[pcms]
+"Hey, maybe you should follow them out, Makoto-chan?"[pcms]
 
 [ChrSetEx layer=4 chbase="ab_cA03"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -34,8 +34,8 @@
 [fc]
 [vo_mak s="mako_0752"]
 [ns]Makoto[nse]
-「またそんな事言うの？！　本気で言ってるの？[r]
-　いい加減にからむのやめてよねっ、梢ちゃんっ！！」[pcms]
+"Are you saying that again?! Are you serious? Stop picking on me[r]
+already, Kozue-chan!!"[pcms]
 
 [ChrSetEx layer=3 chbase="nt_cA03"][ChrSetXY layer=3 x=0 y=40][trans_c cross time=150]
 
@@ -43,29 +43,27 @@
 [fc]
 [vo_koz s="kozu_0529"]
 [ns]Kozue[nse]
-「絡んでるんじゃないもの。[r]
-　ありそうな可能性を確かめてるだけじゃないっ！」[pcms]
+"I'm not picking on you. I'm just checking for a likely possibility!"[pcms]
 
 *8310|
 [fc]
 [vo_mak s="mako_0753"]
 [ns]Makoto[nse]
-「ありそうなんて事、絶対に無いっ！[r]
-　冗談でもそんな事言わないでよっ！」[pcms]
+"There's no way that's likely! Don't even joke about something like[r]
+that!"[pcms]
 
 *8311|
 [fc]
 [vo_koz s="kozu_0530"]
 [ns]Kozue[nse]
-「冗談なんかで、言ってないもんっ！」[pcms]
+"I'm not joking!"[pcms]
 
 *8312|
 [fc]
 [vo_mak s="mako_0754"]
 [ns]Makoto[nse]
-「あのさー、アタシはすぐにダイスケに助けてもらったのっ！[r]
-　アタシが何もされてないってのは、ダイスケがよーく[r]
-　知ってるわよっ！！」[pcms]
+"Look, I was saved by Daisuke right away! He knows very well that[r]
+nothing happened to me!!"[pcms]
 
 [ChrSetEx layer=3 chbase="nt_cB02"][ChrSetXY layer=3 x=0 y=40][trans_c cross time=150]
 
@@ -73,9 +71,8 @@
 [fc]
 [vo_koz s="kozu_0531"]
 [ns]Kozue[nse]
-「何よっ！　大介兄ちゃんに助けてもらったなんて[r]
-　自慢気に言わないでよっ！　なんでまことちゃんを[r]
-　大介兄ちゃんが助けるの？　なんでよっ！！」[pcms]
+"What?! Don't say it like you're proud to have been saved by Daisuke-[r]
+niichan! Why would Daisuke-niichan save you? Why?!"[pcms]
 
 [ChrSetEx layer=4 chbase="ab_cA05"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -83,7 +80,7 @@
 [fc]
 [vo_mak s="mako_0755"]
 [ns]Makoto[nse]
-「え？　何言って……」[pcms]
+"Huh? What are you talking about..."[pcms]
 
 [ChrSetEx layer=3 chbase="nt_cB03"][ChrSetXY layer=3 x=0 y=40][trans_c cross time=150]
 
@@ -91,20 +88,20 @@
 [fc]
 [vo_koz s="kozu_0532"]
 [ns]Kozue[nse]
-「いっつもいっつも、大介兄ちゃんとまことちゃんは、[r]
-　一緒に居てっ！　どうしてよっっ！！！　なんでよっ！」[pcms]
+"Always, always, Daisuke-niichan and Makoto-chan are together! Why is[r]
+that?!! Why?!"[pcms]
 
 *8316|
 [fc]
 [vo_mak s="mako_0756"]
 [ns]Makoto[nse]
-「……」[pcms]
+"..."[pcms]
 
 *8317|
 [fc]
-マコトは呆気にとられてしまったような顔で梢を見つめていた。[r]
-梢は、そんなマコトの視線を丸っきり無視して、怒りの表情で[r]
-睨んでいる。こんな激しい梢を見たのは、俺も初めてだった。[pcms]
+Makoto looked at Kozue with a stunned expression, as if taken aback.[r]
+Kozue, ignoring Makoto's gaze completely, glared back with an angry[r]
+expression. It was the first time I had seen Kozue this furious.[pcms]
 
 [ChrSetEx layer=4 chbase="ma_cA04"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -112,14 +109,13 @@
 [fc]
 [vo_aya s="aya_0723"]
 [ns]Aya[nse]
-「あの……梢さん。そろそろ落ち着きましょうよ。[r]
-　冷静に話し合ったほうが、いいと思います」[pcms]
+"Um... Kozue-san. Let's calm down a bit. I think it would be better to[r]
+talk this over calmly."[pcms]
 
 *8319|
 [fc]
-真坂さんがなだめようと梢に話しかけた。[r]
-でも、梢は更に顔を赤く目を吊り上げて、[r]
-くるりと真坂さんを振り返り、睨みつけた。[pcms]
+Aya tried to soothe Kozue, but Kozue turned even redder, her eyes[r]
+widening with anger as she spun around and glared at Aya.[pcms]
 
 [ChrSetEx layer=3 chbase="nt_cA03"][ChrSetXY layer=3 x=0 y=40][trans_c cross time=150]
 
@@ -127,8 +123,7 @@
 [fc]
 [vo_koz s="kozu_0533"]
 [ns]Kozue[nse]
-「絢さんだって、本当は大介兄ちゃんともっと仲良くしたいって[r]
-　思ってるんでしょっ？」[pcms]
+"You want to get closer to Daisuke-niichan too, don't you, Aya-san?"[pcms]
 
 [ChrSetEx layer=4 chbase="ma_cA06"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -136,7 +131,7 @@
 [fc]
 [vo_aya s="aya_0724"]
 [ns]Aya[nse]
-「え？　なんの話ですか？」[pcms]
+"Huh? What are you talking about?"[pcms]
 
 [ChrSetEx layer=3 chbase="nt_cA03"][ChrSetXY layer=3 x=0 y=40][trans_c cross time=150]
 
@@ -144,8 +139,8 @@
 [fc]
 [vo_koz s="kozu_0534"]
 [ns]Kozue[nse]
-「ごまかさないでよっ！　さっきだって、屋上で大介兄ちゃんと[r]
-　ふたりっきりで、何していたのよっ！！」[pcms]
+"Don't play dumb! Just now on the rooftop, what were you doing alone[r]
+with Daisuke-niichan?!"[pcms]
 
 [ChrSetEx layer=4 chbase="ma_cA05"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -153,28 +148,28 @@
 [fc]
 [vo_aya s="aya_0725"]
 [ns]Aya[nse]
-「何って……特に何も……」[pcms]
+"What do you mean? Nothing in particular..."[pcms]
 
 *8324|
 [fc]
 [vo_koz s="kozu_0535"]
 [ns]Kozue[nse]
-「手なんか握っちゃってさ……冴子さんがおかしくなりそうだから[r]
-　今度は大介兄ちゃんと、仲良くしようっていうの？！！」[pcms]
+"You were holding hands and all... Are you trying to get close to[r]
+Daisuke-niichan now because Saeko-san is acting strange?!!"[pcms]
 
 *8325|
 [fc]
-目に余った。元々は恐怖心からきているのかもしれない。でも、[r]
-マコトや真坂さんに言っている事は、いちゃもん以外のなにもの[r]
-でもない。俺にはそう思えた。だから俺は大声を張り上げた。[pcms]
+It was too much. It might have stemmed from fear originally, but what[r]
+Kozue was saying to Makoto and Aya was nothing but baseless[r]
+accusations. That's how it seemed to me. So I raised my voice.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8326|
 [fc]
 [ns]Daisuke[nse]
-「お前……梢っ！　いい加減にしろっ！！[r]
-　自分で何言ってるか、わかってんのかっ！！」[pcms]
+"You... Kozue! Enough is enough!! Do you even understand what you're[r]
+saying?!"[pcms]
 
 [ChrSetEx layer=5 chbase="nt_cB01"][ChrSetXY layer=5 x=162 y=40][trans_c cross time=150]
 
@@ -182,9 +177,8 @@
 [fc]
 [vo_koz s="kozu_0536"]
 [ns]Kozue[nse]
-「ひっ！　な、なによぉ。なんでわたしが大介兄ちゃんに[r]
-　怒られるのよぉ。　どうして？　なんで？[r]
-　わたしが何したって言うのよぉ……」[pcms]
+"Eek! Wh-what is it? Why am I being scolded by Daisuke-niichan? Why?[r]
+What did I do...?"[pcms]
 
 [ChrSetEx layer=5 chbase="nt_cB03"][ChrSetXY layer=5 x=162 y=40][trans_c cross time=150]
 
@@ -192,40 +186,39 @@
 [fc]
 [vo_koz s="kozu_0537"]
 [ns]Kozue[nse]
-「ひどいよぉ。なんでよぉ。わたしが、何を……うっうううっ。[r]
-　うっえっくっ……うあああっ…………」[pcms]
+"That's so mean. Why? What have I...uhuhuhu. Uhekk...uaaaa..."[pcms]
 
 *8329|
 [fc]
-梢はまるで小さい子供みたいに、わんわんと泣き出した。[r]
-大きく口をあけ、こぼれる涙を拭きもせずに。[pcms]
+Kozue started crying like a little child, her mouth wide open, tears[r]
+streaming down without wiping them away.[pcms]
 
 *8330|
 [fc]
 [ns]Daisuke[nse]
-「……梢。大きな声出して、悪かったよ。泣くなよ。[r]
-　……でもなあ、ちょっと考えてみろよ。[r]
-　一番つらいのは、誰だ？　冴子さんだろ？」[pcms]
+"...Kozue. I'm sorry for raising my voice. Don't cry. ...But think[r]
+about it for a second. Who's having the toughest time here? Isn't it[r]
+Saeko-san?"[pcms]
 
 *8331|
 [fc]
 [vo_koz s="kozu_0538"]
 [ns]Kozue[nse]
-「うっうっうっ……うううっっくっえっえっ……」[pcms]
+"Uhuhuh...uuuukk...ehheh..."[pcms]
 
 *8332|
 [fc]
 [ns]Daisuke[nse]
-「梢の怖い気持ちはわかるよ。でも、冴子さんだって感染したくて[r]
-　したわけじゃないだろ？　さっきのニュース聴いて、一番に[r]
-　おびえたのは、きっと冴子さんだと俺は思うよ」[pcms]
+"I understand that you're scared, Kozue. But Saeko-san didn't want to[r]
+get infected either, right? After hearing the news earlier, the one[r]
+who was probably most frightened was Saeko-san, I think."[pcms]
 
 *8333|
 [fc]
 [ns]Daisuke[nse]
-「そりゃ、確かに発症してしまう可能性はあると思う。[r]
-　でもさ、仲間なんだからもう少し言葉を選べよ。[r]
-　先に冴子さんの体調を心配しろよ。わかるだろ、梢？」[pcms]
+"Sure, there's a possibility that she might show symptoms. But we're[r]
+comrades, so choose your words more carefully. Worry about Saeko-san's[r]
+health first. You understand, right, Kozue?"[pcms]
 
 [ChrSetEx layer=5 chbase="nt_cA10"][ChrSetXY layer=5 x=162 y=40][trans_c cross time=150]
 
@@ -233,8 +226,8 @@
 [fc]
 [vo_koz s="kozu_0539"]
 [ns]Kozue[nse]
-「うっうううっ……ご、めんなさいぃ……大介……兄ちゃん。[r]
-　わたし……怖くてぇ……うっうううっ。ごめんなさいぃ……」[pcms]
+"Uhuhuh...I'm sorry...Daisuke-niichan. I was just...scared...uhuhuhu.[r]
+I'm sorry..."[pcms]
 
 [chara_int]
 [ChrSetEx layer=3 chbase="nt_cA10"][ChrSetXY layer=3 x=0 y=40]
@@ -244,31 +237,29 @@
 [fc]
 [vo_mak s="mako_0757"]
 [ns]Makoto[nse]
-「梢ちゃん……アタシも怖いよ。とってもね。冴子さんが[r]
-　おかしくなっちゃったらって思うと、すごく怖い。[r]
-　でもさ、そうならないように何でもしたいって思ってるよ」[pcms]
+"Kozue-chan...I'm scared too. Really scared. The thought of Saeko-san[r]
+going crazy is terrifying. But I want to do anything I can to prevent[r]
+that from happening."[pcms]
 
 *8336|
 [fc]
 [vo_koz s="kozu_0540"]
 [ns]Kozue[nse]
-「うううっ……ごめんなさい、まことちゃん。[r]
-　わたし……わたし、変な事言っちゃったぁ……」[pcms]
+"Uuuuh...I'm sorry, Makoto-chan. I...I said some terrible things..."[pcms]
 
 *8337|
 [fc]
 [vo_mak s="mako_0758"]
 [ns]Makoto[nse]
-「いいってば。梢ちゃんが怖がりだって、よっくわかってるもん。[r]
-　それなのに、アタシこそごめんね。ムキになっちゃってさ」[pcms]
+"It's okay. I know very well that you're easily scared, Kozue-chan.[r]
+And I'm sorry too for getting so worked up."[pcms]
 
 *8338|
 [fc]
 [vo_koz s="kozu_0541"]
 [ns]Kozue[nse]
-「ううん……本当に、ごめん、さないぃ……ううっ。[r]
-　絢……さんも、ごめんなさい。大介兄ちゃんも……[r]
-　ごめんなさい……」[pcms]
+"No...I'm really sorry...uhuhu. Aya-san too, I'm sorry. And Daisuke-[r]
+niichan... I'm sorry..."[pcms]
 
 [ChrSetEx layer=4 chbase="ma_cA01"][ChrSetXY layer=4 x=324 y=0][trans_c cross time=150]
 
@@ -276,26 +267,26 @@
 [fc]
 [vo_aya s="aya_0726"]
 [ns]Aya[nse]
-「梢さん……気にしないでください」[pcms]
+"Kozue-san...don't worry about it."[pcms]
 
 *8340|
 [fc]
 [ns]Daisuke[nse]
-「ほら、いつまでも泣いてるな。な、梢」[pcms]
+"Hey, don't cry forever. Right, Kozue?"[pcms]
 
 *8341|
 [fc]
 [vo_koz s="kozu_0542"]
 [ns]Kozue[nse]
-「うん……うっっく……」[pcms]
+"Yeah...uhukk..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8342|
 [fc]
-梢の怒りは涙と一緒に急速に流れ落ちたようだった。[r]
-俺が知っているいつもの梢に戻って、ぐしぐしと自分の涙を[r]
-こすり取っていた。[pcms]
+Kozue's anger seemed to wash away with her tears as quickly as it had[r]
+come. She returned to the Kozue I knew, rubbing away her tears[r]
+vigorously.[pcms]
 
 ;//〆：D0030へ
 [jump storage="D0030.ks" target=*D0030_TOP]

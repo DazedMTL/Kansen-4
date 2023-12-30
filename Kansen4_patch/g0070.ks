@@ -691,20 +691,20 @@ back on me with a huff.[pcms]
 
 *8286|
 [fc]
-ふざけていないで……？[pcms]
+Stop messing around...?[pcms]
 
 *8287|
 [fc]
-ふざけてるのはどっちの方なんだっ！[pcms]
+Who's the one messing around here![pcms]
 
 *8288|
 [fc]
-俺の胸に怒りの炎が燃えさかる。[pcms]
+A flame of anger burns in my chest.[pcms]
 
 *8289|
 [fc]
-俺は逃げることなく堂々と真坂さんの後ろに立つと、[r]
-その背中を後ろから羽交い締めにした。[pcms]
+Without running away, I stood boldly behind Masaka-san and restrained[r]
+her from behind in a back hug.[pcms]
 
 [ChrSetEx layer=5 chbase="ma_aA05"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
 
@@ -712,12 +712,12 @@ back on me with a huff.[pcms]
 [fc]
 [vo_aya s="aya_1547"]
 [ns]Aya[nse]
-「きゃああっ！　仙道君！？　何をするの！！」[pcms]
+"Kyaaah! Sendou-kun!? What are you doing!!"[pcms]
 
 *8291|
 [fc]
 [ns]Daisuke[nse]
-「なにをするかだって……？　こうするんだよっ！」[pcms]
+"What am I doing...? I'm doing this!"[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//嶺岸・ノイズ止まるのでもう一度挿入
@@ -757,41 +757,40 @@ back on me with a huff.[pcms]
 
 *8292|
 [fc]
-後ろから真坂さんを押さえ込んだ俺は、[r]
-入り口のガラスに押しつけるようにして拘束した。[pcms]
+While holding Masaka-san from behind, I restrained her against the[r]
+entrance glass.[pcms]
 
 *8293|
 [fc]
-真坂さんは身体をねじって抵抗するけれど、[r]
-女の力じゃ男には勝てない。[pcms]
+Masaka-san twisted her body to resist, but a woman's strength can't[r]
+beat a man's.[pcms]
 
 *8294|
 [fc]
 [vo_aya s="aya_1548"]
 [ns]Aya[nse]
-「ちょっと、離してください！[r]
-　冗談で済むことと済まないことがあります！」[pcms]
+"Please, let go! There are jokes that are okay and those that are[r]
+not!"[pcms]
 
 *8295|
 [fc]
 [ns]Daisuke[nse]
-「冗談なんかじゃないさ、だから済まさなくていいよ！」[pcms]
+"This is no joke, so there's no need to let it go!"[pcms]
 
 *8296|
 [fc]
 [vo_aya s="aya_1549"]
 [ns]Aya[nse]
-「きゃっ！」[pcms]
+"Kyah!"[pcms]
 
 *8297|
 [fc]
-俺はガンッとガラスに打ち付けるように[r]
-真坂さんを威嚇する。[pcms]
+I intimidate Masaka-san by slamming her against the glass with a thud.[pcms]
 
 *8298|
 [fc]
-もともとそんなに活発じゃない真坂さんなら、[r]
-二、三発乱暴に扱ってやれば大人しくなるだろう。[pcms]
+Masaka-san isn't usually very active, so if I handle her roughly a few[r]
+times, she'll quiet down.[pcms]
 
 ;//♂：感染者のネームチップに合わせて名前を変えてください
 ;//♂：登場するのは「感染者Ａ」「感染者Ｂ」「感染者Ｃ」「感染者Ｄ」です
@@ -799,59 +798,58 @@ back on me with a huff.[pcms]
 *8299|
 [fc]
 [ns]Infected Person A[nse]
-「襲ってる、あいつ女を襲ってるぞ」[pcms]
+"He's attacking her, that guy is attacking a woman."[pcms]
 
 *8300|
 [fc]
 [ns]Infected Person B[nse]
-「いいな、ずるいんだな」[pcms]
+"Lucky him, that's not fair."[pcms]
 
 *8301|
 [fc]
-ガラス一枚隔てた向こうでは、男達が[r]
-うらやましそうに俺を眺めていた。[pcms]
+On the other side of the glass pane, the men were looking at me with[r]
+envy.[pcms]
 
 *8302|
 [fc]
-今にもよだれを垂らしそうな間抜け面が、[r]
-俺の独占欲を満たしていく。[pcms]
+Their foolish faces, almost drooling, were satisfying my[r]
+possessiveness.[pcms]
 
 *8303|
 [fc]
-真坂さんは俺のモノだ。[pcms]
+Masaka-san is mine.[pcms]
 
 *8304|
 [fc]
 [vo_aya s="aya_1550"]
 [ns]Aya[nse]
-「なにをするんですかっ！　やめてください！」[pcms]
+"What are you doing!? Please stop!"[pcms]
 
 *8305|
 [fc]
-俺は真坂さんのスカートをまさぐると、[r]
-それをめくり上げて下着を下ろす。[pcms]
+I fondled Masaka-san's skirt and then lifted it up, pulling down her[r]
+panties.[pcms]
 
 *8306|
 [fc]
-無理矢理押さえつけて衣服を剥ぐときが、[r]
-最高に興奮する瞬間だった。[pcms]
+The moment when I forcefully hold her down and strip off her clothes[r]
+is the most thrilling.[pcms]
 
 *8307|
 [fc]
 [ns]Daisuke[nse]
-「なにをするって、決まってるだろう。[r]
-　あいつ等にたっぷりと見せつけてやろうぜ！」[pcms]
+"What am I doing? It's obvious, isn't it? Let's give them a good[r]
+show!"[pcms]
 
 *8308|
 [fc]
 [vo_aya s="aya_1551"]
 [ns]Aya[nse]
-「いやぁぁぁぁぁぁっ！」[pcms]
+"Noooooo!"[pcms]
 
 *8309|
 [fc]
-俺は真坂さんの背後から押し込むようにして[r]
-自分のモノを挿入していった。[pcms]
+I pushed my way into Masaka-san from behind.[pcms]
 
 ;//♯_レッドフラッシュ
 ;//ma_H024
@@ -860,85 +858,85 @@ back on me with a huff.[pcms]
 *8310|
 [fc]
 [ns]Daisuke[nse]
-「うぐううっ！　キツイっ！　狭いいいいいっ！」[pcms]
+"Uguuu! It's tight! So tight!"[pcms]
 
 *8311|
 [fc]
 [vo_aya s="aya_1552"]
 [ns]Aya[nse]
-「ああああああああっ！　痛いですっ！」[pcms]
+"Aaaaaah! It hurts!"[pcms]
 
 *8312|
 [fc]
-まったく濡れていない真坂さんのアソコは、俺のモノを[r]
-やっと受け入れられるくらいの余裕しかない。[pcms]
+Masaka-san's pussy, not wet at all, barely had enough room to accept[r]
+me.[pcms]
 
 *8313|
 [fc]
-いきなりの挿入に、真坂さんは痛みを訴えているけれど[r]
-俺は関係無しに腰を前後させていく。[pcms]
+Despite the sudden penetration, Masaka-san was complaining of pain,[r]
+but I kept moving my hips back and forth regardless.[pcms]
 
 *8314|
 [fc]
 [vo_aya s="aya_1553"]
 [ns]Aya[nse]
-「やめてくださいっ！　痛いですっ！　無理なんですっ！」[pcms]
+"Please stop! It hurts! It's impossible!"[pcms]
 
 *8315|
 [fc]
 [ns]Daisuke[nse]
-「無理じゃないだろうがっ！　ちゃんとできるだろう！」[pcms]
+"It's not impossible! You can do it!"[pcms]
 
 *8316|
 [fc]
-ガラス越しの感染者達が真坂さんの押しつけられている[r]
-ところに集まってくる。[pcms]
+The infected on the other side of the glass were gathering around to[r]
+see Masaka-san being pressed against it.[pcms]
 
 *8317|
 [fc]
-どいつも仲間に入りたくて仕方ない顔をしている。[pcms]
+Each one of them had a face that screamed they couldn't wait to join[r]
+in.[pcms]
 
 *8318|
 [fc]
-でも駄目だ。[pcms]
+But that's not possible.[pcms]
 
 *8319|
 [fc]
-真坂さんは俺の仲間なんだから。[pcms]
+Because Masaka-san is my partner.[pcms]
 
 *8320|
 [fc]
 [vo_aya s="aya_1554"]
 [ns]Aya[nse]
-「ひいいいいっ！　仙道くんっ！　落ち着いてくださいっ！」[pcms]
+"Hiiii! Sendou-kun, please calm down!"[pcms]
 
 *8321|
 [fc]
-感染者たちはガラスの向こうの真坂さんに[r]
-ぴったりとくっついて不気味な顔を寄せてきていた。[pcms]
+The infected were sticking close to Masaka-san on the other side of[r]
+the glass, making creepy faces at her.[pcms]
 
 *8322|
 [fc]
-真坂さんはそれを怖がっているのか、[r]
-妙に怯えて顔を背けている。[pcms]
+Masaka-san seemed frightened by this, turning her face away in fear.[pcms]
 
 *8323|
 [fc]
 [vo_aya s="aya_1555"]
 [ns]Aya[nse]
-「ああああっ！　こ、こんなことをしてなんになるんですか！[r]
-　これじゃ仙道君は犯罪者ですよっ！」[pcms]
+"Aaaaah! What's the point of doing this? This makes you a criminal,[r]
+Sendou-kun!"[pcms]
 
 *8324|
 [fc]
 [ns]Daisuke[nse]
-「きんもちいい、もっと締め付けてくれぇっ！」[pcms]
+"Feels so good, squeeze me tighter!"[pcms]
 
 *8325|
 [fc]
 [vo_aya s="aya_1556"]
 [ns]Aya[nse]
-「ああっ、最低っ！　アナタは最低ですっ！」[pcms]
+"Ahh, you're the worst! You are the lowest!"[pcms]
 
 *8326|
 [fc]
