@@ -2059,6 +2059,6 @@ Once more, with everyone...[pcms]
 ;//→ゲームオーバー
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 
 ;//----------------------------------------------------------

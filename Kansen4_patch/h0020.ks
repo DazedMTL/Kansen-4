@@ -688,5 +688,5 @@ heat.[pcms]
 ;//〆：バカエンドムービー
 ;//◎_mv_009.bmp
 [movie storage="mv_009.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 

@@ -857,6 +857,6 @@ Ah, wait... There was something I had to do... I'm sure of it...[pcms]
 ;//→ゲームオーバー。
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 
 ;//----------------------------------------------------------

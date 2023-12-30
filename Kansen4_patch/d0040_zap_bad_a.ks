@@ -879,6 +879,6 @@ disappeared along with the pain that started again.[pcms]
 
 ;//→ゲームオーバー
 [movie storage="gameover.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 
 ;//----------------------------------------------------------

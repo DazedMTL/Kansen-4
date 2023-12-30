@@ -915,5 +915,5 @@ Why, I wonder? What is happening to my body?[pcms]
 ;//→ゲームオーバーへ。
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 

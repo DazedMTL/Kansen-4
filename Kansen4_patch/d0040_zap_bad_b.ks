@@ -281,5 +281,5 @@ gravity and fell.[pcms]
 ;//→ゲームオーバーへ
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 

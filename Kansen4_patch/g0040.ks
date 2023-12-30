@@ -4035,5 +4035,5 @@ face.[pcms]
 ;//→ゲームオーバー
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 

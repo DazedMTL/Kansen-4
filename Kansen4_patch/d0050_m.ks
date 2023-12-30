@@ -81,5 +81,5 @@ earth.[pcms]
 ;//_gameover.bmp
 ;//—äŠİEmv_008‚É•ÏX
 [movie storage="mv_008.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 

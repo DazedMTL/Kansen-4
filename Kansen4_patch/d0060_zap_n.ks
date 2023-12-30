@@ -2264,7 +2264,7 @@ Goodbye, my treasure. Make sure Daisuke-niichan picks it up properly.[pcms]
 
 *2788|
 [fc]
-[returntitle][pcms]
+[returntitle][s]
 
 [gameover]
 
@@ -2272,5 +2272,5 @@ Goodbye, my treasure. Make sure Daisuke-niichan picks it up properly.[pcms]
 ;//→ゲームオーバー
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 

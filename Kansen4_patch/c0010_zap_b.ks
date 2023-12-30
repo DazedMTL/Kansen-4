@@ -1400,6 +1400,6 @@ Anyone will do.[pcms]
 
 ;//♂：便宜的に、ここでゲームオーバーの処理を
 [movie storage="gameover.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 
 ;//----------------------------------------------------------

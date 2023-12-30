@@ -536,6 +536,6 @@ as we're together, we should be able to go anywhere.[pcms]
 [endif]
 
 
-[returntitle][pcms]
+[returntitle][s]
 
 ;//----------------------------------------------------------

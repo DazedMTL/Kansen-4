@@ -2309,5 +2309,5 @@ truly became a messenger of God.[pcms]
 ;//→ゲームオーバー
 ;//◎_mv_009.bmp
 [movie storage="mv_009.mpg"]
-[returntitle][pcms]
+[returntitle][s]
 
