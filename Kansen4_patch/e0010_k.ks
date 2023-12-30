@@ -28,7 +28,6 @@ should get Aya-san or Makoto to take over.[pcms]
 ;//２．マコトを連れて行く→ラベルC2_3へ
 ;	[link storage="E0010_K.ks" target=*E0010_L]真坂さんを連れて行く[endlink]
 ; (link storage="E0010_K.ks" target=*E0010_M)Take Makoto with[r]
-you(endlink)[pcms]
 
 *SEL20|真坂さんを連れて行く／マコトを連れて行く
 [fc]
