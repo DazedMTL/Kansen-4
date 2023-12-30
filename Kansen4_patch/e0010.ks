@@ -201,8 +201,6 @@ it. So who should be the first one to go with me?[pcms]
 ;	[link storage="E0010_A.ks" target=*E0010_A]真坂さんを連れて行く[endlink]
 ;	[link storage="E0010_B.ks" target=*E0010_B]マコトを連れて行く[endlink]
 ;       (link storage="E0010_C.ks" target=*E0010_C)Take Kozue with[r]
-you(endlink)[pcms]
-
 
 *SEL17|真坂さんを連れて行く／マコトを連れて行く／梢を連れて行く
 [fc]
