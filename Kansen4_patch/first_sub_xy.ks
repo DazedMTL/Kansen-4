@@ -693,7 +693,7 @@
 
 ;選択肢の座標を配列で用意
 [eval exp="sf.selold_x = []"]
-[eval exp="sf.selold_x[0] = (1024-800)/2"]
+[eval exp="sf.selold_x[0] = (1024-800)/4"]
 ;座標とマクロ位置合わせにくいから[1]から使用する
 ;[eval exp="sf.selold_y = [0,100,150,200,250,300,350,400,450,500]"]
 ;800600だと４こ（１３５７）にしたときに７がウィンドウに被ってかっこ悪いから全体的に調整
@@ -715,7 +715,7 @@
 ;選択肢のフォントサイズ定義
 ;[eval exp="sf.selfont = 24"]
 ;選択肢のフォントサイズ定義
-[eval exp="sf.seltext_size = 20"]
+[eval exp="sf.seltext_size = 18"]
 ;文字列のマージントップ
 [eval exp="sf.sel_text_mt = 8"]
 
