@@ -198,7 +198,7 @@ all it said.[pcms]
 ;//あとTW3000もプラスで。
 ;//そのあとでエンドムービー再生になります
 
-Clear flag established[pcms]
+;/〆：クリアフラグ成立[r]
 ;//♂：アペンディクス開放
 [eval exp="sf.g_clear = 1"]
 ;<Mov g_memory,1>
