@@ -2334,6 +2334,6 @@ worst part...[pcms]
 ;//ゲームオーバーB2
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][pcms]
 
 ;//----------------------------------------------------------

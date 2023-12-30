@@ -772,7 +772,7 @@ everyone...[pcms]
 
 *1283|
 [fc]
-(returntitle)[pcms]
+[returntitle][pcms]
 
 ;//♂：以下、イベント絵が全裸等の場合追加用テキスト
 ;//♂：コメントアウトしておきます
@@ -782,7 +782,7 @@ everyone...[pcms]
 
 *1284|
 [fc]
-(returntitle)[pcms]
+[returntitle][pcms]
 
 ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ; 回想モード中なら、回想モード画面に戻る
@@ -798,5 +798,5 @@ everyone...[pcms]
 ;//→ゲームオーバーへ
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][pcms]
 

@@ -1407,5 +1407,5 @@ without care...[pcms]
 ;//→ゲームオーバー
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][pcms]
 

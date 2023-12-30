@@ -1723,5 +1723,5 @@ Right, everyone...?[pcms]
 ;//〆：エンドムービー
 ;//◎_mv_009.bmp
 [movie storage="mv_009.mpg"]
-(returntitle)[pcms]
+[returntitle][pcms]
 

@@ -460,6 +460,6 @@ face, as if all her worries had been swept away.[pcms]
 [endif]
 
 
-(returntitle)[pcms]
+[returntitle][pcms]
 
 ;//----------------------------------------------------------

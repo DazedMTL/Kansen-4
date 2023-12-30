@@ -1779,6 +1779,6 @@ Why is it so cold...? Even though it's still summer...[pcms]
 ;//→ゲームオーバーA2
 ;//◎_gameover.bmp
 [movie storage="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][pcms]
 
 ;//----------------------------------------------------------

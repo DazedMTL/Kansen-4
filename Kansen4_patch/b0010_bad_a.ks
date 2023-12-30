@@ -1448,6 +1448,6 @@ Cold... so cold...[pcms]
 [eval exp="sf.g_bad_0010 = 1"]
 
 
-(returntitle)[pcms]
+[returntitle][pcms]
 
 ;//----------------------------------------------------------

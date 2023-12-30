@@ -3092,5 +3092,5 @@ Amidst the sound of the waves, I felt like I could hear Kozue's voice.[pcms]
 [endif]
 
 
-(returntitle)[pcms]
+[returntitle][pcms]
 

@@ -226,5 +226,5 @@ Clear flag established[pcms]
 [endif]
 
 
-(returntitle)[pcms]
+[returntitle][pcms]
 
