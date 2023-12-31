@@ -350,7 +350,7 @@ naked. Completely bare, all four of them surrounded me.[pcms]
 
 *7811|
 [fc]
-Moreover, my {Noun_1} was snugly inside Kozue's {Noun_2}. Kozue was[r]
+Moreover, my dick was snugly inside Kozue's pussy. Kozue was[r]
 bouncing up and down on top of me, swinging her hips.[pcms]
 
 *7812|
@@ -370,13 +370,13 @@ bouncing up and down on top of me, swinging her hips.[pcms]
 [vo_koz s="kozu_0501"]
 [ns]Kozue[nse]
 "Uhh... yes. Ahh, Saeko-san's... ah, your fingers are kneading my[r]
-{Noun_2}... ahhn, it feels good!"[pcms]
+pussy... ahhn, it feels good!"[pcms]
 
 *7815|
 [fc]
 Saeko-san reached around from behind Kozue, kneading and twirling her[r]
-{Noun_2} with her fingers. Occasionally, her fingertips would slickly[r]
-slide over my {Noun_1}, sending a shiver through my hips.[pcms]
+pussy with her fingers. Occasionally, her fingertips would slickly[r]
+slide over my clit, sending a shiver through my hips.[pcms]
 
 *7816|
 [fc]
@@ -430,7 +430,7 @@ blushing.[pcms]
 
 *7823|
 [fc]
-Aya-san's tongue would occasionally lick up my {Noun_1} too, eliciting[r]
+Aya-san's tongue would occasionally lick up my dick too, eliciting[r]
 a shiver of pleasure.[pcms]
 
 *7824|
@@ -526,7 +526,7 @@ my tongue."[pcms]
 [vo_aya s="aya_0630"]
 [ns]Aya[nse]
 "Slurp suck... mmmk mmm. Haa... it's delicious. It's so delicious my[r]
-brain is tingling. My {Noun_2} is throbbing... ahh... mmm."[pcms]
+brain is tingling. My pussy is throbbing... ahh... mmm."[pcms]
 
 *7838|
 [fc]
@@ -540,14 +540,14 @@ their bodies in ecstasy as they showed themselves off to me.[pcms]
 [fc]
 [vo_koz s="kozu_0507"]
 [ns]Kozue[nse]
-"Aaahh, it's good, it feels so good! My {Noun_2} feels amazing...![r]
+"Aaahh, it's good, it feels so good! My pussy feels amazing...![r]
 Ahh, aahh, more, more, make it feel even better!"[pcms]
 
 *7840|
 [fc]
 [vo_sae s="sae_0301"]
 [ns]Saeko[nse]
-"Ah, amazing Kozue-chan's {Noun_2}. It feels like it's going to[r]
+"Ah, amazing Kozue-chan's pussy. It feels like it's going to[r]
 swallow up even my fingers. You're feeling good aren't you, Kozue-[r]
 chan? Ufufu. I'll make you feel even better."[pcms]
 
