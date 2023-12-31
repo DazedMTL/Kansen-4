@@ -350,14 +350,14 @@ naked. Completely bare, all four of them surrounded me.[pcms]
 
 *7811|
 [fc]
-Moreover, my dick was snugly inside Kozue's pussy. Kozue was[r]
-bouncing up and down on top of me, swinging her hips.[pcms]
+Moreover, my dick was snugly inside Kozue's pussy. Kozue was bouncing[r]
+up and down on top of me, swinging her hips.[pcms]
 
 *7812|
 [fc]
 [vo_koz s="kozu_0500"]
 [ns]Kozue[nse]
-"Haaa... nnn... Daisuke-niichan's feels so good..."[pcms]
+"Haaa... nnn... Daisuke-niichan's dick feels so good..."[pcms]
 
 *7813|
 [fc]
@@ -430,8 +430,8 @@ blushing.[pcms]
 
 *7823|
 [fc]
-Aya-san's tongue would occasionally lick up my dick too, eliciting[r]
-a shiver of pleasure.[pcms]
+Masaka-san's tongue occasionally licked up my dick as well, eliciting[r]
+a thrilling pleasure.[pcms]
 
 *7824|
 [fc]
@@ -540,16 +540,16 @@ their bodies in ecstasy as they showed themselves off to me.[pcms]
 [fc]
 [vo_koz s="kozu_0507"]
 [ns]Kozue[nse]
-"Aaahh, it's good, it feels so good! My pussy feels amazing...![r]
-Ahh, aahh, more, more, make it feel even better!"[pcms]
+"Aaahh, it's good, it feels so good! My pussy feels amazing...! Ahh,[r]
+aahh, more, more, make it feel even better!"[pcms]
 
 *7840|
 [fc]
 [vo_sae s="sae_0301"]
 [ns]Saeko[nse]
-"Ah, amazing Kozue-chan's pussy. It feels like it's going to[r]
-swallow up even my fingers. You're feeling good aren't you, Kozue-[r]
-chan? Ufufu. I'll make you feel even better."[pcms]
+"Ah, amazing Kozue-chan's pussy. It feels like it's going to swallow[r]
+up even my fingers. You're feeling good aren't you, Kozue- chan?[r]
+Ufufu. I'll make you feel even better."[pcms]
 
 *7841|
 [fc]
