@@ -187,9 +187,11 @@ if those kind eyes were saying they were glad everything was okay.[pcms]
 
 *4955|
 [fc]
-Once again, I could hear their groaning voices from outside. (ChrSetEx[r]
-layer=5 chbase="sn_bA02")(ChrSetXY layer=5 x=162 y=0)(trans_c cross[r]
-time=150) Daisuke's face hardened as he glared outside the window. The[r]
+Once again, I could hear their groaning voices from outside. 
+
+[ChrSetEx layer=5 chbase="sn_bA02"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
+
+Daisuke's face hardened as he glared outside the window. The[r]
 gentle gaze he had shown me had vanished.[pcms]
 
 ;//se‘¦Žž’âŽ~

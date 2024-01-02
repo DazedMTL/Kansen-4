@@ -173,8 +173,11 @@ me. His smile eased my heart a little.[pcms]
 *4991|
 [fc]
 Again, the groaning voices of the men could be heard faintly from[r]
-outside. (ChrSetEx layer=5 chbase="sn_bA02")(ChrSetXY layer=5 x=162[r]
-y=0)(trans_c cross time=150)Daisuke-niichan's face turned stern as he[r]
+outside. 
+
+[ChrSetEx layer=5 chbase="sn_bA02"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
+
+Daisuke-niichan's face turned stern as he[r]
 glared outside the window. The kind gaze he had given me had vanished.[pcms]
 
 ;//se‘¦’â~

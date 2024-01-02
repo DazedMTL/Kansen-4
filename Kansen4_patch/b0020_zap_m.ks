@@ -197,9 +197,11 @@ glad.[pcms]
 *4905|
 [fc]
 Once again, the groaning voices of the men could be heard faintly from[r]
-outside. (ChrSetEx layer=5 chbase="sn_bA02")(ChrSetXY layer=5 x=162[r]
-y=0)(trans_c cross time=150)Sendou-kun's face hardened as he glared[r]
-outside through the window. The gentle look he had given me had[r]
+outside. 
+[ChrSetEx layer=5 chbase="sn_bA02"][ChrSetXY layer=5 x=162 y=0][trans_c cross time=150]
+
+Sendou-kun's face hardened as he glared outside through the window.[r]
+The gentle look he had given me had[r]
 vanished.[pcms]
 
 ;//se‘¦Žž’âŽ~
